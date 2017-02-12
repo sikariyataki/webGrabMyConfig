@@ -1,0 +1,353 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>XMLTV GUI: Lua Data Types</title>
+  <link title="xmltv" rel="stylesheet" href="../xmltv.css"
+ type="text/css">
+</head>
+<body>
+<span class="typename"><a name="channel"></a>Channel</span><br>
+Table to hold all details of a channel<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">ID:</span> <span class="paramtype">String.</span>
+Unique ID used
+internally by the GUI and the grabber</li>
+  <li><span class="tablemembers">XML_ID:</span> <span class="paramtype">String.</span>
+Unique ID
+written to the XML file. If not specified then an ID in the form of
+"[Grabber Name]_[ID]" is used</li>
+  <li><span class="tablemembers">Name:</span> <a
+ href="#xmltvstringlist"><span class="paramtype">XMLTVStringList.</span></a>
+Display name(s) for the channel</li>
+  <li><span class="tablemembers">Icon:</span> <a href="#iconlist"><span
+ class="paramtype">IconList.</span></a>
+Channel icon(s) (optional)</li>
+  <li><span class="tablemembers">URL:</span> <a href="#stringlist"><span
+ class="paramtype">StringList.</span></a> URL(s) for the channel
+(optional)</li>
+</ul>
+<span class="typename"><a name="xmltvstringlist"></a>XMLTVStringList</span><br>
+Table containing a list of <a href="#xmltvstring"><span
+ class="paramtype">XMLTVStrings</span></a> or a
+single <a href="#xmltvstring"><span class="paramtype">XMLTVString</span></a><br>
+<br>
+<a name="xmltvstring"></a><span class="typename">XMLTVString</span><br>
+A single <span class="paramtype">string</span> or
+a table containing a string and its language<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Value:</span> <span class="paramtype">String.</span>
+Value of
+the string</li>
+  <li><span class="tablemembers">Lang: </span><span class="paramtype">String.</span>
+Language of the
+string (optional)</li>
+</ul>
+<span class="typename"><a name="iconlist"></a>IconList</span><br>
+A single <a href="#icon"><span class="paramtype">Icon</span></a>
+or a table containing a list of <a href="#icon">Icons</a><br>
+<br>
+<a name="icon"></a><span class="typename">Icon</span><br>
+Table to hold the details of an Icon<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Source: </span><span class="paramtype">String.</span><span
+ class="tablemembers"> </span>Source of the icon</li>
+  <li><span class="tablemembers">Width:</span> <span class="paramtype">Number.</span>
+Width of
+the icon (optional)</li>
+  <li><span class="tablemembers">Height:</span> <span class="paramtype">Number.</span>
+Height of
+the icon (optional)</li>
+</ul>
+<a name="stringlist"></a><span class="typename">StringList</span><br>
+A single <span class="paramtype">string</span> or a
+table containing a list of <span class="paramtype">strings<br>
+<br>
+</span><a name="program"></a><span class="typename">Program</span><br>
+A table to hold all the details of a program<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">ID:</span> <span class="paramtype">String.</span>
+Unique ID to identify
+the program internally (optional)</li>
+  <li><span class="tablemembers">Channel:</span> <span
+ class="paramtype">String.</span> The
+channel the program will be broadcast on, this must&nbsp;match
+exactly the internal ID&nbsp;of one of the channels</li>
+  <li><span class="tablemembers">Start:</span> <a href="#time"><span
+ class="paramtype">Time.</span></a>
+The time the program starts</li>
+  <li><span class="tablemembers">Stop:</span> <a href="#time"><span
+ class="paramtype">Time.</span></a>
+The time the program ends (optional)</li>
+  <li><span class="tablemembers">PDCStart:</span> <a href="#time"><span
+ class="paramtype">Time.</span></a>
+The PDC start time (optional)</li>
+  <li><span class="tablemembers">VPSStart:</span> <a href="#time"><span
+ class="paramtype">Time.</span></a>
+The VPS start time (optional)</li>
+  <li><span class="tablemembers">ShowView:</span> <span
+ class="paramtype">String.</span> Gemstar's
+Showview code (optional)</li>
+  <li><span class="tablemembers">VideoPlus:</span> <span
+ class="paramtype">String.</span> VideoPlus
+code (optional)</li>
+  <li><span class="tablemembers">Clump:</span> <span class="paramtype">String.</span>
+Clump idx
+(optional)</li>
+  <li><span class="tablemembers">Title:</span> <a
+ href="#xmltvstringlist"><span class="paramtype">XMLTVStringList.</span></a>
+Program's title(s)</li>
+  <li><span class="tablemembers">Sub_Title:</span> <a
+ href="#xmltvstringlist"><span class="paramtype">XMLTVStringList.</span></a>
+Program's sub title(s) (optional)</li>
+  <li><span class="tablemembers">Description:</span> <a
+ href="#xmltvstringlist"><span class="paramtype">XMLTVStringList.</span></a>
+Program's description (optional)</li>
+  <li><span class="tablemembers">Credits:</span> <a href="#credits"><span
+ class="paramtype">Credits.</span></a>
+Program Credits (optional)</li>
+  <li><span class="tablemembers">Date:</span> <span class="paramtype">String.</span>
+Programs production
+date (optional)</li>
+  <li><span class="tablemembers">Category:</span> <a
+ href="#xmltvstringlist"><span class="paramtype">XMLTVStringList.</span></a>
+Program's category(ies) (optional)</li>
+  <li><span class="tablemembers">Lang:</span> <a href="#xmltvstring"><span
+ class="paramtype">XMLTVString.</span></a>
+Programs language (optional)</li>
+  <li><span class="tablemembers">OriginalLang:</span> <a
+ href="#xmltvstring"><span class="paramtype">XMLTVString.</span></a>
+Programs original language (optional)</li>
+  <li><span class="tablemembers">Length:</span> <a href="#length"><span
+ class="paramtype">Length.</span></a>
+Program length (excluding adverts etc.) (optional)</li>
+  <li><span class="tablemembers">Icon:</span> <a href="#iconlist"><span
+ class="paramtype">IconList.</span></a>
+Program icon(s) (optional)</li>
+  <li><span class="tablemembers">URL:</span> <a href="#stringlist"><span
+ class="paramtype">StringList.</span></a>
+URL(s) for the program (optional)</li>
+  <li><span class="tablemembers">Country:</span> <a
+ href="#xmltvstringlist"><span class="paramtype">XMLTVStringList.</span></a>
+Country(ies) program was made in (optional)</li>
+  <li><span class="tablemembers">Episode:</span> <a href="#episode"><span
+ class="paramtype">Episode.</span></a>
+Program episode number (optional)</li>
+  <li><span class="tablemembers">Video:</span> <a href="#video"><span
+ class="paramtype">Video.</span></a>
+Program video information (optional)</li>
+  <li><span class="tablemembers">Audio:</span> <a href="#audio"><span
+ class="paramtype">Audio.</span></a>
+Program audio information (optional)</li>
+  <li><span class="tablemembers">PreviouslyShown:</span> <a
+ href="#previous"><span class="paramtype">PreviouslyShown.</span></a>
+States whether program has previously been shown (optional)</li>
+  <li><span class="tablemembers">Premiere:</span> <a
+ href="#xmltvstring"><span class="paramtype">XMLTVString.</span></a>
+States
+whether a program is a premiere, the string value describes the
+premiere e.g. "First showing on national terrestrial TV". If this
+element is absent the program will not be marked as a premiere
+(optional)</li>
+  <li><span class="tablemembers">LastChance:</span>&nbsp;<a
+ href="#xmltvstring"><span class="paramtype">XMLTVString.</span></a>
+Similar to the <span class="tablemembers">Premiere</span>
+item, says that this is the last time the program will be shown on this
+channel (optional)</li>
+  <li><span class="tablemembers">New:</span> <span class="paramtype">Boolean.</span>
+If true the program
+is the first program from a new show and this is the first time it has
+been shown (not to be used for new a series, for that use <span
+ class="tablemembers">Episode</span>) (optional)</li>
+  <li><span class="tablemembers">Subtitles:</span> <a href="#subtitles"><span
+ class="paramtype">Subtitles.</span></a>
+Describes whether a program has subtitles and their type. (optional)</li>
+  <li><span class="tablemembers">Rating:</span> <a href="#ratings"><span
+ class="paramtype">Ratings.</span></a>
+The program's age classification (optional)</li>
+  <li><span class="tablemembers">StarRating:</span> <a
+ href="#starrating"><span class="paramtype">StarRating.</span></a>
+A measure of how good the program is (optional)</li>
+</ul>
+<a name="time"></a><span class="typename">Time</span><br>
+A table to hold a date and time. All times should be specified in UTC (+0000)<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Year:</span> <span class="paramtype">Number.</span></li>
+  <li><span class="tablemembers">Month:</span> <span class="paramtype">Number.</span></li>
+  <li><span class="tablemembers">Day:</span> <span class="paramtype">Number.</span></li>
+  <li><span class="tablemembers">Hour:</span> <span class="paramtype">Number.</span></li>
+  <li><span class="tablemembers">Minute:</span> <span class="paramtype">Number</span></li>
+  <li><span class="tablemembers">Second:</span> <span class="paramtype">Number</span></li>
+</ul>
+<a name="credits"></a><span class="typename">Credits</span><br>
+A table to hold a program's credits<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Director:</span><a href="#stringlist"><span
+ class="paramtype">
+StringList.</span></a> Program director(s) (optional)</li>
+  <li><span class="tablemembers">Actor:</span> <a href="#castlist"><span
+ class="paramtype">CastList.</span></a>
+Program cast member(s) (optional)<span class="tablemembers"></span></li>
+  <li><span class="tablemembers">Writer:</span><a href="#stringlist"><span
+ class="paramtype">
+StringList.</span></a> Program writer(s) (optional)</li>
+  <li><span class="tablemembers">Adapter:</span><a href="#stringlist"><span
+ class="paramtype">
+StringList.</span></a> Program adapters(s) (optional)</li>
+  <li><span class="tablemembers">Producer:</span><a href="#stringlist"><span
+ class="paramtype">
+StringList.</span></a> Program producer(s) (optional)</li>
+  <li><span class="tablemembers">Presenter:</span><a href="#stringlist"><span
+ class="paramtype">
+StringList.</span></a> Program presenter(s) (optional)</li>
+  <li><span class="tablemembers">Commentators:</span><a
+ href="#stringlist"><span class="paramtype">
+StringList.</span></a> Program commentator(s) (optional)</li>
+  <li><span class="tablemembers">Guest:</span><a href="#stringlist"><span
+ class="paramtype">
+StringList.</span></a> Program guest(s) (optional)</li>
+</ul>
+<a name="castlist"></a><span class="typename">CastList</span><br>
+A single <a href="#castmember"><span class="paramtype">CastMember</span></a>
+or a list of <a class="paramtype" href="#castmember">CastMembers</a><br>
+<br>
+<a name="castmember"></a><span class="typename">CastMember</span><br>
+A cast member, either a single <span class="paramtype">string</span>
+for the actor's name or a table containing the actor and character name<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Actor:</span> <span class="paramtype">String.</span></li>
+  <li><span class="tablemembers">Character:</span> <span
+ class="paramtype">String. </span>(optional)</li>
+</ul>
+<a name="length"></a><span class="typename">Length</span><br>
+A table to hold the length of a program<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Length:</span> <span class="paramtype">Number.</span>
+Length of
+the program</li>
+  <li><span class="tablemembers">Units:</span><span class="paramtype">
+Number.</span> Units of the length,
+can have the following values:
+    <ul>
+      <li>XGUI.LengthUnits.Seconds</li>
+      <li>XGUI.LengthUnits.Minutes</li>
+      <li>XGUI.LengthUnits.Hours</li>
+    </ul>
+  </li>
+</ul>
+<a name="episode"></a><span class="typename">Episode</span><br>
+A table to hold a program's episode number<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Number:</span> <span class="paramtype">String.</span>
+Episode
+number</li>
+  <li><span class="tablemembers">System:</span><span class="paramtype">
+String.</span> Episode number
+system (see XMLTV DTD)</li>
+</ul>
+<a name="video"></a><span class="typename">Video</span><br>
+Program video information<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Present:</span> <span
+ class="paramtype">Boolean.</span> If true
+then the program has video else the program is audio only (optional,
+default: true)</li>
+  <li><span class="tablemembers">Colour:</span> <span class="paramtype">Boolean.</span>
+If true
+then the is colour else the program is black and white (optional,
+default: true)</li>
+  <li><span class="tablemembers">Aspect:</span> <span class="paramtype">String.</span>
+The
+aspect ratio of the program (optional)</li>
+  <li><span class="tablemembers">Quality:</span> <span
+ class="paramtype">String.</span> The
+quality of the picture (optional)</li>
+</ul>
+<a name="audio"></a><span class="typename">Audio</span><br>
+Program audio information<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Present:</span> <span
+ class="paramtype">Boolean.</span> If true
+then the program has audio else the program is silent (optional,
+default: true)</li>
+  <li><span class="tablemembers">Stereo:</span> <span class="paramtype">String.</span>
+Describes
+the "Stereoness" of the audio, can be "mono", "stereo", "dolby" or
+"surround" (optional)</li>
+</ul>
+<a name="previous"></a><span class="typename">PreviouslyShown</span><br>
+Boolean or table containing information about previous showing<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Channel:</span> <span
+ class="paramtype">String.</span> The
+channel the program was last shown on (optional)</li>
+  <li><span class="tablemembers">Start:</span> <span class="paramtype">String.
+    </span>The time
+the program was last shown (optional)</li>
+</ul>
+<a name="subtitles"></a><span class="typename">Subtitles</span><br>
+A table containing a list of <a href="#subtitle"><span
+ class="paramtype">Subtitles</span></a> or a
+single <a href="#subtitle"><span class="paramtype">Subtitle</span></a><br>
+<br>
+<a name="subtitle"></a><span class="typename">Subtitle</span><br>
+A number representing a subtitle type or a table containing a subtitle
+type and language<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Type: </span><span class="paramtype">Number.</span>
+The type of the
+subtitles, can have the following values
+    <ul>
+      <li>XGUI.SubtitlesType.Teletext</li>
+      <li>XGUI.SubtitlesType.OnScreen</li>
+    </ul>
+  </li>
+  <li><span class="tablemembers">Lang:</span> <a
+ href="types.html#xmltvstring"><span class="paramtype">XMLTVString.</span></a>
+The language of the
+subtitles (optional)</li>
+</ul>
+<a name="ratings"></a><span class="typename">Ratings</span><br>
+A table containing a list of <a href="#rating"><span class="paramtype">ratings</span></a>
+or a single <a href="#rating"><span class="paramtype">rating</span></a><br>
+<br>
+<a name="rating"></a><span class="typename">Rating</span><br>
+A <span class="paramtype">string</span> for the rating or a table
+containing rating details<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Value:</span> <span class="paramtype">String.</span>
+The rating value e.g. "PG"</li>
+  <li><span class="tablemembers">System:</span> <span class="paramtype">String.</span>
+The rating system or body e.g. "BBFC" in the UK (optional)</li>
+  <li><span class="tablemembers">Icon:</span> <a href="#iconlist"><span
+ class="paramtype">IconList.</span></a>
+Program icon(s) (optional)</li>
+</ul>
+<a name="starrating"></a><span class="typename">StarRating</span><br>
+Table containing a programs star rating<br>
+<span class="tablemembersheading">Table Members:</span><br>
+<ul>
+  <li><span class="tablemembers">Number:</span> <span class="paramtype">Number.</span></li>
+  <li><span class="tablemembers">OutOf:</span> <span class="paramtype">Number.</span></li>
+  <li><span class="tablemembers">Icon:</span> <a href="#iconlist"><span
+ class="paramtype">IconList.</span></a>
+Program icon(s) (optional)</li>
+</ul>
+<span class="paramtype"></span>
+</body>
+</html>

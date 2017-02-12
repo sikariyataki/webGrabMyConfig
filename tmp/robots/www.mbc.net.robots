@@ -1,0 +1,14 @@
+﻿User-agent: *
+Disallow:LICENSE.txt
+Disallow:NOTICE.txt
+Disallow:README.txt
+Disallow:/.imaging/
+Disallow: /*photo-render
+Disallow: /*render-page
+Disallow: /*currentPage
+Disallow: /*current-article
+Disallow:/rss/
+Disallow:/RadioStreamFeed/
+
+Sitemap: http://www.mbc.net/sitemap/sitemap_index.xml
+

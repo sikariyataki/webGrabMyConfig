@@ -1,0 +1,6 @@
+﻿User-agent: * 
+Allow: /
+Disallow: /store/checkout/
+Disallow: /store/basket/
+Disallow: /store/config/
+Sitemap: http://www.eirsport.ie/sitemap.xml

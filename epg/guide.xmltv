@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Watania 1">
+    <display-name lang="ar">Watania 1</display-name>
+    <url>http://www.watania.tn</url>
+  </channel>
+  <channel id="Watania 2">
+    <display-name lang="ar">Watania 2</display-name>
+    <url>http://www.watania.tn</url>
+  </channel>
+  <programme start="20170204000000 +0100" stop="20170204002000 +0100" channel="Watania 1">
+    <title lang="ar">نشرة منتصف الليل للأخبار</title>
+    <desc lang="ar">نشرة عن آخر تطورات الاحداث الآنية وحوصلة لأهم الأنباء الوطنية والعالمية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-00h.jpg?itok=aOn98TUM" />
+  </programme>
+  <programme start="20170204002000 +0100" stop="20170204002500 +0100" channel="Watania 1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">نشرة لأبرز التوقعات الجوية لهذا اليوم و الأيام القليلة القادمة</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/meteo_0.jpg?itok=KADBbbSM" />
+  </programme>
+  <programme start="20170204002500 +0100" stop="20170204012000 +0100" channel="Watania 1">
+    <title lang="ar">ناعورة الهواء</title>
+    <desc lang="ar">«ناعورة الهواء» مسلسل اجتماعي بوليسي، يتناول ظواهر اجرامية كالمتاجرة بالاعضاء، والمخدّرات، والدعارة المنظّمة، واستغلال الاطفال والفسال المالي، والتحرّش الجنسي، وذلك من خلال عصابة اجرامية دولية منظّمة تتستّر وراء مصحّة طبية خاصة، وسيتضمّن المسلسل شخصية صحفي استقصائي، وهذه الشخصية سيكون لها دور كبير في تغيير مجرى الأحداث وتطوّره</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/naouret%20elhwa.jpg?itok=el1lw4UF" />
+  </programme>
+  <programme start="20170204012000 +0100" stop="20170204015000 +0100" channel="Watania 1">
+    <title lang="ar">رواق الفنون</title>
+    <desc lang="ar">برنامج ثقافي تستلهم حلقاته عناوينها من رونق الفن والجمال وكل إبداع إنساني رائع وانتاج روحي جميل</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/beaux-arts.jpg?itok=iiqJdR0M" />
+  </programme>
+  <programme start="20170204015000 +0100" stop="20170204032000 +0100" channel="Watania 1">
+    <title lang="ar">في أسبوع</title>
+    <desc lang="ar">برنامج حواري لمناقشة الأحداث التي طبعت الساحة الوطنية خلال الأسبوع</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/emission-FiOsbouaa.jpg?itok=9n1SjZIH" />
+  </programme>
+  <programme start="20170204032000 +0100" stop="20170204035000 +0100" channel="Watania 1">
+    <title lang="ar">بصمات</title>
+    <desc lang="ar">فقرة  تعودون فيها كل مرة إلى ذكريات الزمن الجميل مع مختلف  مشاهير العالم العربي وفي تونس وما تركوه من بصمات إبداعية في مختلف المجالات</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/traces.jpg?itok=ctVO65BH" />
+  </programme>
+  <programme start="20170204035000 +0100" stop="20170204050500 +0100" channel="Watania 1">
+    <title lang="ar">حفل من مهرجان</title>
+    <desc lang="ar">حفل من مهرجان</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/hafel-minmahrajen.jpg?itok=QhJtbDCL" />
+  </programme>
+  <programme start="20170204050500 +0100" stop="20170204060000 +0100" channel="Watania 1">
+    <title lang="ar">الإسلام والعصر</title>
+    <desc lang="ar">برنامج ديني يعنى بإبراز القيم الإسلامية السمحة المستمدة من القرآن والسنة الشريفة</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/emission-IslamWalaasser_0.jpg?itok=bzh6QASo" />
+  </programme>
+  <programme start="20170204060000 +0100" stop="20170204060200 +0100" channel="Watania 1">
+    <title lang="ar">النشيد الرسمي</title>
+    <desc lang="ar">النشيد الرسمي</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/nachid.jpg?itok=XRzpsVtN" />
+  </programme>
+  <programme start="20170204060200 +0100" stop="20170204062000 +0100" channel="Watania 1">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لآيات من القرآن الكريم</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/koran.jpg?itok=Th-ZJbBN" />
+  </programme>
+  <programme start="20170204062000 +0100" stop="20170204064000 +0100" channel="Watania 1">
+    <title lang="ar">إبتهالات</title>
+    <desc lang="ar">لون فني ضارب بجذوره في التراث العربي ارتبط بحب الله وبالصفاء الروحي والسمو بالذات</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/ebtihalet.jpg?itok=nDE7z95n" />
+  </programme>
+  <programme start="20170204064000 +0100" stop="20170204072500 +0100" channel="Watania 1">
+    <title lang="ar">الإسلام والعصر</title>
+    <desc lang="ar">برنامج ديني يعنى بإبراز القيم الإسلامية السمحة المستمدة من القرآن والسنة الشريفة</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/emission-IslamWalaasser_0.jpg?itok=bzh6QASo" />
+  </programme>
+  <programme start="20170204072500 +0100" stop="20170204080000 +0100" channel="Watania 1">
+    <title lang="ar">محلاها بلادي</title>
+    <desc lang="ar">دعوة تقدمها سمية فارس للاستمتاع بحلاوة البلاد التونسية من خلال زيارة مختلف ولاياتها</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/mahleha_bledi.jpg?itok=Duhj8ks-" />
+  </programme>
+  <programme start="20170204080000 +0100" stop="20170204085000 +0100" channel="Watania 1">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">فقرة يومية لإسترخاء الأطفال</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/enfant.jpg?itok=IEsFv8vT" />
+  </programme>
+  <programme start="20170204085000 +0100" stop="20170204092000 +0100" channel="Watania 1">
+    <title lang="ar">المطبخ: إنت الشاف</title>
+    <desc lang="ar">جولة في كل مرة بين ازكى الروائح الشهية المنبعثة من الأكلات التونسية وغيرها ضمن برنامجكم  انت الشاف</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/TUNISIAN-FOOD.jpg?itok=Tn8wneEm" />
+  </programme>
+  <programme start="20170204092000 +0100" stop="20170204092500 +0100" channel="Watania 1">
+    <title lang="ar">طبخة على الماشي</title>
+    <desc lang="ar">رحلة في مطابخ العالم تأخذنا إليها طبخة علماشي</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/tabkha.jpg?itok=1MIYgJ3S" />
+  </programme>
+  <programme start="20170204092500 +0100" stop="20170204095000 +0100" channel="Watania 1">
+    <title lang="ar">رواق الفنون</title>
+    <desc lang="ar">برنامج ثقافي تستلهم حلقاته عناوينها من رونق الفن والجمال وكل إبداع إنساني رائع وانتاج روحي جميل</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/beaux-arts.jpg?itok=iiqJdR0M" />
+  </programme>
+  <programme start="20170204095000 +0100" stop="20170204103000 +0100" channel="Watania 1">
+    <title lang="ar">مسلسل الخطيئة</title>
+    <desc lang="ar">يتمحور المسلسل حول قضايا اجتماعية تدور حول الخطيئة الكبرى التي تsحب وراءها العديد من الخطايا...
+
+ياسين شاب ثري متزوج من امرأة عاش معها قصة حب طويلة، لكنه كالعديد من الرجال ينزلق إلى بئر الخيانة، وهو ما يطور الأمور بشكل خطير، فيدفع ثمنًا باهظًا لخيانته</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/khati3a1.jpg?itok=YKUwKhwG" />
+  </programme>
+  <programme start="20170204103000 +0100" stop="20170204130000 +0100" channel="Watania 1">
+    <title lang="ar">أهلا تونس</title>
+    <desc lang="ar">برنامج يعنى بمشاغل الجالية التونسية بالخارج واهتماماته</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/emission-ahlanTounis.jpg?itok=JJjjCGzH" />
+  </programme>
+  <programme start="20170204130000 +0100" stop="20170204132000 +0100" channel="Watania 1">
+    <title lang="ar">نشرة الظهر للأخبار</title>
+    <desc lang="ar">موعدكم الأول مع الأخبار في حوصلة لكل المستجدات الوطنية والدولية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/news-13h.jpg?itok=_xw9wqYd" />
+  </programme>
+  <programme start="20170204132000 +0100" stop="20170204132500 +0100" channel="Watania 1">
+    <title lang="ar">النشرة البحرية</title>
+    <desc lang="ar">أبرز التوقعات الجوية البحرية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/marine.jpg?itok=mRROQezu" />
+  </programme>
+  <programme start="20170204132500 +0100" stop="20170204133000 +0100" channel="Watania 1">
+    <title lang="ar">إصدارات تونسية</title>
+    <desc lang="ar">برنامج مقتضب يحاول التعريف بآخر الإصدارات الثقافية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/esdarat_0.jpg?itok=9an2RCfE" />
+  </programme>
+  <programme start="20170204133000 +0100" stop="20170204140500 +0100" channel="Watania 1">
+    <title lang="ar">بصمات</title>
+    <desc lang="ar">فقرة  تعودون فيها كل مرة إلى ذكريات الزمن الجميل مع مختلف  مشاهير العالم العربي وفي تونس وما تركوه من بصمات إبداعية في مختلف المجالات</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/traces.jpg?itok=ctVO65BH" />
+  </programme>
+  <programme start="20170204140500 +0100" stop="20170204154000 +0100" channel="Watania 1">
+    <title lang="ar">في أسبوع</title>
+    <desc lang="ar">برنامج حواري لمناقشة الأحداث التي طبعت الساحة الوطنية خلال الأسبوع</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/emission-FiOsbouaa.jpg?itok=9n1SjZIH" />
+  </programme>
+  <programme start="20170204154000 +0100" stop="20170204171600 +0100" channel="Watania 1">
+    <title lang="ar">كرة الطائرة: النجم الساحلي / النادي الصفاقسي</title>
+    <desc lang="ar">نقل مباشر لمباراة كرة الطائرة التي تجمع بين فريقي النجم الساحلي والنادي الصفاقسي</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/field/image/volleyinfo.jpg?itok=1f4aYhdo" />
+  </programme>
+  <programme start="20170204171600 +0100" stop="20170204172200 +0100" channel="Watania 1">
+    <title lang="ar">حروف من ذهب</title>
+    <desc lang="ar">حروف من ذهب</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%AD%D8%B1%D9%88%D9%81%20%D9%85%D9%86%20%D8%B0%D9%87%D8%A8.jpg?itok=GMv4v4gp" />
+  </programme>
+  <programme start="20170204172200 +0100" stop="20170204172600 +0100" channel="Watania 1">
+    <title lang="ar">لوحات من العالم</title>
+    <desc lang="ar">لوحات من العالم</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%84%D9%88%D8%AD%D8%A7%D8%AA%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.jpg?itok=LoXJASzk" />
+  </programme>
+  <programme start="20170204172600 +0100" stop="20170204173000 +0100" channel="Watania 1">
+    <title lang="ar">طبخة على الماشي</title>
+    <desc lang="ar">رحلة في مطابخ العالم تأخذنا إليها طبخة علماشي</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/tabkha.jpg?itok=1MIYgJ3S" />
+  </programme>
+  <programme start="20170204173000 +0100" stop="20170204180000 +0100" channel="Watania 1">
+    <title lang="ar">النشرة المسائية للأخبار</title>
+    <desc lang="ar">نشرة لأخبار الجهات التونسية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-17h30.jpg?itok=LWpQ1o2h" />
+  </programme>
+  <programme start="20170204180000 +0100" stop="20170204184000 +0100" channel="Watania 1">
+    <title lang="ar">حالة عشق</title>
+    <desc lang="ar">قصة حب بين مذيعة في إحدى المحطات اﻹذاعية (مي عز الدين)، والتي تنتمي في الأصل لعائلة ارستقراطية ولكنها تعيش الآن في حارة شعبية، وبين شاب يزاملها في العمل في نفس المحطة اﻹذاعية (حازم سمير)، تتزوج والدتها (بوسي) من رجل غني ينقل الأسرة إلى مستوى آخر  وما يستتبعه ذلك من تحولات درامية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/serie-halat-ishk1.jpg?itok=kpdxeE0Z" />
+  </programme>
+  <programme start="20170204184000 +0100" stop="20170204185000 +0100" channel="Watania 1">
+    <title lang="ar">العيلة  شو</title>
+    <desc lang="ar">سلسلة كوميدية هزلية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/aila-show_0.jpg?itok=Sj7abaLv" />
+  </programme>
+  <programme start="20170204185000 +0100" stop="20170204185500 +0100" channel="Watania 1">
+    <title lang="ar">إصدارات تونسية</title>
+    <desc lang="ar">برنامج مقتضب يحاول التعريف بآخر الإصدارات الثقافية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/esdarat_0.jpg?itok=9an2RCfE" />
+  </programme>
+  <programme start="20170204185500 +0100" stop="20170204200000 +0100" channel="Watania 1">
+    <title lang="ar">وثائقي: الوجه الآخر للحضارة</title>
+    <desc lang="ar">وثائقي يعرض حضارة و تاريخ و علوم و ثقافة و آداب و تقاليد أصول العالم. كل ما يميز دول العالم،لكل ميزة وجه آخر... وجه ذو ملامح جمالية تبنى على المعرفة و الثقافة و الدراسة الواقعية لحياة كل شعب و كل دولة حول العالم</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/alwajh-elakheremiss.jpg?itok=mfqGdISZ" />
+  </programme>
+  <programme start="20170204200000 +0100" stop="20170204203000 +0100" channel="Watania 1">
+    <title lang="ar">نشرة الثامنة للأخبار</title>
+    <desc lang="ar">نشرة رئيسية تأخذكم يوميا في جولة تامة في مختلف الأحداث الوطنية والدولية</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-20h.jpg?itok=OoRl053W" />
+  </programme>
+  <programme start="20170204203000 +0100" stop="20170204204000 +0100" channel="Watania 1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">نشرة لأبرز التوقعات الجوية لهذا اليوم و الأيام القليلة القادمة</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/meteo_0.jpg?itok=KADBbbSM" />
+  </programme>
+  <programme start="20170204204000 +0100" stop="20170204222500 +0100" channel="Watania 1">
+    <title lang="ar">شريط سينمائي تونسي</title>
+    <desc lang="ar">شريط سينمائي تونسي</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/film_1.jpg?itok=vFL0or5g" />
+  </programme>
+  <programme start="20170204222500 +0100" stop="20170205000000 +0100" channel="Watania 1">
+    <title lang="ar">حفل من مهرجان</title>
+    <desc lang="ar">حفل من مهرجان</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/hafel-minmahrajen.jpg?itok=QhJtbDCL" />
+  </programme>
+  <programme start="20170204000000 +0100" stop="20170204002500 +0100" channel="Watania 2">
+    <title lang="ar">سقوط حر</title>
+    <desc lang="ar">تدور أحداث المسلسل حول سيدة مضطربة نفسيًا (نيللي كريم)، يتم اتهامها بقتل زوجها وشقيقتها، حيث تجدها الشرطة مع أداة الجريمة (مسدس).. بعد القبض عليها، تقرر المحكمة دخولها مصحة للعلاج النفسي لأنها تعاني من أزمة نفسية حادة
+
+ﺇﺧﺮاﺝ:
+
+ شوقي الماجري
+
+ﺗﺄﻟﻴﻒ:
+
+معالجة درامية وسيناريو وائل حمدي 
+
+فكرة ومعالجة درامية وسيناريو مريم نعوم(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B3%D9%82%D9%88%D8%B7%20%20%D8%AD%D8%B1.jpg?itok=BUQnorRH" />
+  </programme>
+  <programme start="20170204002500 +0100" stop="20170204004000 +0100" channel="Watania 2">
+    <title lang="ar">طوق الياسمين</title>
+    <desc lang="ar">مجلة ثقافية جامعة...سينما و مسرح و كواليس الاعمال السينمائية و المسرحية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/emission-taw9-al-yasamine.jpg?itok=UwCOUan1" />
+  </programme>
+  <programme start="20170204004000 +0100" stop="20170204011500 +0100" channel="Watania 2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli-7al_logo.jpg?itok=hoqwVQIK" />
+  </programme>
+  <programme start="20170204011500 +0100" stop="20170204021000 +0100" channel="Watania 2">
+    <title lang="ar">دروب المواجهة</title>
+    <desc lang="ar">دراما إجتماعية تسلط الضوء على سعي بعض رجال الأعمال لكسب المال بكل الطرق حتى غير الشرعية والإستحواذ على حقوق الآخرين ، كما يبرز المسلسل دور صحفية شابة في كشف العلاقات المشبوهة واللاأخلاقية بين رجال الأعمال(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B1%D9%88%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9.png?itok=VWFpOPIn" />
+  </programme>
+  <programme start="20170204021000 +0100" stop="20170204030000 +0100" channel="Watania 2">
+    <title lang="ar">الحياة فيلم</title>
+    <desc lang="ar">برنامج يهتم بسينما الحياة والتركيز على سينما المؤلفات الأدبية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/alhayafilim.jpg?itok=vQobFbC8" />
+  </programme>
+  <programme start="20170204030000 +0100" stop="20170204050500 +0100" channel="Watania 2">
+    <title lang="ar">سهرة من الأرشيف</title>
+    <desc lang="ar">برنامج يقدم حفلة فنية لنجوم الفن أحييت في تونس
+
+البرنامج متاح للمشاهدة عن طريق البث الحي على موقع الوطنية الأولى أو في مكتبة إعادة المشاهدة إن فاتك البرنامج(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/emission-sahraarchive.jpg?itok=1CrgxQ7f" />
+  </programme>
+  <programme start="20170204050500 +0100" stop="20170204060000 +0100" channel="Watania 2">
+    <title lang="ar">وثائقيات</title>
+    <desc lang="ar">سلسة من الحلقات تستعرض عدد من الأفلام الوثائقية المهتمة بمختلف المواضيع الشيقة والمفيدة والممتعة(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A7%D8%AA.jpg?itok=fMppI43q" />
+  </programme>
+  <programme start="20170204060000 +0100" stop="20170204060500 +0100" channel="Watania 2">
+    <title lang="ar">النشيد الرسمي</title>
+    <desc lang="ar">النشيد الرسمي التونسي(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/nachid_0.jpg?itok=MrxX8xnJ" />
+  </programme>
+  <programme start="20170204060500 +0100" stop="20170204062000 +0100" channel="Watania 2">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">تلاوة لما تيسر من سور القرآن الكريم(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/quran.jpg?itok=KCIonBNQ" />
+  </programme>
+  <programme start="20170204062000 +0100" stop="20170204063000 +0100" channel="Watania 2">
+    <title lang="ar">إبتهالات</title>
+    <desc lang="ar">ابتهالات دينية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/ebtihalat.jpg?itok=1ykagNHn" />
+  </programme>
+  <programme start="20170204063000 +0100" stop="20170204070000 +0100" channel="Watania 2">
+    <title lang="ar">فقرة غنائية</title>
+    <desc lang="ar">تتابعون في هذه المساحة الفنية التي تبثها القناة الوطنية الثانية  اروع واحلى الأغاني لمشاهير الغناء في العالم العربي(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%81%D9%82%D8%B1%D8%A9%20%D8%BA%D9%86%D8%A7%D8%A6%D9%8A%D8%A9.jpg?itok=-At5SKHy" />
+  </programme>
+  <programme start="20170204070000 +0100" stop="20170204071000 +0100" channel="Watania 2">
+    <title lang="ar">ابتسامة القناة</title>
+    <desc lang="ar">ابتسامــة القنـــاة : كوكتال من أروع وأجمل الأعمال التونسية والعربية والعالمية الكوميدية والمسرحية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/ibtisamet-am-kanet11.jpg?itok=jLbOG6RH" />
+  </programme>
+  <programme start="20170204071000 +0100" stop="20170204103000 +0100" channel="Watania 2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/fakrat-atfal.jpg?itok=Rn9qCKNi" />
+  </programme>
+  <programme start="20170204103000 +0100" stop="20170204105500 +0100" channel="Watania 2">
+    <title lang="ar">وثائقي: عالم الطيران</title>
+    <desc lang="ar">وثائقي يروي قصص وقت في الفضاء أثناء الطيران بمختلف أنواع الطائرات منها ما هو طريف و منها ما هو كارثي(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/tayaran.jpg?itok=tfrIVaC8" />
+  </programme>
+  <programme start="20170204105500 +0100" stop="20170204114000 +0100" channel="Watania 2">
+    <title lang="ar">ما ملكت أيمانكم</title>
+    <desc lang="ar">ما ملكت أيمانكم مسلسل سوري أخرجه نجدة إسماعيل أنزور ومن تأليف هالة دياب وأنتج عام 2010(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/mamalaka11t.jpg?itok=JYFuQH7x" />
+  </programme>
+  <programme start="20170204114000 +0100" stop="20170204150000 +0100" channel="Watania 2">
+    <title lang="ar">كرة المضرب: نقل لفعاليات المباريات</title>
+    <desc lang="ar">نقل مباشر لمباريات كرة المضرب من الحي الوطني الرياضي بالمنزه في إطار البطولة الوطنية لكرة التنس(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/FTT.jpg?itok=7nxnSi9N" />
+  </programme>
+  <programme start="20170204150000 +0100" stop="20170204154000 +0100" channel="Watania 2">
+    <title lang="ar">سقوط حر</title>
+    <desc lang="ar">تدور أحداث المسلسل حول سيدة مضطربة نفسيًا (نيللي كريم)، يتم اتهامها بقتل زوجها وشقيقتها، حيث تجدها الشرطة مع أداة الجريمة (مسدس).. بعد القبض عليها، تقرر المحكمة دخولها مصحة للعلاج النفسي لأنها تعاني من أزمة نفسية حادة
+
+ﺇﺧﺮاﺝ:
+
+ شوقي الماجري
+
+ﺗﺄﻟﻴﻒ:
+
+معالجة درامية وسيناريو وائل حمدي 
+
+فكرة ومعالجة درامية وسيناريو مريم نعوم(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B3%D9%82%D9%88%D8%B7%20%20%D8%AD%D8%B1.jpg?itok=BUQnorRH" />
+  </programme>
+  <programme start="20170204154000 +0100" stop="20170204171500 +0100" channel="Watania 2">
+    <title lang="ar">كرة السلة : الملعب النابلي / النجم الساحلي</title>
+    <desc lang="ar">نقل مباشر لمباراة كرة السلة من القاعة الرياضية المغطاة بنابل في إطار البطولة الوطنية لكرة السلة بين الملعب النابلي والنجم الساحلي(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/media/%D9%83%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B3%D9%84%D8%A9%202.jpg?itok=MbhIYCGW" />
+  </programme>
+  <programme start="20170204171500 +0100" stop="20170204180600 +0100" channel="Watania 2">
+    <title lang="ar">ما ملكت أيمانكم</title>
+    <desc lang="ar">ما ملكت أيمانكم مسلسل سوري أخرجه نجدة إسماعيل أنزور ومن تأليف هالة دياب وأنتج عام 2010(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/mamalaka11t.jpg?itok=JYFuQH7x" />
+  </programme>
+  <programme start="20170204180600 +0100" stop="20170204182500 +0100" channel="Watania 2">
+    <title lang="ar">مكتبة بابل</title>
+    <desc lang="ar">برنامج يؤرخ ويوثق كل الروايات المعروفة في شكل أفلام(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D8%A8%D8%A7%D8%A8%D9%84%20-w2_logo2.jpg?itok=vYzm3-pY" />
+  </programme>
+  <programme start="20170204182500 +0100" stop="20170204183500 +0100" channel="Watania 2">
+    <title lang="ar">مكتبة بابل</title>
+    <desc lang="ar">برنامج يؤرخ ويوثق كل الروايات المعروفة في شكل أفلام(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D8%A8%D8%A7%D8%A8%D9%84%20-w2_logo2.jpg?itok=vYzm3-pY" />
+  </programme>
+  <programme start="20170204183500 +0100" stop="20170204190000 +0100" channel="Watania 2">
+    <title lang="ar">فقرة غنائية</title>
+    <desc lang="ar">تتابعون في هذه المساحة الفنية التي تبثها القناة الوطنية الثانية  اروع واحلى الأغاني لمشاهير الغناء في العالم العربي(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%81%D9%82%D8%B1%D8%A9%20%D8%BA%D9%86%D8%A7%D8%A6%D9%8A%D8%A9.jpg?itok=-At5SKHy" />
+  </programme>
+  <programme start="20170204190000 +0100" stop="20170204200000 +0100" channel="Watania 2">
+    <title lang="ar">دروب المواجهة</title>
+    <desc lang="ar">دراما إجتماعية تسلط الضوء على سعي بعض رجال الأعمال لكسب المال بكل الطرق حتى غير الشرعية والإستحواذ على حقوق الآخرين ، كما يبرز المسلسل دور صحفية شابة في كشف العلاقات المشبوهة واللاأخلاقية بين رجال الأعمال(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B1%D9%88%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9.png?itok=VWFpOPIn" />
+  </programme>
+  <programme start="20170204200000 +0100" stop="20170204202000 +0100" channel="Watania 2">
+    <title lang="ar">طوق الياسمين</title>
+    <desc lang="ar">مجلة ثقافية جامعة...سينما و مسرح و كواليس الاعمال السينمائية و المسرحية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/emission-taw9-al-yasamine.jpg?itok=UwCOUan1" />
+  </programme>
+  <programme start="20170204202000 +0100" stop="20170204205500 +0100" channel="Watania 2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli-7al_logo.jpg?itok=hoqwVQIK" />
+  </programme>
+  <programme start="20170204205500 +0100" stop="20170204211000 +0100" channel="Watania 2">
+    <title lang="ar">سيتكوم فرحة عمر</title>
+    <desc lang="ar">سلسلة هزلية نص جلال الدين سعدي و اخراج سلمى بكار بطولة كوثر الباردي و جلال الدين السعدي تروي يوميات زوجين بطريقة هزلية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/hqdefault_0.jpg?itok=inwfA2uH" />
+  </programme>
+  <programme start="20170204211000 +0100" stop="20170204220000 +0100" channel="Watania 2">
+    <title lang="ar">كواليس</title>
+    <desc lang="ar">برنامج ثقافي يسلط الضوء على كواليس الأعمال الفنية و البرامج الإعلامية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/emission-kwalis.jpg?itok=HZzk1kgt" />
+  </programme>
+  <programme start="20170204220000 +0100" stop="20170204225000 +0100" channel="Watania 2">
+    <title lang="ar">ناس الماق</title>
+    <desc lang="ar">برنامج " ناس الماق " حصة اخبارية ترفيهية من اعداد و تقديم نورس التليلي تعرض اخبار و اسرار و مشاهير تونس و العرب و يعرض لحظات خاصة من حياتهم و احتفالاتهم(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/ness-el-mag.jpg?itok=ZO79APk4" />
+  </programme>
+  <programme start="20170204225000 +0100" stop="20170204233000 +0100" channel="Watania 2">
+    <title lang="ar">سقوط حر</title>
+    <desc lang="ar">تدور أحداث المسلسل حول سيدة مضطربة نفسيًا (نيللي كريم)، يتم اتهامها بقتل زوجها وشقيقتها، حيث تجدها الشرطة مع أداة الجريمة (مسدس).. بعد القبض عليها، تقرر المحكمة دخولها مصحة للعلاج النفسي لأنها تعاني من أزمة نفسية حادة
+
+ﺇﺧﺮاﺝ:
+
+ شوقي الماجري
+
+ﺗﺄﻟﻴﻒ:
+
+معالجة درامية وسيناريو وائل حمدي 
+
+فكرة ومعالجة درامية وسيناريو مريم نعوم(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B3%D9%82%D9%88%D8%B7%20%20%D8%AD%D8%B1.jpg?itok=BUQnorRH" />
+  </programme>
+  <programme start="20170204233000 +0100" stop="20170205000000 +0100" channel="Watania 2">
+    <title lang="ar">في البال أغنية</title>
+    <desc lang="ar">أغان عربية صباحية(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/fil-bali-oghniyaton.jpg?itok=7v4gT-Ju" />
+  </programme>
+</tv>

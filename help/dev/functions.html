@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+  <title>XMLTV GUI: Lua Functions</title>
+
+
+  <link title="xmltv" rel="stylesheet" href="../xmltv.css" type="text/css">
+
+</head>
+
+
+<body>
+
+<span class="funcdesc"><a name="get"></a>Get
+a web page:</span><br>
+
+<pre>[Page] [Error] = XGUI.Get([URL],[Grabber],[Username],[Password],[CacheFile],[MaxCacheAge])</pre>
+
+<span class="tablemembersheading">Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">URL:</span> <span class="paramtype">String.</span> Web page to retrieve
+(including "http://") </li>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+that is retrieving the page</li>
+
+  <li><span class="tablemembers">Username:</span>
+    <span class="paramtype">String.</span> HTTP
+request username (optional)</li>
+
+  <li><span class="tablemembers">Password:</span>
+    <span class="paramtype">String.</span> HTTP
+request password (optional)</li>
+
+  <li><span class="tablemembers">CacheFile:</span>
+    <span class="paramtype">String.</span> File to
+use for a cache of this page (optional)</li>
+
+  <li><span class="tablemembers">MaxCacheAge:</span>
+    <span class="paramtype">Number.</span> Maximum
+number of days to keep files in the cache (optional)</li>
+
+</ul>
+
+<span class="tablemembersheading">Return Values:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Page:</span> <span class="paramtype">String.</span> The retrieved web page</li>
+
+  <li><span class="tablemembers">Error:</span>
+    <span class="paramtype">Integer.</span> The HTTP
+response code</li>
+
+</ul>
+
+If &nbsp;the username and password are not specified then standard
+anonymous HTTP is used.<br>
+
+If no cache file is specified then no caching is performed. If the
+cache file doesn't exist then the page is downloaded and save to the
+cache file.<br>
+
+The returned Error is 0 if the page was retrieved from the cache, -1 if a timeout occured and the retries failed, 
+otherwise it is the HTTP response code recieved from the server. For an
+explanation of HTTP response codes and their meanings see <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6.1.1">here</a><br>
+
+<br>
+
+<span class="funcdesc"><a name="getsetting"></a>Get
+a setting:</span><br>
+
+<pre>[Value] = XGUI.GetSetting([Grabber],[Key],[Default])</pre>
+
+<span class="tablemembersheading">Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+that is retrieving the setting</li>
+
+  <li><span class="tablemembers">Key:</span> <span class="paramtype">String.</span> Name of the setting
+to retrieve</li>
+
+  <li><span class="tablemembers">Default:</span>
+    <span class="paramtype">String.</span> Default
+value for the setting</li>
+
+</ul>
+
+<span class="tablemembersheading">Return Values:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Value:</span>
+    <span class="paramtype">String.</span> The
+setting's value</li>
+
+</ul>
+
+This function retrieves a setting from "XMLTV_GUI.ini", settings are
+stored under a section with the name of your grabber. Settings don't
+have to be added using XGUI.AddSetting to be retrieved using this
+function.<br>
+
+<br>
+
+<span class="funcdesc"><a name="addsetting"></a>Add
+a setting to the configuration
+screen:</span><br>
+
+<pre>XGUI.AddSetting([Grabber],[Key],[Type],[Default],[Name])</pre>
+
+<span class="tablemembersheading">Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+that is adding the setting</li>
+
+  <li><span class="tablemembers">Key:</span> <span class="paramtype">String.</span> Name of the setting
+to add</li>
+
+  <li><span class="tablemembers">Type:</span> <span class="paramtype">Integer.</span> Type of the setting,
+can have the folowing
+values:
+    <ul>
+
+      <li>XGUI.SettingType.Integer</li>
+
+      <li>XGUI.SettingType.String</li>
+
+      <li>XGUI.SettingType.Password</li>
+
+      <li>XGUI.SettingType.Boolean</li>
+
+    </ul>
+
+  </li>
+
+  <li><span class="tablemembers">Default:</span> <span class="paramtype">String.</span> Default value for the setting</li>
+
+  <li><span class="tablemembers">Name:</span> <span class="paramtype">String.</span> Lable to be displayed in the settings screen</li>
+
+</ul>
+
+This function should be called when the <a href="grabbers.html#init">Init</a>
+function of your grabber is called.<br>
+
+<br>
+
+<span class="funcdesc"><a name="addchannel"></a>
+Add a channel:</span><br>
+
+<pre>XGUI.AddChannel([Grabber],[Channel])</pre>
+
+<span class="tablemembersheading">
+Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+to add the channel to</li>
+
+  <li><span class="tablemembers">Channel:</span>
+    <a href="types.html#channel"><span class="paramtype">Channel.</span></a>
+Channel to add</li>
+
+</ul>
+
+This function should only be called when <a href="grabbers.html#refreshchannels">RefreshChannels</a>
+function of your grabber is called.<br>
+
+<br>
+
+<span class="funcdesc"><a name="getchannel"></a>
+Get a channel:</span><br>
+
+<pre>[Channel] = XGUI.GetChannel([Grabber],[ID])</pre>
+
+<span class="tablemembersheading">
+Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+to get the channel from</li>
+
+  <li><span class="tablemembers">ID:</span> <span class="paramtype">String.</span><a href="types#channel"><span class="paramtype"></span></a>
+ID of the channel to retrieve</li>
+
+</ul>
+
+<span class="tablemembersheading">Return Values:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Channel:</span>
+    <a href="types.html#channel"><span class="paramtype">Channel.</span></a>
+The retrieved channel</li>
+
+</ul>
+
+Channel will be nil if the specified ID doesn't exist.<br>
+
+<br>
+
+<span class="funcdesc"><a name="clearchannels"></a>
+Clear all channels:</span><br>
+
+<pre>XGUI.ClearChannels([Grabber])</pre>
+
+<span class="tablemembersheading">
+Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+to clear channels from</li>
+
+</ul>
+
+This function should only be called when <a href="grabbers.html#refreshchannels">RefreshChannels</a>
+function of your grabber is called, I recommend that if channels are
+being downloaded from the internet then you download the appropriate
+pages before clearing the channels.<br>
+
+<br>
+
+<span class="funcdesc"></span><span class="funcdesc"><a name="addprogram"></a>
+Add a program:</span><br>
+
+<pre>XGUI.AddProgram([Grabber],[Program])</pre>
+
+<span class="tablemembersheading">
+Parameters:</span><br>
+
+<ul>
+
+  <li><span class="tablemembers">Grabber:</span>
+    <span class="paramtype">Userdata.</span> Grabber
+to add the channel to</li>
+
+  <li><span class="tablemembers">Program:</span>
+    <a href="types.html#program"><span class="paramtype">Program</span></a><a class="paramtype" href="types.html#program">.</a>
+Program to add</li>
+
+</ul>
+
+This function should only be called during a grabbing pass.<span class="funcdesc"><br>
+
+</span>
+</body>
+</html>

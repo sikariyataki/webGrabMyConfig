@@ -1,0 +1,7 @@
+﻿User-agent: *
+Disallow: /application/
+Disallow: /database/
+Disallow: /static/
+Disallow: /system/
+Disallow: /assets/
+

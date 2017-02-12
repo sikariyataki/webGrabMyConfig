@@ -1,0 +1,1878 @@
+
+             WebGrab+Plus/w MDB & REX Postprocess -- version  V1.57             
+
+                                Jan van Straaten                                
+                             Francis De Paemeleere                              
+
+            thanks to Paul Weterings and all the contributing users             
+--------------------------------------------------------------------------------
+
+Job started at 12/02/2017 02:00:01
+timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+found: /home/pi/wg++/watania.tn.ini -- Revision 00
+timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
+found: /home/pi/wg++/bein.net.ini -- Revision 11
+timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+found: /home/pi/wg++/osn.com.ini -- Revision 07
+found: /home/pi/wg++/invision.com.sa.ini -- Revision 00
+found: /home/pi/wg++/eirsport.ie.ini -- Revision 01
+processing /home/pi/wg++/guide.xmltv ...
+Could find existing channel (xmltv_id=Watania 1) in the config file
+Could find existing channel (xmltv_id=Watania 2) in the config file
+Could find existing channel (xmltv_id=hd1) in the config file
+Could find existing channel (xmltv_id=hd2) in the config file
+Could find existing channel (xmltv_id=hd3) in the config file
+Could find existing channel (xmltv_id=hd4) in the config file
+Could find existing channel (xmltv_id=hd5) in the config file
+Could find existing channel (xmltv_id=hd6) in the config file
+Could find existing channel (xmltv_id=hd7) in the config file
+Could find existing channel (xmltv_id=hd8) in the config file
+Could find existing channel (xmltv_id=hd9) in the config file
+Could find existing channel (xmltv_id=hd10) in the config file
+Could find existing channel (xmltv_id=hd11) in the config file
+Could find existing channel (xmltv_id=hd12) in the config file
+Could find existing channel (xmltv_id=hd13) in the config file
+Could find existing channel (xmltv_id=hd14) in the config file
+Could find existing channel (xmltv_id=hd15) in the config file
+Could find existing channel (xmltv_id=hd16) in the config file
+Could find existing channel (xmltv_id=hd17) in the config file
+Could find existing channel (xmltv_id=news_ar) in the config file
+Could find existing channel (xmltv_id=global) in the config file
+Could find existing channel (xmltv_id=global_us) in the config file
+Could find existing channel (xmltv_id=spanish) in the config file
+Could find existing channel (xmltv_id=ar_max1) in the config file
+Could find existing channel (xmltv_id=ar_max2) in the config file
+Could find existing channel (xmltv_id=ar_max3) in the config file
+Could find existing channel (xmltv_id=movieshd1) in the config file
+Could find existing channel (xmltv_id=movieshd2) in the config file
+Could find existing channel (xmltv_id=movieshd3) in the config file
+Could find existing channel (xmltv_id=movieshd4) in the config file
+Could find existing channel (xmltv_id=serieshd1) in the config file
+Could find existing channel (xmltv_id=beJUNIOR) in the config file
+Could find existing channel (xmltv_id=fox_movies_hd) in the config file
+Could find existing channel (xmltv_id=starmovieshd) in the config file
+Could find existing channel (xmltv_id=starw_orld_hd) in the config file
+Could find existing channel (xmltv_id=fox_hd) in the config file
+Could find existing channel (xmltv_id=natgeo_hd) in the config file
+Could find existing channel (xmltv_id=NatGeoPeople_HD) in the config file
+Could find existing channel (xmltv_id=natgeowild_hd) in the config file
+Could find existing channel (xmltv_id=baby_tv) in the config file
+Could find existing channel (xmltv_id=jeem) in the config file
+Could find existing channel (xmltv_id=baraem) in the config file
+Could find existing channel (xmltv_id=fr_3) in the config file
+Could find existing channel (xmltv_id=OSN Movies HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies HD+2) in the config file
+Could find existing channel (xmltv_id=OSN Movies Action HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Action+2) in the config file
+Could find existing channel (xmltv_id=OSN Movies Premiere HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Premiere+2) in the config file
+Could find existing channel (xmltv_id=OSN Movies Drama HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Drama+2) in the config file
+Could find existing channel (xmltv_id=OSN Movies Festival HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Kids HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Family HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Comedy HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Box Office 1 HD) in the config file
+Could find existing channel (xmltv_id=OSN Movies Box Office 2) in the config file
+Could find existing channel (xmltv_id=OSN Movies Box Office 3) in the config file
+Could find existing channel (xmltv_id=Sundance TV) in the config file
+Could find existing channel (xmltv_id=Star Movies HD) in the config file
+Could find existing channel (xmltv_id=Sony Max Middle East) in the config file
+Could find existing channel (xmltv_id=Star Gold) in the config file
+Could find existing channel (xmltv_id=Zee Cinema) in the config file
+Could find existing channel (xmltv_id=UTV Movies) in the config file
+Could find existing channel (xmltv_id=OSN Yahala HD) in the config file
+Could find existing channel (xmltv_id=OSN Yahala HD +2) in the config file
+Could find existing channel (xmltv_id=OSN Yahala Shabab HD) in the config file
+Could find existing channel (xmltv_id=OSN Yahala Drama HD) in the config file
+Could find existing channel (xmltv_id=OSN Yahala Cinema HD) in the config file
+Could find existing channel (xmltv_id=Series Channel) in the config file
+Could find existing channel (xmltv_id=Series +2) in the config file
+Could find existing channel (xmltv_id=Al Yawm) in the config file
+Could find existing channel (xmltv_id=Al Safwa) in the config file
+Could find existing channel (xmltv_id=Fann) in the config file
+Could find existing channel (xmltv_id=Cinema 1) in the config file
+Could find existing channel (xmltv_id=Cinema 2) in the config file
+Could find existing channel (xmltv_id=Music Now) in the config file
+Could find existing channel (xmltv_id=Hekayat) in the config file
+Could find existing channel (xmltv_id=Hekayat 2) in the config file
+Could find existing channel (xmltv_id=ART Aflam 1) in the config file
+Could find existing channel (xmltv_id=ART Aflam 2) in the config file
+Could find existing channel (xmltv_id=ART Cinema) in the config file
+Could find existing channel (xmltv_id=AD Drama + HD) in the config file
+Could find existing channel (xmltv_id=OSN First HD) in the config file
+Could find existing channel (xmltv_id=OSN First HBO HD) in the config file
+Could find existing channel (xmltv_id=OSN First +2) in the config file
+Could find existing channel (xmltv_id=OSN First Comedy HD) in the config file
+Could find existing channel (xmltv_id=OSN First Comedy +2) in the config file
+Could find existing channel (xmltv_id=Comedy Central) in the config file
+Could find existing channel (xmltv_id=Syfy HD) in the config file
+Could find existing channel (xmltv_id=Star World HD) in the config file
+Could find existing channel (xmltv_id=TLC HD) in the config file
+Could find existing channel (xmltv_id=E! Entertainment HD) in the config file
+Could find existing channel (xmltv_id=BBC First HD) in the config file
+Could find existing channel (xmltv_id=ITV Choice HD) in the config file
+Could find existing channel (xmltv_id=Food Network HD) in the config file
+Could find existing channel (xmltv_id=Fine Living) in the config file
+Could find existing channel (xmltv_id=Fashion TV HD) in the config file
+Could find existing channel (xmltv_id=Travel Channel) in the config file
+Could find existing channel (xmltv_id=Star Plus Middle East) in the config file
+Could find existing channel (xmltv_id=Zee TV) in the config file
+Could find existing channel (xmltv_id=SET Middle East) in the config file
+Could find existing channel (xmltv_id=Colors) in the config file
+Could find existing channel (xmltv_id=Hum TV Middle East) in the config file
+Could find existing channel (xmltv_id=Life OK Middle East) in the config file
+Could find existing channel (xmltv_id=Sab TV) in the config file
+Could find existing channel (xmltv_id=Ary Digital UAE) in the config file
+Could find existing channel (xmltv_id=GEO TV) in the config file
+Could find existing channel (xmltv_id=Masala TV) in the config file
+Could find existing channel (xmltv_id=Kiran TV) in the config file
+Could find existing channel (xmltv_id=Sun TV) in the config file
+Could find existing channel (xmltv_id=Star Vijay International) in the config file
+Could find existing channel (xmltv_id=Asianet) in the config file
+Could find existing channel (xmltv_id=Surya TV) in the config file
+Could find existing channel (xmltv_id=Udaya TV) in the config file
+Could find existing channel (xmltv_id=Gemini TV) in the config file
+Could find existing channel (xmltv_id=Star Jalsha) in the config file
+Could find existing channel (xmltv_id=Star Pravah) in the config file
+Could find existing channel (xmltv_id=MTV Live HD) in the config file
+Could find existing channel (xmltv_id=VH1) in the config file
+Could find existing channel (xmltv_id=Trace Urban) in the config file
+Could find existing channel (xmltv_id=Sony MIX) in the config file
+Could find existing channel (xmltv_id=MTV India) in the config file
+Could find existing channel (xmltv_id=Bindaas) in the config file
+Could find existing channel (xmltv_id=Disney HD) in the config file
+Could find existing channel (xmltv_id=Disney XD) in the config file
+Could find existing channel (xmltv_id=Disney Junior) in the config file
+Could find existing channel (xmltv_id=Nickelodeon HD) in the config file
+Could find existing channel (xmltv_id=Nick Jr) in the config file
+Could find existing channel (xmltv_id=Jim Jam) in the config file
+Could find existing channel (xmltv_id=Baby TV Europe) in the config file
+Could find existing channel (xmltv_id=OSN News) in the config file
+Could find existing channel (xmltv_id=Sky News HD) in the config file
+Could find existing channel (xmltv_id=BBC World) in the config file
+Could find existing channel (xmltv_id=Fox News) in the config file
+Could find existing channel (xmltv_id=CNBC) in the config file
+Could find existing channel (xmltv_id=Bloomberg) in the config file
+Could find existing channel (xmltv_id=CCTV News) in the config file
+Could find existing channel (xmltv_id=France 24 English) in the config file
+Could find existing channel (xmltv_id=NHK World TV) in the config file
+Could find existing channel (xmltv_id=Dunya News) in the config file
+Could find existing channel (xmltv_id=Geo News) in the config file
+Could find existing channel (xmltv_id=ABP News India) in the config file
+Could find existing channel (xmltv_id=Aaj Tak) in the config file
+Could find existing channel (xmltv_id=Times Now) in the config file
+Could find existing channel (xmltv_id=NDTV 24x7) in the config file
+Could find existing channel (xmltv_id=Asianet News) in the config file
+Could find existing channel (xmltv_id=Sky News Arabia HD) in the config file
+Could find existing channel (xmltv_id=Sky News Arabia) in the config file
+Could find existing channel (xmltv_id=Alarabiya) in the config file
+Could find existing channel (xmltv_id=France 24) in the config file
+Could find existing channel (xmltv_id=CCTV Arabic) in the config file
+Could find existing channel (xmltv_id=Discovery HD) in the config file
+Could find existing channel (xmltv_id=Discovery Family HD) in the config file
+Could find existing channel (xmltv_id=Discovery Science HD) in the config file
+Could find existing channel (xmltv_id=IDX HD) in the config file
+Could find existing channel (xmltv_id=Crime \\u0026 Investigation Network) in the config file
+Could find existing channel (xmltv_id=History HD) in the config file
+Could find existing channel (xmltv_id=H2 HD) in the config file
+Could find existing channel (xmltv_id=Animal Planet HD) in the config file
+Could find existing channel (xmltv_id=Nat Geo HD) in the config file
+Could find existing channel (xmltv_id=Nat Geo Wild HD) in the config file
+Could find existing channel (xmltv_id=Nat Geo People HD) in the config file
+Could find existing channel (xmltv_id=Outdoor HD) in the config file
+Could find existing channel (xmltv_id=OSN Sports 1 HD) in the config file
+Could find existing channel (xmltv_id=OSN Sports 2 HD) in the config file
+Could find existing channel (xmltv_id=OSN Sports 3 HD) in the config file
+Could find existing channel (xmltv_id=OSN Sports 4 HD) in the config file
+Could find existing channel (xmltv_id=OSN WWE Network HD) in the config file
+Could find existing channel (xmltv_id=OSN Sports Cricket HD) in the config file
+Could find existing channel (xmltv_id=Ten Cricket International) in the config file
+Could find existing channel (xmltv_id=OSN Fight Network HD) in the config file
+Could find existing channel (xmltv_id=Fuel TV) in the config file
+Could find existing channel (xmltv_id=AD Sport 1) in the config file
+Could find existing channel (xmltv_id=AD Sport 2) in the config file
+Could find existing channel (xmltv_id=AD Sports 3 HD) in the config file
+Could find existing channel (xmltv_id=AD Sports 4 HD) in the config file
+Could find existing channel (xmltv_id=AD Sports 5 HD) in the config file
+Could find existing channel (xmltv_id=AD Sports 6 HD) in the config file
+Could find existing channel (xmltv_id=Edge Sport HD) in the config file
+Could find existing channel (xmltv_id=Dubai Sports 4 HD) in the config file
+Could find existing channel (xmltv_id=Dubai Sports 2 HD) in the config file
+Could find existing channel (xmltv_id=TFC) in the config file
+Could find existing channel (xmltv_id=ABS-CBN Sports+Action) in the config file
+Could find existing channel (xmltv_id=Cinema One Global) in the config file
+Could find existing channel (xmltv_id=ANC) in the config file
+Could find existing channel (xmltv_id=DZMM Teleradyo) in the config file
+Could find existing channel (xmltv_id=DWRR 101.9) in the config file
+Could find existing channel (xmltv_id=Viva TV) in the config file
+Could find existing channel (xmltv_id=Kapatid TV5) in the config file
+Could find existing channel (xmltv_id=Aksyon TV) in the config file
+Could find existing channel (xmltv_id=Cine Mo) in the config file
+Could find existing channel (xmltv_id=Lifestyle Network) in the config file
+Could find existing channel (xmltv_id=GMA Pinoy TV) in the config file
+Could find existing channel (xmltv_id=GMA Life TV) in the config file
+Could find existing channel (xmltv_id=GMA News TV) in the config file
+Could find existing channel (xmltv_id=MBC 1) in the config file
+Could find existing channel (xmltv_id=MBC 4) in the config file
+Could find existing channel (xmltv_id=MBC Drama) in the config file
+Could find existing channel (xmltv_id=MBC 2) in the config file
+Could find existing channel (xmltv_id=MBC MAX) in the config file
+Could find existing channel (xmltv_id=MBC Action) in the config file
+Could find existing channel (xmltv_id=Setanta) in the config file
+Could find existing channel (xmltv_id=Setanta-HD) in the config file
+Could find existing channel (xmltv_id=BT-Sports-1) in the config file
+Could find existing channel (xmltv_id=BT-Sports-2) in the config file
+Could find existing channel (xmltv_id=BT-Europe) in the config file
+Could find existing channel (xmltv_id=ESPN) in the config file
+..................................................................................................................................................................................................................
+
+
+      i=index  .=same  c=change  g=gab  r=replace  n=new
+
+
+Group (0) :
+update requested for - 208 - out of - 208 - channels for 2 day(s)
+(   1/208 ) WATANIA.TN -- chan. (xmltv_id=Watania 1) -- mode Incremental
+ii
+Unable to update channel Watania 1
+Generic syntax exception:
+   message: 
+no index page data received from Watania 1
+unable to update channel, try again later
+Existing guide data restored!
+(   1/208 ) WATANIA.TN -- chan. (xmltv_id=Watania 2) -- mode Incremental
+ii
+error downloading page: The request timed out (5sec)
+Retry 1 of 1 times
+Unable to update channel Watania 2
+Generic syntax exception:
+   message: 
+no index page data received from Watania 2
+unable to update channel, try again later
+Existing guide data restored!
+(   1/208 ) BEIN.NET -- chan. (xmltv_id=hd1) -- mode Incremental
+ii....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 07:00:00 stop = 12/02/2017 08:47:00 title = Middlesbrough vs Everton - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 07:00:00 stop = 12/02/2017 08:45:00 title = Middlesbrough vs Everton - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 08:45:00 stop = 12/02/2017 10:30:00 title = Toulouse vs Bastia - French League 1st Division -  2016-17 - Week 25
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:47:00 stop = 12/02/2017 10:30:00 title = Toulouse vs Bastia - French League 1st Division -  2016-17 - Week 25
+      Replaces ----- start = 12/02/2017 08:45:00 stop = 12/02/2017 10:30:00 title = Toulouse vs Bastia - French League 1st Division -  2016-17 - Week 25
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:30:00 stop = 12/02/2017 14:57:00 title = FIFA WORLD FOOTBALL
+      Replaces ----- start = 12/02/2017 14:30:00 stop = 12/02/2017 15:00:00 title = FIFA WORLD FOOTBALL
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:57:00 stop = 12/02/2017 16:57:00 title = Athletics Millrose Games 2017
+      Replaces ----- start = 12/02/2017 14:30:00 stop = 12/02/2017 15:00:00 title = FIFA WORLD FOOTBALL
+      Replaces ----- start = 12/02/2017 15:00:00 stop = 12/02/2017 16:55:00 title = Athletics Millrose Games 2017
+      Replaces ----- start = 12/02/2017 16:55:00 stop = 12/02/2017 19:00:00 title = Palermo vs Atalanta - Italian League ( Serie A ) 2016 - 2017 Week 24
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:57:00 stop = 12/02/2017 18:55:00 title = Palermo vs Atalanta - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 16:55:00 stop = 12/02/2017 19:00:00 title = Palermo vs Atalanta - Italian League ( Serie A ) 2016 - 2017 Week 24
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 18:55:00 stop = 12/02/2017 21:00:00 title = Györi vs Larvik - Handball EHF Champions League (W) 2016-17
+      Replaces ----- start = 12/02/2017 16:55:00 stop = 12/02/2017 19:00:00 title = Palermo vs Atalanta - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 19:00:00 stop = 12/02/2017 21:00:00 title = Györi vs Larvik - Handball EHF Champions League (W) 2016-17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 21:00:00 stop = 12/02/2017 21:55:00 title = NFL Review (Super Bowl)
+      Replaces ----- start = 12/02/2017 21:00:00 stop = 12/02/2017 22:00:00 title = NFL Review (Super Bowl)
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 21:55:00 stop = 12/02/2017 22:25:00 title = CL Historic Game- PSG VS Barcelona - 11-03-2014
+      Replaces ----- start = 12/02/2017 21:00:00 stop = 12/02/2017 22:00:00 title = NFL Review (Super Bowl)
+      Replaces ----- start = 12/02/2017 22:00:00 stop = 12/02/2017 22:30:00 title = CL Historic Game- PSG VS Barcelona - 11-03-2014
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:25:00 stop = 12/02/2017 22:57:00 title = Arsene Wenger's A to Z of Football
+      Replaces ----- start = 12/02/2017 22:00:00 stop = 12/02/2017 22:30:00 title = CL Historic Game- PSG VS Barcelona - 11-03-2014
+      Replaces ----- start = 12/02/2017 22:30:00 stop = 12/02/2017 23:00:00 title = Arsene Wenger's A to Z of Football
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:57:00 stop = 12/02/2017 23:25:00 title = Trans World Sports
+      Replaces ----- start = 12/02/2017 22:30:00 stop = 12/02/2017 23:00:00 title = Arsene Wenger's A to Z of Football
+      Replaces ----- start = 12/02/2017 23:00:00 stop = 12/02/2017 23:25:00 title = Trans World Sports
+.nnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       hd1
+     missing shows added       0
+     changed shows updated     10
+     new shows added           19
+     unchanged shows inspected 8
+     total after update        37
+     elapstime / updated show  0.14 seconds
+(   2/208 ) BEIN.NET -- chan. (xmltv_id=hd2) -- mode Incremental
+ii..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 01:00:00 stop = 12/02/2017 03:47:00 title = Arsenal vs Hull City - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 04:00:00 title = Arsenal vs Hull City - English Premier League 2016/2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 03:47:00 stop = 12/02/2017 06:21:00 title = Manchester United vs Watford - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 04:00:00 title = Arsenal vs Hull City - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 04:00:00 stop = 12/02/2017 06:30:00 title = Manchester United vs Watford - English Premier League 2016/2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:21:00 stop = 12/02/2017 09:00:00 title = Liverpool vs Tottenham Hotspur - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 04:00:00 stop = 12/02/2017 06:30:00 title = Manchester United vs Watford - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 06:30:00 stop = 12/02/2017 09:00:00 title = Liverpool vs Tottenham Hotspur - English Premier League 2016/2017
+.............nnnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       hd2
+     missing shows added       0
+     changed shows updated     3
+     new shows added           19
+     unchanged shows inspected 15
+     total after update        37
+     elapstime / updated show  0.13 seconds
+(   3/208 ) BEIN.NET -- chan. (xmltv_id=hd3) -- mode Incremental
+ii.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 10:15:00 stop = 12/02/2017 11:35:00 title = Elpozo Murcia vs Palma Futsal - Futsal Spanish League -2016/2017
+      Replaces ----- start = 12/02/2017 10:15:00 stop = 12/02/2017 11:30:00 title = Elpozo Murcia vs Palma Futsal - Futsal Spanish League -2016/2017
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:00:00 title = UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:35:00 stop = 12/02/2017 12:01:00 title = UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:00:00 title = UEFA CHAMPIONS LEAGUE MAGAZINE 2016-2017
+      Replaces ----- start = 12/02/2017 12:00:00 stop = 12/02/2017 14:00:00 title = Osasuna vs Real Madrid - Spanish League 1 2016/2017 Week 22
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 12:01:00 stop = 12/02/2017 13:55:00 title = Osasuna vs Real Madrid - Spanish League 1 2016/2017 Week 22
+      Replaces ----- start = 12/02/2017 12:00:00 stop = 12/02/2017 14:00:00 title = Osasuna vs Real Madrid - Spanish League 1 2016/2017 Week 22
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 13:55:00 stop = 12/02/2017 16:15:00 title = Villarreal vs Málaga - Spanish League 1 2016/2017 Week 22
+      Replaces ----- start = 12/02/2017 12:00:00 stop = 12/02/2017 14:00:00 title = Osasuna vs Real Madrid - Spanish League 1 2016/2017 Week 22
+      Replaces ----- start = 12/02/2017 14:00:00 stop = 12/02/2017 16:15:00 title = Villarreal vs Málaga - Spanish League 1 2016/2017 Week 22
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 20:10:00 stop = 12/02/2017 22:43:00 title = Las Palmas vs Sevilla - Spanish League 1 2016/2017 Week 22
+      Replaces ----- start = 12/02/2017 20:10:00 stop = 12/02/2017 22:45:00 title = Las Palmas vs Sevilla - Spanish League 1 2016/2017 Week 22
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:43:00 stop = 12/02/2017 23:59:00 title = Atletico Madrid  vs Celta de Vigo - Spanish League 1 2016/2017 Week 22
+      Replaces ----- start = 12/02/2017 20:10:00 stop = 12/02/2017 22:45:00 title = Las Palmas vs Sevilla - Spanish League 1 2016/2017 Week 22
+      Replaces ----- start = 12/02/2017 22:45:00 stop = 12/02/2017 23:59:00 title = Atletico Madrid  vs Celta de Vigo - Spanish League 1 2016/2017 Week 22
+nnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       hd3
+     missing shows added       0
+     changed shows updated     6
+     new shows added           17
+     unchanged shows inspected 7
+     total after update        30
+     elapstime / updated show  0.15 seconds
+(   4/208 ) BEIN.NET -- chan. (xmltv_id=hd4) -- mode Incremental
+ii..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 03:15:00 stop = 12/02/2017 05:01:00 title = Fiorentina vs Udinese - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 03:15:00 stop = 12/02/2017 05:00:00 title = Fiorentina vs Udinese - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 05:00:00 stop = 12/02/2017 05:30:00 title = JUVENTUS  ALL GOALS WINTER
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 05:01:00 stop = 12/02/2017 05:24:00 title = JUVENTUS  ALL GOALS WINTER
+      Replaces ----- start = 12/02/2017 05:00:00 stop = 12/02/2017 05:30:00 title = JUVENTUS  ALL GOALS WINTER
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 05:24:00 stop = 12/02/2017 06:00:00 title = OFFSIDE 2017
+      Replaces ----- start = 12/02/2017 05:00:00 stop = 12/02/2017 05:30:00 title = JUVENTUS  ALL GOALS WINTER
+      Replaces ----- start = 12/02/2017 05:30:00 stop = 12/02/2017 06:30:00 title = OFFSIDE 2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:00:00 stop = 12/02/2017 06:30:00 title = Football’s Greatest -FRANCO BARESI
+      Replaces ----- start = 12/02/2017 05:30:00 stop = 12/02/2017 06:30:00 title = OFFSIDE 2017
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:06:00 title = OFFSIDE 2017
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:30:00 title = OFFSIDE 2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 12:06:00 stop = 12/02/2017 12:35:00 title = Football’s Greatest -ANDREA PIRLO
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:30:00 title = OFFSIDE 2017
+      Replaces ----- start = 12/02/2017 12:30:00 stop = 12/02/2017 14:30:00 title = Fiorentina vs Udinese - Italian League ( Serie A ) 2016 - 2017 Week 24
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 12:35:00 stop = 12/02/2017 14:25:00 title = Fiorentina vs Udinese - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 12:30:00 stop = 12/02/2017 14:30:00 title = Fiorentina vs Udinese - Italian League ( Serie A ) 2016 - 2017 Week 24
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:25:00 stop = 12/02/2017 16:30:00 title = Crotone vs Roma - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 12:30:00 stop = 12/02/2017 14:30:00 title = Fiorentina vs Udinese - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 14:30:00 stop = 12/02/2017 16:30:00 title = Crotone vs Roma - Italian League ( Serie A ) 2016 - 2017 Week 24
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:30:00 stop = 12/02/2017 19:55:00 title = JUVENTUS  ALL GOALS WINTER
+      Replaces ----- start = 12/02/2017 19:30:00 stop = 12/02/2017 20:00:00 title = JUVENTUS  ALL GOALS WINTER
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:55:00 stop = 12/02/2017 22:00:00 title = Sampdoria vs Bologna - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 19:30:00 stop = 12/02/2017 20:00:00 title = JUVENTUS  ALL GOALS WINTER
+      Replaces ----- start = 12/02/2017 20:00:00 stop = 12/02/2017 22:00:00 title = Sampdoria vs Bologna - Italian League ( Serie A ) 2016 - 2017 Week 24
+.nnnnnnnnnnnnnnn
+0.15 sec/update
+   Summary for update of       hd4
+     missing shows added       0
+     changed shows updated     10
+     new shows added           15
+     unchanged shows inspected 9
+     total after update        34
+     elapstime / updated show  0.15 seconds
+(   5/208 ) BEIN.NET -- chan. (xmltv_id=hd5) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnn
+0.12 sec/update
+   Summary for update of       hd5
+     missing shows added       0
+     changed shows updated     0
+     new shows added           20
+     unchanged shows inspected 20
+     total after update        40
+     elapstime / updated show  0.13 seconds
+(   6/208 ) BEIN.NET -- chan. (xmltv_id=hd6) -- mode Incremental
+ii.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:30:00 stop = 12/02/2017 11:56:00 title = PSG ALL GOALS WINTER 16 /17
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:30:00 title = PSG ALL GOALS WINTER 16 /17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:56:00 stop = 12/02/2017 12:30:00 title = Europa League 2016-2017 - Best Goals
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:30:00 title = PSG ALL GOALS WINTER 16 /17
+..........nnnnnnnnnnnnnnnnnn
+0.12 sec/update
+   Summary for update of       hd6
+     missing shows added       0
+     changed shows updated     2
+     new shows added           18
+     unchanged shows inspected 19
+     total after update        39
+     elapstime / updated show  0.13 seconds
+(   7/208 ) BEIN.NET -- chan. (xmltv_id=hd7) -- mode Incremental
+ii.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 12:00:00 stop = 12/02/2017 13:30:00 title = Rhine Neckar Lowen vs Vita Tauron Lielce - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 12:00:00 stop = 12/02/2017 13:30:00 title = Rhine Neckar Lowen vs Kielce - Handball EHF Champions League 2016/17
+......nnnnnnnnnnnnnnnnnn
+0.11 sec/update
+   Summary for update of       hd7
+     missing shows added       0
+     changed shows updated     1
+     new shows added           18
+     unchanged shows inspected 15
+     total after update        34
+     elapstime / updated show  0.12 seconds
+(   8/208 ) BEIN.NET -- chan. (xmltv_id=hd8) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:00:00 stop = 12/02/2017 00:55:00 title = EL TITULAR WITH MICHEL
+      Replaces ----- start = 12/02/2017 00:00:00 stop = 12/02/2017 01:00:00 title = EL TITULAR WITH MICHEL
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:55:00 stop = 12/02/2017 02:42:00 title = Dijon vs Caen - French League 1st Division -  2016-17 - Week 25
+      Replaces ----- start = 12/02/2017 00:00:00 stop = 12/02/2017 01:00:00 title = EL TITULAR WITH MICHEL
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:45:00 title = Dijon vs Caen - French League 1st Division -  2016-17 - Week 25
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 02:42:00 stop = 12/02/2017 04:30:00 title = Stoke City vs Crystal Palace - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:45:00 title = Dijon vs Caen - French League 1st Division -  2016-17 - Week 25
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 04:30:00 title = Stoke City vs Crystal Palace - English Premier League 2016/2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:30:00 stop = 12/02/2017 06:00:00 title = CSKA Moscow vs Crvena Zvezda - Basketball Euroleague 2016/17
+      Replaces ----- start = 12/02/2017 04:30:00 stop = 12/02/2017 06:30:00 title = CSKA Moscow vs Crvena Zvezda - Basketball Euroleague 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:00:00 stop = 12/02/2017 06:30:00 title = Handball WC 2017- Tunisia Team
+      Replaces ----- start = 12/02/2017 04:30:00 stop = 12/02/2017 06:30:00 title = CSKA Moscow vs Crvena Zvezda - Basketball Euroleague 2016/17
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 13:15:00 stop = 12/02/2017 14:50:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 13:15:00 stop = 12/02/2017 15:00:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:50:00 stop = 12/02/2017 16:25:00 title = Barcelona vs Galatasaray -Basketball Euroleague 2016/17
+      Replaces ----- start = 12/02/2017 13:15:00 stop = 12/02/2017 15:00:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 15:00:00 stop = 12/02/2017 17:00:00 title = Barcelona vs Galatasaray -Basketball Euroleague 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:25:00 stop = 12/02/2017 17:00:00 title = ATP WORLD TOUR UNCOVERED vs 2017
+      Replaces ----- start = 12/02/2017 15:00:00 stop = 12/02/2017 17:00:00 title = Barcelona vs Galatasaray -Basketball Euroleague 2016/17
+....nnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       hd8
+     missing shows added       0
+     changed shows updated     8
+     new shows added           15
+     unchanged shows inspected 8
+     total after update        31
+     elapstime / updated show  0.15 seconds
+(   9/208 ) BEIN.NET -- chan. (xmltv_id=hd9) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:00:00 stop = 12/02/2017 02:05:00 title = Athletics Millrose Games 2017
+      Replaces ----- start = 12/02/2017 00:00:00 stop = 12/02/2017 02:00:00 title = Athletics Millrose Games 2017
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 04:00:00 title = West Ham United vs West Bromwich Albion - English Premier League 2016/2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 02:05:00 stop = 12/02/2017 04:00:00 title = West Ham United vs West Bromwich Albion - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 04:00:00 title = West Ham United vs West Bromwich Albion - English Premier League 2016/2017
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:00:00 stop = 12/02/2017 08:30:00 title = PSG vs Silkeborg - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 06:00:00 stop = 12/02/2017 09:00:00 title = PSG vs Silkeborg - Handball EHF Champions League 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:30:00 stop = 12/02/2017 09:00:00 title = Handball WC 2017- Egyptian Team
+      Replaces ----- start = 12/02/2017 06:00:00 stop = 12/02/2017 09:00:00 title = PSG vs Silkeborg - Handball EHF Champions League 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 09:00:00 stop = 12/02/2017 10:30:00 title = CSKA Moscow vs Crvena Zvezda - Basketball Euroleague 2016/17
+      Replaces ----- start = 12/02/2017 09:00:00 stop = 12/02/2017 11:00:00 title = CSKA Moscow vs Crvena Zvezda - Basketball Euroleague 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 10:30:00 stop = 12/02/2017 11:00:00 title = Auto Speed
+      Replaces ----- start = 12/02/2017 09:00:00 stop = 12/02/2017 11:00:00 title = CSKA Moscow vs Crvena Zvezda - Basketball Euroleague 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:00:00 stop = 12/02/2017 12:31:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 14:29:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 12:31:00 stop = 12/02/2017 14:20:00 title = West Ham United vs West Bromwich Albion - English Premier League 2016/2017
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 14:29:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:20:00 stop = 12/02/2017 15:51:00 title = PSG vs Silkeborg - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 14:29:00 title = Varder vs Zagreb - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 14:29:00 stop = 12/02/2017 16:00:00 title = PSG vs Silkeborg - Handball EHF Champions League 2016/17
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 15:51:00 stop = 12/02/2017 16:53:00 title = The Australian 2017 Review
+      Replaces ----- start = 12/02/2017 14:29:00 stop = 12/02/2017 16:00:00 title = PSG vs Silkeborg - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 16:00:00 stop = 12/02/2017 17:00:00 title = The Australian 2017 Review
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:53:00 stop = 12/02/2017 19:00:00 title = Torino vs Pescara - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 16:00:00 stop = 12/02/2017 17:00:00 title = The Australian 2017 Review
+      Replaces ----- start = 12/02/2017 17:00:00 stop = 12/02/2017 19:00:00 title = Torino vs Pescara - Italian League ( Serie A ) 2016 - 2017 Week 24
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:00:00 stop = 12/02/2017 19:27:00 title = FIFA WORLD FOOTBALL
+      Replaces ----- start = 12/02/2017 19:00:00 stop = 12/02/2017 19:30:00 title = FIFA WORLD FOOTBALL
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:27:00 stop = 12/02/2017 21:30:00 title = Montpellier vs Elverum - Handball EHF Champions League 2016/17
+      Replaces ----- start = 12/02/2017 19:00:00 stop = 12/02/2017 19:30:00 title = FIFA WORLD FOOTBALL
+      Replaces ----- start = 12/02/2017 19:30:00 stop = 12/02/2017 21:30:00 title = Montpellier vs Elverum - Handball EHF Champions League 2016/17
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:00:00 stop = 12/02/2017 23:59:00 title = Torino vs Pescara - Italian League ( Serie A ) 2016 - 2017 Week 24
+      Replaces ----- start = 12/02/2017 22:00:00 stop = 12/02/2017 23:59:00 title = Athletics Millrose Games 2017
+nnnnnnnnnnnnnnnn
+0.15 sec/update
+   Summary for update of       hd9
+     missing shows added       0
+     changed shows updated     14
+     new shows added           16
+     unchanged shows inspected 3
+     total after update        33
+     elapstime / updated show  0.16 seconds
+(  10/208 ) BEIN.NET -- chan. (xmltv_id=hd10) -- mode Incremental
+ii....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 07:15:00 stop = 12/02/2017 08:45:00 title = Paolo Lorenzi vs Albert Ramos-Vinolas SF1 - ATP 250 Ecuador Open Quito 2017
+      Replaces ----- start = 12/02/2017 07:15:00 stop = 12/02/2017 09:15:00 title = SF1 - ATP 250 Ecuador Open Quito 2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:45:00 stop = 12/02/2017 11:15:00 title = Victor Estrella Burgos vs Thomaz Bellucci SF2 - ATP 250 Ecuador Open Quito 2017
+      Replaces ----- start = 12/02/2017 07:15:00 stop = 12/02/2017 09:15:00 title = SF1 - ATP 250 Ecuador Open Quito 2017
+      Replaces ----- start = 12/02/2017 09:15:00 stop = 12/02/2017 11:15:00 title = SF2 - ATP 250 Ecuador Open Quito 2017
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 17:30:00 stop = 12/02/2017 17:55:00 title = Qatar Total Tournament
+      Replaces ----- start = 12/02/2017 17:30:00 stop = 12/02/2017 18:00:00 title = Qatar Total Tournament
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 17:55:00 stop = 12/02/2017 20:00:00 title = FC Luzern vs BSC Young Boys - Swiss League - Round 20 - 2016/2017
+      Replaces ----- start = 12/02/2017 17:30:00 stop = 12/02/2017 18:00:00 title = Qatar Total Tournament
+      Replaces ----- start = 12/02/2017 18:00:00 stop = 12/02/2017 20:00:00 title = FC Luzern vs BSC Young Boys - Swiss League - Round 20 - 2016/2017
+...nnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       hd10
+     missing shows added       0
+     changed shows updated     4
+     new shows added           18
+     unchanged shows inspected 11
+     total after update        33
+     elapstime / updated show  0.13 seconds
+(  11/208 ) BEIN.NET -- chan. (xmltv_id=hd11) -- mode Incremental
+ii............................nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       hd11
+     missing shows added       0
+     changed shows updated     0
+     new shows added           26
+     unchanged shows inspected 28
+     total after update        54
+     elapstime / updated show  0.14 seconds
+(  12/208 ) BEIN.NET -- chan. (xmltv_id=hd12) -- mode Incremental
+ii..................nnnnnnnnnnnnnnnnnn
+0.12 sec/update
+   Summary for update of       hd12
+     missing shows added       0
+     changed shows updated     0
+     new shows added           18
+     unchanged shows inspected 18
+     total after update        36
+     elapstime / updated show  0.13 seconds
+(  13/208 ) BEIN.NET -- chan. (xmltv_id=hd13) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:00:00 stop = 12/02/2017 02:02:00 title = Athletics Millrose Games 2017
+      Replaces ----- start = 12/02/2017 00:00:00 stop = 12/02/2017 02:00:00 title = Athletics Millrose Games 2017
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 02:30:00 title = Atp World Tour Uncovered 2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 02:02:00 stop = 12/02/2017 02:30:00 title = Atp World Tour Uncovered 2017
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 02:30:00 title = Atp World Tour Uncovered 2017
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 07:00:00 stop = 12/02/2017 09:57:00 title = Italy vs Ireland - RBS Six Nations 2017
+      Replaces ----- start = 12/02/2017 07:00:00 stop = 12/02/2017 10:20:00 title = Italy vs Ireland - RBS Six Nations 2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 09:57:00 stop = 12/02/2017 13:00:00 title = Wales vs England - RBS Six Nations 2017
+      Replaces ----- start = 12/02/2017 07:00:00 stop = 12/02/2017 10:20:00 title = Italy vs Ireland - RBS Six Nations 2017
+      Replaces ----- start = 12/02/2017 10:20:00 stop = 12/02/2017 13:00:00 title = Wales vs England - RBS Six Nations 2017
+..........nnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       hd13
+     missing shows added       0
+     changed shows updated     4
+     new shows added           17
+     unchanged shows inspected 13
+     total after update        34
+     elapstime / updated show  0.14 seconds
+(  14/208 ) BEIN.NET -- chan. (xmltv_id=hd14) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:05:00 stop = 12/02/2017 00:40:00 title = Bein El1
+      Replaces ----- start = 12/02/2017 00:00:00 stop = 12/02/2017 00:30:00 title = Bein El1
+      Replaces ----- start = 12/02/2017 00:30:00 stop = 12/02/2017 01:00:00 title = Bein Esports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:40:00 stop = 12/02/2017 01:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 00:30:00 stop = 12/02/2017 01:00:00 title = Bein Esports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 01:00:00 stop = 12/02/2017 01:50:00 title = Label Boxe
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:00:00 title = Label Boxe
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 01:50:00 stop = 12/02/2017 02:05:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:00:00 title = Label Boxe
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 09:00:00 title = Ligue 1 - J25: Guingamp Lyon
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 02:05:00 stop = 12/02/2017 03:45:00 title = Ligue 1 - J25: Guingamp Lyon
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 09:00:00 title = Ligue 1 - J25: Guingamp Lyon
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 03:45:00 stop = 12/02/2017 04:30:00 title = Nba Extra
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 09:00:00 title = Ligue 1 - J25: Guingamp Lyon
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:30:00 stop = 12/02/2017 07:20:00 title = Nba: Warriors Thunder
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 09:00:00 title = Ligue 1 - J25: Guingamp Lyon
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 07:20:00 stop = 12/02/2017 09:00:00 title = Liga - J22: Alaves Barcelone
+      Replaces ----- start = 12/02/2017 02:00:00 stop = 12/02/2017 09:00:00 title = Ligue 1 - J25: Guingamp Lyon
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:00:00 stop = 12/02/2017 11:30:00 title = La Causerie P02
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 11:35:00 title = La Causerie P02
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:30:00 stop = 12/02/2017 12:00:00 title = La Causerie P03
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 11:35:00 title = La Causerie P02
+      Replaces ----- start = 12/02/2017 11:35:00 stop = 12/02/2017 12:00:00 title = La Causerie P03
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:45:00 stop = 12/02/2017 15:30:00 title = Nba Extra
+      Replaces ----- start = 12/02/2017 14:45:00 stop = 12/02/2017 15:35:00 title = Nba Extra
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 15:30:00 stop = 12/02/2017 16:05:00 title = Le Football Show Mag
+      Replaces ----- start = 12/02/2017 14:45:00 stop = 12/02/2017 15:35:00 title = Nba Extra
+      Replaces ----- start = 12/02/2017 15:35:00 stop = 12/02/2017 16:15:00 title = Bein Esports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:05:00 stop = 12/02/2017 16:15:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 15:35:00 stop = 12/02/2017 16:15:00 title = Bein Esports
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 21:00:00 stop = 12/02/2017 22:35:00 title = Tribune Sports
+      Replaces ----- start = 12/02/2017 21:00:00 stop = 12/02/2017 22:30:00 title = Tribune Sports
+      Replaces ----- start = 12/02/2017 22:30:00 stop = 12/02/2017 22:40:00 title = Europe Arena
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:35:00 stop = 12/02/2017 22:40:00 title = Europe Arena
+      Replaces ----- start = 12/02/2017 22:30:00 stop = 12/02/2017 22:40:00 title = Europe Arena
+.nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.15 sec/update
+   Summary for update of       hd14
+     missing shows added       0
+     changed shows updated     15
+     new shows added           26
+     unchanged shows inspected 8
+     total after update        49
+     elapstime / updated show  0.16 seconds
+(  15/208 ) BEIN.NET -- chan. (xmltv_id=hd15) -- mode Incremental
+iic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:35:00 stop = 12/02/2017 00:50:00 title = Europe Arena
+      Replaces ----- start = 12/02/2017 00:45:00 stop = 12/02/2017 01:00:00 title = Europe Arena
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 00:50:00 stop = 12/02/2017 01:05:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 00:45:00 stop = 12/02/2017 01:00:00 title = Europe Arena
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:45:00 title = Serie A - J24: Fiorentina Udinese
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 01:05:00 stop = 12/02/2017 02:45:00 title = Serie A - J24: Fiorentina Udinese
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:45:00 title = Serie A - J24: Fiorentina Udinese
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 02:45:00 stop = 12/02/2017 04:20:00 title = Bundesliga - J20: Ingolstadt Munich
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 08:00:00 title = Bundesliga - J20: Ingolstadt Munich
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:20:00 stop = 12/02/2017 04:45:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 08:00:00 title = Bundesliga - J20: Ingolstadt Munich
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:45:00 stop = 12/02/2017 05:25:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 08:00:00 title = Bundesliga - J20: Ingolstadt Munich
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 05:25:00 stop = 12/02/2017 06:05:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 08:00:00 title = Bundesliga - J20: Ingolstadt Munich
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:05:00 stop = 12/02/2017 06:15:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 08:00:00 title = Bundesliga - J20: Ingolstadt Munich
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:15:00 stop = 12/02/2017 08:00:00 title = Liga - J22: Betis Valencia
+      Replaces ----- start = 12/02/2017 02:45:00 stop = 12/02/2017 08:00:00 title = Bundesliga - J20: Ingolstadt Munich
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:00:00 stop = 12/02/2017 08:40:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 08:00:00 stop = 12/02/2017 09:35:00 title = Bundesliga - J19: Munich Schalke
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:40:00 stop = 12/02/2017 09:20:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 08:00:00 stop = 12/02/2017 09:35:00 title = Bundesliga - J19: Munich Schalke
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 09:20:00 stop = 12/02/2017 10:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 08:00:00 stop = 12/02/2017 09:35:00 title = Bundesliga - J19: Munich Schalke
+      Replaces ----- start = 12/02/2017 09:35:00 stop = 12/02/2017 09:55:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 09:55:00 stop = 12/02/2017 10:25:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 10:00:00 stop = 12/02/2017 11:45:00 title = Bundesliga - J20: Darmstadt Dortmund
+      Replaces ----- start = 12/02/2017 09:55:00 stop = 12/02/2017 10:25:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 10:25:00 stop = 12/02/2017 11:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 12:00:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:45:00 stop = 12/02/2017 13:30:00 title = Serie A - J24: Fiorentina Udinese
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 12:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 12:00:00 stop = 12/02/2017 13:55:00 title = Serie A - J23: Bologne Naples
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 13:30:00 stop = 12/02/2017 14:00:00 title = Football Magazine Ligue Des Champions
+      Replaces ----- start = 12/02/2017 12:00:00 stop = 12/02/2017 13:55:00 title = Serie A - J23: Bologne Naples
+      Replaces ----- start = 12/02/2017 13:55:00 stop = 12/02/2017 16:15:00 title = Liga - J21: Seville Villarreal
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:00:00 stop = 12/02/2017 14:25:00 title = Bundesliga - J20: Ingolstadt Munich Fmt 170211
+      Replaces ----- start = 12/02/2017 13:55:00 stop = 12/02/2017 16:15:00 title = Liga - J21: Seville Villarreal
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:25:00 stop = 12/02/2017 16:25:00 title = Serie A - J24: Crotone Roma
+      Replaces ----- start = 12/02/2017 13:55:00 stop = 12/02/2017 16:15:00 title = Liga - J21: Seville Villarreal
+      Replaces ----- start = 12/02/2017 16:15:00 stop = 12/02/2017 16:25:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:25:00 stop = 12/02/2017 16:55:00 title = Football Magazine Ligue Des Champions
+      Replaces ----- start = 12/02/2017 16:25:00 stop = 12/02/2017 18:30:00 title = Wta
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:55:00 stop = 12/02/2017 19:00:00 title = Serie A - J24: Inter Empoli
+      Replaces ----- start = 12/02/2017 16:25:00 stop = 12/02/2017 18:30:00 title = Wta
+      Replaces ----- start = 12/02/2017 18:30:00 stop = 12/02/2017 18:45:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 18:45:00 stop = 12/02/2017 18:55:00 title = Liga - J21: Barcelone Bilbao Fmt 170204
+      Replaces ----- start = 12/02/2017 18:55:00 stop = 12/02/2017 19:10:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:00:00 stop = 12/02/2017 19:25:00 title = Bundesliga - J20: Ingolstadt Munich Fmt 170211
+      Replaces ----- start = 12/02/2017 18:55:00 stop = 12/02/2017 19:10:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 19:10:00 stop = 12/02/2017 19:45:00 title = Bundesliga - J19: Munich Schalke Fmt 170204
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:25:00 stop = 12/02/2017 21:25:00 title = Bundesliga - J20: Fribourg Cologne
+      Replaces ----- start = 12/02/2017 19:10:00 stop = 12/02/2017 19:45:00 title = Bundesliga - J19: Munich Schalke Fmt 170204
+      Replaces ----- start = 12/02/2017 19:45:00 stop = 12/02/2017 20:35:00 title = Ligue 1 - J23: Dijon Psg
+      Replaces ----- start = 12/02/2017 20:35:00 stop = 12/02/2017 21:45:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 21:25:00 stop = 12/02/2017 21:45:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 20:35:00 stop = 12/02/2017 21:45:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 21:45:00 stop = 12/02/2017 22:15:00 title = Liga - J22: Osasuna Madrid Fmt 170211
+      Replaces ----- start = 12/02/2017 21:45:00 stop = 12/02/2017 22:50:00 title = Euro 2016
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:15:00 stop = 12/02/2017 22:40:00 title = Liga - J22: Alaves Barcelone Fmt 170211
+      Replaces ----- start = 12/02/2017 21:45:00 stop = 12/02/2017 22:50:00 title = Euro 2016
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:40:00 stop = 12/02/2017 23:59:00 title = Serie A - J24: Cagliari Juventus
+      Replaces ----- start = 12/02/2017 21:45:00 stop = 12/02/2017 22:50:00 title = Euro 2016
+      Replaces ----- start = 12/02/2017 22:50:00 stop = 12/02/2017 23:59:00 title = Ligue 1 - J23: Saint Etienne Lyon
+nnnnnnnnnnnnnnnnnnn
+0.18 sec/update
+   Summary for update of       hd15
+     missing shows added       0
+     changed shows updated     25
+     new shows added           19
+     unchanged shows inspected 0
+     total after update        44
+     elapstime / updated show  0.19 seconds
+(  16/208 ) BEIN.NET -- chan. (xmltv_id=hd16) -- mode Incremental
+ii.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 01:00:00 stop = 12/02/2017 02:05:00 title = Nba: Clippers Hornets
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 02:05:00 stop = 12/02/2017 04:05:00 title = Label Boxe
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:05:00 stop = 12/02/2017 04:55:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:55:00 stop = 12/02/2017 05:35:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 05:35:00 stop = 12/02/2017 06:15:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:15:00 stop = 12/02/2017 06:55:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:55:00 stop = 12/02/2017 07:35:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 07:35:00 stop = 12/02/2017 08:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:00:00 stop = 12/02/2017 08:40:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 01:00:00 stop = 12/02/2017 08:30:00 title = Nba: Clippers Hornets
+      Replaces ----- start = 12/02/2017 08:30:00 stop = 12/02/2017 09:00:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:40:00 stop = 12/02/2017 09:25:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 08:30:00 stop = 12/02/2017 09:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 09:00:00 stop = 12/02/2017 09:30:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 09:25:00 stop = 12/02/2017 09:45:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 09:00:00 stop = 12/02/2017 09:30:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 09:30:00 stop = 12/02/2017 10:00:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 09:45:00 stop = 12/02/2017 11:30:00 title = Liga - J22: Alaves Barcelone
+      Replaces ----- start = 12/02/2017 09:30:00 stop = 12/02/2017 10:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 10:00:00 stop = 12/02/2017 10:30:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 10:30:00 stop = 12/02/2017 11:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 11:30:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 11:30:00 stop = 12/02/2017 13:15:00 title = Nba: Nuggets Cavaliers Fmt 170211
+      Replaces ----- start = 12/02/2017 11:30:00 stop = 12/02/2017 13:00:00 title = Nba: Hornets Jazz Fmt 170204
+      Replaces ----- start = 12/02/2017 13:00:00 stop = 12/02/2017 13:30:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 13:15:00 stop = 12/02/2017 14:00:00 title = Le Grand Zap Us
+      Replaces ----- start = 12/02/2017 13:00:00 stop = 12/02/2017 13:30:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 13:30:00 stop = 12/02/2017 14:00:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:00:00 stop = 12/02/2017 14:30:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 14:00:00 stop = 12/02/2017 15:00:00 title = Salon Vip
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 14:30:00 stop = 12/02/2017 15:15:00 title = Championnat Du Monde Masculin
+      Replaces ----- start = 12/02/2017 14:00:00 stop = 12/02/2017 15:00:00 title = Salon Vip
+      Replaces ----- start = 12/02/2017 15:00:00 stop = 12/02/2017 16:25:00 title = Coupe Du Roi Demie Finale Aller
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 15:15:00 stop = 12/02/2017 16:15:00 title = Nfl Road To The Playoffs
+      Replaces ----- start = 12/02/2017 15:00:00 stop = 12/02/2017 16:25:00 title = Coupe Du Roi Demie Finale Aller
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:15:00 stop = 12/02/2017 18:20:00 title = Le Grand Zap Superbowl
+      Replaces ----- start = 12/02/2017 15:00:00 stop = 12/02/2017 16:25:00 title = Coupe Du Roi Demie Finale Aller
+      Replaces ----- start = 12/02/2017 16:25:00 stop = 12/02/2017 17:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 17:00:00 stop = 12/02/2017 18:00:00 title = Happy Sports Best Of
+      Replaces ----- start = 12/02/2017 18:00:00 stop = 12/02/2017 18:10:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 18:10:00 stop = 12/02/2017 18:30:00 title = Ca Se Passe Sur Bein Sports
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 18:20:00 stop = 12/02/2017 18:40:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 18:10:00 stop = 12/02/2017 18:30:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 18:30:00 stop = 12/02/2017 20:25:00 title = Golden Tour
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 18:40:00 stop = 12/02/2017 19:00:00 title = Ca Se Passe Sur Bein Sports
+      Replaces ----- start = 12/02/2017 18:30:00 stop = 12/02/2017 20:25:00 title = Golden Tour
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 19:00:00 stop = 12/02/2017 21:15:00 title = Nba: Nuggets Cavaliers Fmt 170211
+      Replaces ----- start = 12/02/2017 18:30:00 stop = 12/02/2017 20:25:00 title = Golden Tour
+      Replaces ----- start = 12/02/2017 20:25:00 stop = 12/02/2017 22:40:00 title = Liga - J21: Sociedad Osasuna
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 21:15:00 stop = 12/02/2017 22:50:00 title = Ligue Celtic J14
+      Replaces ----- start = 12/02/2017 20:25:00 stop = 12/02/2017 22:40:00 title = Liga - J21: Sociedad Osasuna
+      Replaces ----- start = 12/02/2017 22:40:00 stop = 12/02/2017 23:59:00 title = Serie A - J23: Juventus Inter
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 22:50:00 stop = 12/02/2017 23:59:00 title = Ligue 1 - J25: Nantes Marseille
+      Replaces ----- start = 12/02/2017 22:40:00 stop = 12/02/2017 23:59:00 title = Serie A - J23: Juventus Inter
+nnnnnnnnnnnnnnnn
+0.19 sec/update
+   Summary for update of       hd16
+     missing shows added       0
+     changed shows updated     23
+     new shows added           16
+     unchanged shows inspected 1
+     total after update        40
+     elapstime / updated show  0.20 seconds
+(  17/208 ) BEIN.NET -- chan. (xmltv_id=hd17) -- mode Incremental
+ii...........
+
+   Summary for update of       hd17
+     no changes, no update necessary !
+     unchanged shows inspected 11
+     total after update        11
+(  18/208 ) BEIN.NET -- chan. (xmltv_id=news_ar) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       news_ar
+     missing shows added       0
+     changed shows updated     0
+     new shows added           30
+     unchanged shows inspected 23
+     total after update        53
+     elapstime / updated show  0.13 seconds
+(  19/208 ) BEIN.NET -- chan. (xmltv_id=global) -- mode Incremental
+ii...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 04:00:00 stop = 12/02/2017 06:30:00 title = Equestrian FEI World Cup  Dressage - Netherlands
+      Replaces ----- start = 12/02/2017 04:00:00 stop = 12/02/2017 04:30:00 title = Auto Mundial
+      Replaces ----- start = 12/02/2017 04:30:00 stop = 12/02/2017 07:00:00 title = Equestrian FEI World Cup  Dressage - Netherlands
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 06:30:00 stop = 12/02/2017 08:17:00 title = Equestrian FEI World Cup Jumping - Switzerland
+      Replaces ----- start = 12/02/2017 04:30:00 stop = 12/02/2017 07:00:00 title = Equestrian FEI World Cup  Dressage - Netherlands
+      Replaces ----- start = 12/02/2017 07:00:00 stop = 12/02/2017 09:00:00 title = Equestrian FEI World Cup Jumping - Switzerland
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 08:17:00 stop = 12/02/2017 09:15:00 title = Equestrian FEI World Cup Driving - Bordeaux
+      Replaces ----- start = 12/02/2017 07:00:00 stop = 12/02/2017 09:00:00 title = Equestrian FEI World Cup Jumping - Switzerland
+      Replaces ----- start = 12/02/2017 09:00:00 stop = 12/02/2017 10:00:00 title = Equestrian FEI World Cup Driving - Bordeaux
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 09:15:00 stop = 12/02/2017 10:55:00 title = Red Bull Air Race 2017 - QUALIFYING - Abu Dhabi Round
+      Replaces ----- start = 12/02/2017 09:00:00 stop = 12/02/2017 10:00:00 title = Equestrian FEI World Cup Driving - Bordeaux
+      Replaces ----- start = 12/02/2017 10:00:00 stop = 12/02/2017 11:00:00 title = Red Bull Air Race 2017 - QUALIFYING - Abu Dhabi Round
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 10:55:00 stop = 12/02/2017 12:00:00 title = Red Bull Air Race 2017 - ROUND OF 8 AND FINALS - Abu Dhabi Round
+      Replaces ----- start = 12/02/2017 10:00:00 stop = 12/02/2017 11:00:00 title = Red Bull Air Race 2017 - QUALIFYING - Abu Dhabi Round
+      Replaces ----- start = 12/02/2017 11:00:00 stop = 12/02/2017 12:00:00 title = Red Bull Air Race 2017 - ROUND OF 8 AND FINALS - Abu Dhabi Round
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 16:00:00 stop = 12/02/2017 17:55:00 title = HUSA vs DHJ - Moroccan League 2016/2017
+      Replaces ----- start = 12/02/2017 16:00:00 stop = 12/02/2017 18:00:00 title = HUSA vs DHJ - Moroccan League 2016/2017
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/02/2017 17:55:00 stop = 12/02/2017 20:00:00 title = CAK vs WAK - Moroccan League 2016/2017
+      Replaces ----- start = 12/02/2017 16:00:00 stop = 12/02/2017 18:00:00 title = HUSA vs DHJ - Moroccan League 2016/2017
+      Replaces ----- start = 12/02/2017 18:00:00 stop = 12/02/2017 20:00:00 title = CAK vs WAK - Moroccan League 2016/2017
+...nnnnnnnnnnnnnnnnnnn
+0.16 sec/update
+   Summary for update of       global
+     missing shows added       0
+     changed shows updated     7
+     new shows added           19
+     unchanged shows inspected 9
+     total after update        35
+     elapstime / updated show  0.16 seconds
+(  20/208 ) BEIN.NET -- chan. (xmltv_id=global_us) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       global_us
+     missing shows added       0
+     changed shows updated     0
+     new shows added           25
+     unchanged shows inspected 1
+     total after update        52
+     elapstime / updated show  0.14 seconds
+(  21/208 ) BEIN.NET -- chan. (xmltv_id=spanish) -- mode Incremental
+ii.nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       spanish
+     missing shows added       0
+     changed shows updated     0
+     new shows added           27
+     unchanged shows inspected 1
+     total after update        53
+     elapstime / updated show  0.14 seconds
+(  22/208 ) BEIN.NET -- chan. (xmltv_id=ar_max1) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  23/208 ) BEIN.NET -- chan. (xmltv_id=ar_max2) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  24/208 ) BEIN.NET -- chan. (xmltv_id=ar_max3) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  25/208 ) BEIN.NET -- chan. (xmltv_id=movieshd1) -- mode Incremental
+ii............nnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       movieshd1
+     missing shows added       0
+     changed shows updated     0
+     new shows added           12
+     unchanged shows inspected 12
+     total after update        24
+     elapstime / updated show  0.14 seconds
+(  26/208 ) BEIN.NET -- chan. (xmltv_id=movieshd2) -- mode Incremental
+ii............nnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       movieshd2
+     missing shows added       0
+     changed shows updated     0
+     new shows added           12
+     unchanged shows inspected 12
+     total after update        24
+     elapstime / updated show  0.14 seconds
+(  27/208 ) BEIN.NET -- chan. (xmltv_id=movieshd3) -- mode Incremental
+ii............nnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       movieshd3
+     missing shows added       0
+     changed shows updated     0
+     new shows added           12
+     unchanged shows inspected 12
+     total after update        24
+     elapstime / updated show  0.14 seconds
+(  28/208 ) BEIN.NET -- chan. (xmltv_id=movieshd4) -- mode Incremental
+ii.............nnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       movieshd4
+     missing shows added       0
+     changed shows updated     0
+     new shows added           13
+     unchanged shows inspected 13
+     total after update        26
+     elapstime / updated show  0.14 seconds
+(  29/208 ) BEIN.NET -- chan. (xmltv_id=serieshd1) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  30/208 ) BEIN.NET -- chan. (xmltv_id=beJUNIOR) -- mode Incremental
+ii................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.13 sec/update
+   Summary for update of       beJUNIOR
+     missing shows added       0
+     changed shows updated     0
+     new shows added           29
+     unchanged shows inspected 16
+     total after update        45
+     elapstime / updated show  0.14 seconds
+(  31/208 ) BEIN.NET -- chan. (xmltv_id=fox_movies_hd) -- mode Incremental
+ii.............nnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       fox_movies_hd
+     missing shows added       0
+     changed shows updated     0
+     new shows added           12
+     unchanged shows inspected 13
+     total after update        25
+     elapstime / updated show  0.14 seconds
+(  32/208 ) BEIN.NET -- chan. (xmltv_id=starmovieshd) -- mode Incremental
+ii
+no shows in indexpage!
+
+(  33/208 ) BEIN.NET -- chan. (xmltv_id=starw_orld_hd) -- mode Incremental
+ii.........................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       starw_orld_hd
+     missing shows added       0
+     changed shows updated     0
+     new shows added           25
+     unchanged shows inspected 25
+     total after update        50
+     elapstime / updated show  0.14 seconds
+(  34/208 ) BEIN.NET -- chan. (xmltv_id=fox_hd) -- mode Incremental
+ii.........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       fox_hd
+     missing shows added       0
+     changed shows updated     0
+     new shows added           30
+     unchanged shows inspected 25
+     total after update        55
+     elapstime / updated show  0.14 seconds
+(  35/208 ) BEIN.NET -- chan. (xmltv_id=natgeo_hd) -- mode Incremental
+ii...........................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       natgeo_hd
+     missing shows added       0
+     changed shows updated     0
+     new shows added           25
+     unchanged shows inspected 27
+     total after update        52
+     elapstime / updated show  0.15 seconds
+(  36/208 ) BEIN.NET -- chan. (xmltv_id=NatGeoPeople_HD) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       NatGeoPeople_HD
+     missing shows added       0
+     changed shows updated     0
+     new shows added           31
+     unchanged shows inspected 23
+     total after update        54
+     elapstime / updated show  0.15 seconds
+(  37/208 ) BEIN.NET -- chan. (xmltv_id=natgeowild_hd) -- mode Incremental
+ii..........................nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       natgeowild_hd
+     missing shows added       0
+     changed shows updated     0
+     new shows added           26
+     unchanged shows inspected 26
+     total after update        52
+     elapstime / updated show  0.15 seconds
+(  38/208 ) BEIN.NET -- chan. (xmltv_id=baby_tv) -- mode Incremental
+iinnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.15 sec/update
+   Summary for update of       baby_tv
+     missing shows added       0
+     changed shows updated     0
+     new shows added           28
+     unchanged shows inspected 0
+     total after update        28
+     elapstime / updated show  0.15 seconds
+(  39/208 ) BEIN.NET -- chan. (xmltv_id=jeem) -- mode Incremental
+ii..............nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.14 sec/update
+   Summary for update of       jeem
+     missing shows added       0
+     changed shows updated     0
+     new shows added           28
+     unchanged shows inspected 14
+     total after update        42
+     elapstime / updated show  0.15 seconds
+(  40/208 ) BEIN.NET -- chan. (xmltv_id=baraem) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.15 sec/update
+   Summary for update of       baraem
+     missing shows added       0
+     changed shows updated     0
+     new shows added           30
+     unchanged shows inspected 20
+     total after update        50
+     elapstime / updated show  0.15 seconds
+(  41/208 ) BEIN.NET -- chan. (xmltv_id=fr_3) -- mode Incremental
+ii.nnnnnnnnnnnn
+0.15 sec/update
+   Summary for update of       fr_3
+     missing shows added       0
+     changed shows updated     0
+     new shows added           12
+     unchanged shows inspected 1
+     total after update        23
+     elapstime / updated show  0.15 seconds
+(  42/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies HD) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.49 sec/update
+(  43/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies HD+2) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.47 sec/update
+(  44/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Action HD) -- mode Incremental
+ii.........nnnnnnnnnnnn
+0.49 sec/update
+(  45/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Action+2) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.48 sec/update
+(  46/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Premiere HD) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.49 sec/update
+(  47/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Premiere+2) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.49 sec/update
+(  48/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Drama HD) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.48 sec/update
+(  49/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Drama+2) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.49 sec/update
+(  50/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Festival HD) -- mode Incremental
+ii.........nnnnnnnnnnn
+0.48 sec/update
+(  51/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Kids HD) -- mode Incremental
+ii............nnnnnnnnnnnnnn
+0.49 sec/update
+(  52/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Family HD) -- mode Incremental
+ii..........nnnnnnnnnnnnn
+0.50 sec/update
+(  53/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Comedy HD) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.49 sec/update
+(  54/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Box Office 1 HD) -- mode Incremental
+ii......nnnnnnnn
+0.51 sec/update
+(  55/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Box Office 2) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.49 sec/update
+(  56/208 ) OSN.COM -- chan. (xmltv_id=OSN Movies Box Office 3) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.48 sec/update
+(  57/208 ) OSN.COM -- chan. (xmltv_id=Sundance TV) -- mode Incremental
+ii...............nnnnnnnnnnnnnnnnnnn
+0.49 sec/update
+(  58/208 ) OSN.COM -- chan. (xmltv_id=Star Movies HD) -- mode Incremental
+ii.........nnnnnnnnnnnnn
+0.51 sec/update
+(  59/208 ) OSN.COM -- chan. (xmltv_id=Sony Max Middle East) -- mode Incremental
+ii.......nnnnnnnn
+0.47 sec/update
+(  60/208 ) OSN.COM -- chan. (xmltv_id=Star Gold) -- mode Incremental
+ii..........nnnnnnnnnn
+0.49 sec/update
+(  61/208 ) OSN.COM -- chan. (xmltv_id=Zee Cinema) -- mode Incremental
+ii.......nnnnnnnn
+0.53 sec/update
+(  62/208 ) OSN.COM -- chan. (xmltv_id=UTV Movies) -- mode Incremental
+ii..............nnnnnnnnnnnnn
+0.51 sec/update
+(  63/208 ) OSN.COM -- chan. (xmltv_id=OSN Yahala HD) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnn
+0.50 sec/update
+(  64/208 ) OSN.COM -- chan. (xmltv_id=OSN Yahala HD +2) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  65/208 ) OSN.COM -- chan. (xmltv_id=OSN Yahala Shabab HD) -- mode Incremental
+ii.........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.47 sec/update
+(  66/208 ) OSN.COM -- chan. (xmltv_id=OSN Yahala Drama HD) -- mode Incremental
+ii.....................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.48 sec/update
+(  67/208 ) OSN.COM -- chan. (xmltv_id=OSN Yahala Cinema HD) -- mode Incremental
+ii...........nnnnnnnnnnnn
+0.51 sec/update
+(  68/208 ) OSN.COM -- chan. (xmltv_id=Series Channel) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnn
+0.54 sec/update
+(  69/208 ) OSN.COM -- chan. (xmltv_id=Series +2) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnn
+0.52 sec/update
+(  70/208 ) OSN.COM -- chan. (xmltv_id=Al Yawm) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  71/208 ) OSN.COM -- chan. (xmltv_id=Al Safwa) -- mode Incremental
+ii.............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.49 sec/update
+(  72/208 ) OSN.COM -- chan. (xmltv_id=Fann) -- mode Incremental
+ii...........nnnnnnnnnnnnnn
+0.51 sec/update
+(  73/208 ) OSN.COM -- chan. (xmltv_id=Cinema 1) -- mode Incremental
+ii....nnnn
+0.52 sec/update
+(  74/208 ) OSN.COM -- chan. (xmltv_id=Cinema 2) -- mode Incremental
+ii...............nnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  75/208 ) OSN.COM -- chan. (xmltv_id=Music Now) -- mode Incremental
+ii.....nnnnnnn
+0.54 sec/update
+(  76/208 ) OSN.COM -- chan. (xmltv_id=Hekayat) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  77/208 ) OSN.COM -- chan. (xmltv_id=Hekayat 2) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  78/208 ) OSN.COM -- chan. (xmltv_id=ART Aflam 1) -- mode Incremental
+ii.........nnnnnnnnnnn
+0.49 sec/update
+(  79/208 ) OSN.COM -- chan. (xmltv_id=ART Aflam 2) -- mode Incremental
+ii.........nnnnnnnnnnn
+0.52 sec/update
+(  80/208 ) OSN.COM -- chan. (xmltv_id=ART Cinema) -- mode Incremental
+ii.......nnnnnnnnn
+0.51 sec/update
+(  81/208 ) OSN.COM -- chan. (xmltv_id=AD Drama + HD) -- mode Incremental
+ii.....................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.53 sec/update
+(  82/208 ) OSN.COM -- chan. (xmltv_id=OSN First HD) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnn
+0.53 sec/update
+(  83/208 ) OSN.COM -- chan. (xmltv_id=OSN First HBO HD) -- mode Incremental
+ii.............nnnnnnnnnnnnnnnnnn
+0.54 sec/update
+(  84/208 ) OSN.COM -- chan. (xmltv_id=OSN First +2) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnn
+0.53 sec/update
+(  85/208 ) OSN.COM -- chan. (xmltv_id=OSN First Comedy HD) -- mode Incremental
+ii..................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.54 sec/update
+(  86/208 ) OSN.COM -- chan. (xmltv_id=OSN First Comedy +2) -- mode Incremental
+ii....................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.52 sec/update
+(  87/208 ) OSN.COM -- chan. (xmltv_id=Comedy Central) -- mode Incremental
+ii.......................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.48 sec/update
+(  88/208 ) OSN.COM -- chan. (xmltv_id=Syfy HD) -- mode Incremental
+ii......................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  89/208 ) OSN.COM -- chan. (xmltv_id=Star World HD) -- mode Incremental
+ii.....................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.54 sec/update
+(  90/208 ) OSN.COM -- chan. (xmltv_id=TLC HD) -- mode Incremental
+ii..................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.50 sec/update
+(  91/208 ) OSN.COM -- chan. (xmltv_id=E! Entertainment HD) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.54 sec/update
+(  92/208 ) OSN.COM -- chan. (xmltv_id=BBC First HD) -- mode Incremental
+ii..........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.55 sec/update
+(  93/208 ) OSN.COM -- chan. (xmltv_id=ITV Choice HD) -- mode Incremental
+ii.........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.55 sec/update
+(  94/208 ) OSN.COM -- chan. (xmltv_id=Food Network HD) -- mode Incremental
+ii...................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  95/208 ) OSN.COM -- chan. (xmltv_id=Fine Living) -- mode Incremental
+ii.............................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+(  96/208 ) OSN.COM -- chan. (xmltv_id=Fashion TV HD) -- mode Incremental
+ii........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.49 sec/update
+(  97/208 ) OSN.COM -- chan. (xmltv_id=Travel Channel) -- mode Incremental
+ii........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+(  98/208 ) OSN.COM -- chan. (xmltv_id=Star Plus Middle East) -- mode Incremental
+ii.................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.54 sec/update
+(  99/208 ) OSN.COM -- chan. (xmltv_id=Zee TV) -- mode Incremental
+ii...nnnn
+0.58 sec/update
+( 100/208 ) OSN.COM -- chan. (xmltv_id=SET Middle East) -- mode Incremental
+ii...................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.56 sec/update
+( 101/208 ) OSN.COM -- chan. (xmltv_id=Colors) -- mode Incremental
+ii..................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+( 102/208 ) OSN.COM -- chan. (xmltv_id=Hum TV Middle East) -- mode Incremental
+ii.....................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.51 sec/update
+( 103/208 ) OSN.COM -- chan. (xmltv_id=Life OK Middle East) -- mode Incremental
+ii..............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.54 sec/update
+( 104/208 ) OSN.COM -- chan. (xmltv_id=Sab TV) -- mode Incremental
+ii................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.58 sec/update
+( 105/208 ) OSN.COM -- chan. (xmltv_id=Ary Digital UAE) -- mode Incremental
+ii..........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.58 sec/update
+( 106/208 ) OSN.COM -- chan. (xmltv_id=GEO TV) -- mode Incremental
+ii...................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+( 107/208 ) OSN.COM -- chan. (xmltv_id=Masala TV) -- mode Incremental
+ii......................nnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+( 108/208 ) OSN.COM -- chan. (xmltv_id=Kiran TV) -- mode Incremental
+ii........nnnnnnnnnnn
+0.61 sec/update
+( 109/208 ) OSN.COM -- chan. (xmltv_id=Sun TV) -- mode Incremental
+ii...................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.58 sec/update
+( 110/208 ) OSN.COM -- chan. (xmltv_id=Star Vijay International) -- mode Incremental
+ii..............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.59 sec/update
+( 111/208 ) OSN.COM -- chan. (xmltv_id=Asianet) -- mode Incremental
+ii...................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.56 sec/update
+( 112/208 ) OSN.COM -- chan. (xmltv_id=Surya TV) -- mode Incremental
+ii................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.53 sec/update
+( 113/208 ) OSN.COM -- chan. (xmltv_id=Udaya TV) -- mode Incremental
+ii.............nnnnnnnnnnnnnnnnnnnnnnnnn
+0.60 sec/update
+( 114/208 ) OSN.COM -- chan. (xmltv_id=Gemini TV) -- mode Incremental
+ii............nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.59 sec/update
+( 115/208 ) OSN.COM -- chan. (xmltv_id=Star Jalsha) -- mode Incremental
+ii........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.60 sec/update
+( 116/208 ) OSN.COM -- chan. (xmltv_id=Star Pravah) -- mode Incremental
+ii..................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.53 sec/update
+( 117/208 ) OSN.COM -- chan. (xmltv_id=MTV Live HD) -- mode Incremental
+ii.........................nnnnnnnnnnnnnnnnnnnnnnnn
+0.60 sec/update
+( 118/208 ) OSN.COM -- chan. (xmltv_id=VH1) -- mode Incremental
+ii.....nnnnnnnnnnnnnn
+0.61 sec/update
+( 119/208 ) OSN.COM -- chan. (xmltv_id=Trace Urban) -- mode Incremental
+ii..........nnnnnnnn
+0.59 sec/update
+( 120/208 ) OSN.COM -- chan. (xmltv_id=Sony MIX) -- mode Incremental
+ii.............nnnnnnnnnnnnn
+0.60 sec/update
+( 121/208 ) OSN.COM -- chan. (xmltv_id=MTV India) -- mode Incremental
+ii.....................nnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+( 122/208 ) OSN.COM -- chan. (xmltv_id=Bindaas) -- mode Incremental
+ii.........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.60 sec/update
+( 123/208 ) OSN.COM -- chan. (xmltv_id=Disney HD) -- mode Incremental
+ii..................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.56 sec/update
+( 124/208 ) OSN.COM -- chan. (xmltv_id=Disney XD) -- mode Incremental
+ii.......................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.59 sec/update
+( 125/208 ) OSN.COM -- chan. (xmltv_id=Disney Junior) -- mode Incremental
+ii...................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+( 126/208 ) OSN.COM -- chan. (xmltv_id=Nickelodeon HD) -- mode Incremental
+ii..................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.62 sec/update
+( 127/208 ) OSN.COM -- chan. (xmltv_id=Nick Jr) -- mode Incremental
+ii.................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.57 sec/update
+( 128/208 ) OSN.COM -- chan. (xmltv_id=Jim Jam) -- mode Incremental
+ii......................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.58 sec/update
+( 129/208 ) OSN.COM -- chan. (xmltv_id=Baby TV Europe) -- mode Incremental
+ii...............................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.60 sec/update
+( 130/208 ) OSN.COM -- chan. (xmltv_id=OSN News) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.68 sec/update
+( 131/208 ) OSN.COM -- chan. (xmltv_id=Sky News HD) -- mode Incremental
+ii.......................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.65 sec/update
+( 132/208 ) OSN.COM -- chan. (xmltv_id=BBC World) -- mode Incremental
+ii...nnnn
+0.69 sec/update
+( 133/208 ) OSN.COM -- chan. (xmltv_id=Fox News) -- mode Incremental
+ii...nnnn
+0.67 sec/update
+( 134/208 ) OSN.COM -- chan. (xmltv_id=CNBC) -- mode Incremental
+ii.......................................nnnnnnnnnnnnnnnnnnnnnnn
+0.67 sec/update
+( 135/208 ) OSN.COM -- chan. (xmltv_id=Bloomberg) -- mode Incremental
+ii..............................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.64 sec/update
+( 136/208 ) OSN.COM -- chan. (xmltv_id=CCTV News) -- mode Incremental
+ii....................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.61 sec/update
+( 137/208 ) OSN.COM -- chan. (xmltv_id=France 24 English) -- mode Incremental
+ii...nnnn
+0.69 sec/update
+( 138/208 ) OSN.COM -- chan. (xmltv_id=NHK World TV) -- mode Incremental
+ii..............................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.61 sec/update
+( 139/208 ) OSN.COM -- chan. (xmltv_id=Dunya News) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.62 sec/update
+( 140/208 ) OSN.COM -- chan. (xmltv_id=Geo News) -- mode Incremental
+ii.........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.68 sec/update
+( 141/208 ) OSN.COM -- chan. (xmltv_id=ABP News India) -- mode Incremental
+ii...........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.69 sec/update
+( 142/208 ) OSN.COM -- chan. (xmltv_id=Aaj Tak) -- mode Incremental
+ii........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.64 sec/update
+( 143/208 ) OSN.COM -- chan. (xmltv_id=Times Now) -- mode Incremental
+ii............................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.68 sec/update
+( 144/208 ) OSN.COM -- chan. (xmltv_id=NDTV 24x7) -- mode Incremental
+ii...............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.69 sec/update
+( 145/208 ) OSN.COM -- chan. (xmltv_id=Asianet News) -- mode Incremental
+ii........................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.70 sec/update
+( 146/208 ) OSN.COM -- chan. (xmltv_id=Sky News Arabia HD) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.66 sec/update
+( 147/208 ) OSN.COM -- chan. (xmltv_id=Sky News Arabia) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.70 sec/update
+( 148/208 ) OSN.COM -- chan. (xmltv_id=Alarabiya) -- mode Incremental
+ii...nnnn
+0.72 sec/update
+( 149/208 ) OSN.COM -- chan. (xmltv_id=France 24) -- mode Incremental
+ii.................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.71 sec/update
+( 150/208 ) OSN.COM -- chan. (xmltv_id=CCTV Arabic) -- mode Incremental
+ii........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.70 sec/update
+( 151/208 ) OSN.COM -- chan. (xmltv_id=Discovery HD) -- mode Incremental
+ii..............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.72 sec/update
+( 152/208 ) OSN.COM -- chan. (xmltv_id=Discovery Family HD) -- mode Incremental
+ii..................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.62 sec/update
+( 153/208 ) OSN.COM -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+ii...................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.64 sec/update
+( 154/208 ) OSN.COM -- chan. (xmltv_id=IDX HD) -- mode Incremental
+ii..............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.73 sec/update
+( 155/208 ) OSN.COM -- chan. (xmltv_id=Crime \\u0026 Investigation Network) -- mode Incremental
+ii.......................nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.73 sec/update
+( 156/208 ) OSN.COM -- chan. (xmltv_id=History HD) -- mode Incremental
+ii.................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.73 sec/update
+( 157/208 ) OSN.COM -- chan. (xmltv_id=H2 HD) -- mode Incremental
+ii....................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.73 sec/update
+( 158/208 ) OSN.COM -- chan. (xmltv_id=Animal Planet HD) -- mode Incremental
+ii.................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.66 sec/update
+( 159/208 ) OSN.COM -- chan. (xmltv_id=Nat Geo HD) -- mode Incremental
+ii......................nnnnnnnnnnnnnnnnnnnnnnnnn
+0.70 sec/update
+( 160/208 ) OSN.COM -- chan. (xmltv_id=Nat Geo Wild HD) -- mode Incremental
+ii......................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.69 sec/update
+( 161/208 ) OSN.COM -- chan. (xmltv_id=Nat Geo People HD) -- mode Incremental
+ii........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.72 sec/update
+( 162/208 ) OSN.COM -- chan. (xmltv_id=Outdoor HD) -- mode Incremental
+ii........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.77 sec/update
+( 163/208 ) OSN.COM -- chan. (xmltv_id=OSN Sports 1 HD) -- mode Incremental
+ii...............nnnnnnnnnnnnnnnnn
+0.74 sec/update
+( 164/208 ) OSN.COM -- chan. (xmltv_id=OSN Sports 2 HD) -- mode Incremental
+ii.............nnnnnnnnnnnnnnnnnnnnnn
+0.75 sec/update
+( 165/208 ) OSN.COM -- chan. (xmltv_id=OSN Sports 3 HD) -- mode Incremental
+ii..............nnnnnnnnnnnnnnnnn
+0.75 sec/update
+( 166/208 ) OSN.COM -- chan. (xmltv_id=OSN Sports 4 HD) -- mode Incremental
+ii.............nnnnnnnnnnnnn
+0.76 sec/update
+( 167/208 ) OSN.COM -- chan. (xmltv_id=OSN WWE Network HD) -- mode Incremental
+ii...........................nnnnnnnnnnnnnnnnn
+0.75 sec/update
+( 168/208 ) OSN.COM -- chan. (xmltv_id=OSN Sports Cricket HD) -- mode Incremental
+ii..................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.66 sec/update
+( 169/208 ) OSN.COM -- chan. (xmltv_id=Ten Cricket International) -- mode Incremental
+ii......................nnnnnnnnnnnnnnnnnnnnnnnnnn
+0.69 sec/update
+( 170/208 ) OSN.COM -- chan. (xmltv_id=OSN Fight Network HD) -- mode Incremental
+ii..............nnnnnnnnnnnnnnnnn
+0.75 sec/update
+( 171/208 ) OSN.COM -- chan. (xmltv_id=Fuel TV) -- mode Incremental
+ii.................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.71 sec/update
+( 172/208 ) INVISION.COM.SA -- chan. (xmltv_id=AD Sport 1) -- mode Incremental
+
+  !! -- WARNING : invision.com.sa doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : invision.com.sa doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i..................nnnnnnnnnnnnnnnnnn
+0.38 sec/update
+( 173/208 ) INVISION.COM.SA -- chan. (xmltv_id=AD Sport 2) -- mode Incremental
+
+  !! -- WARNING : invision.com.sa doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : invision.com.sa doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i.................nnnnnnnnnnnnnnnnnnnnnnnn
+0.39 sec/update
+( 174/208 ) OSN.COM -- chan. (xmltv_id=AD Sports 3 HD) -- mode Incremental
+ii...........nnnnnnnnnnnnnnn
+0.75 sec/update
+( 175/208 ) OSN.COM -- chan. (xmltv_id=AD Sports 4 HD) -- mode Incremental
+ii...............nnnnnnnnnnnnnnn
+0.75 sec/update
+( 176/208 ) OSN.COM -- chan. (xmltv_id=AD Sports 5 HD) -- mode Incremental
+ii................nnnnnnnnnnnnnnnnnn
+0.75 sec/update
+( 177/208 ) OSN.COM -- chan. (xmltv_id=AD Sports 6 HD) -- mode Incremental
+ii..............nnnnnnnnnnnnnn
+0.76 sec/update
+( 178/208 ) OSN.COM -- chan. (xmltv_id=Edge Sport HD) -- mode Incremental
+ii...nnnn
+0.76 sec/update
+( 179/208 ) OSN.COM -- chan. (xmltv_id=Dubai Sports 4 HD) -- mode Incremental
+ii......nnnnnnnn
+0.76 sec/update
+( 180/208 ) OSN.COM -- chan. (xmltv_id=Dubai Sports 2 HD) -- mode Incremental
+ii...nnnn
+0.78 sec/update
+( 181/208 ) OSN.COM -- chan. (xmltv_id=TFC) -- mode Incremental
+ii...nnnn
+0.76 sec/update
+( 182/208 ) OSN.COM -- chan. (xmltv_id=ABS-CBN Sports+Action) -- mode Incremental
+ii...........nnnnnnnnnnnnnnnnn
+0.75 sec/update
+( 183/208 ) OSN.COM -- chan. (xmltv_id=Cinema One Global) -- mode Incremental
+ii...nnnn
+0.76 sec/update
+( 184/208 ) OSN.COM -- chan. (xmltv_id=ANC) -- mode Incremental
+ii.................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.77 sec/update
+( 185/208 ) OSN.COM -- chan. (xmltv_id=DZMM Teleradyo) -- mode Incremental
+ii...nnnn
+0.77 sec/update
+( 186/208 ) OSN.COM -- chan. (xmltv_id=DWRR 101.9) -- mode Incremental
+ii...nnnn
+0.78 sec/update
+( 187/208 ) OSN.COM -- chan. (xmltv_id=Viva TV) -- mode Incremental
+ii...........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.72 sec/update
+( 188/208 ) OSN.COM -- chan. (xmltv_id=Kapatid TV5) -- mode Incremental
+ii...................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.72 sec/update
+( 189/208 ) OSN.COM -- chan. (xmltv_id=Aksyon TV) -- mode Incremental
+ii............nnnnnnnnnnnnnnnnnnn
+0.69 sec/update
+( 190/208 ) OSN.COM -- chan. (xmltv_id=Cine Mo) -- mode Incremental
+ii..........nnnnnnnnnnnn
+0.70 sec/update
+( 191/208 ) OSN.COM -- chan. (xmltv_id=Lifestyle Network) -- mode Incremental
+ii..............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.76 sec/update
+( 192/208 ) OSN.COM -- chan. (xmltv_id=GMA Pinoy TV) -- mode Incremental
+ii.................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.77 sec/update
+( 193/208 ) OSN.COM -- chan. (xmltv_id=GMA Life TV) -- mode Incremental
+ii..c.......................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.79 sec/update
+( 194/208 ) OSN.COM -- chan. (xmltv_id=GMA News TV) -- mode Incremental
+ii...............nnnnnnnnnnnnnnnnnnnnnnnn
+0.78 sec/update
+( 195/208 ) OSN.COM -- chan. (xmltv_id=MBC 1) -- mode Incremental
+ii.....cc...............ccnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.82 sec/update
+( 196/208 ) OSN.COM -- chan. (xmltv_id=MBC 4) -- mode Incremental
+ii.........ccccc...........nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.84 sec/update
+( 197/208 ) OSN.COM -- chan. (xmltv_id=MBC Drama) -- mode Incremental
+ii..........cc.cc.cccc........nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+0.79 sec/update
+( 198/208 ) OSN.COM -- chan. (xmltv_id=MBC 2) -- mode Incremental
+ii....cc.cc....ccnnnnnnnnnnnnn
+0.86 sec/update
+( 199/208 ) OSN.COM -- chan. (xmltv_id=MBC MAX) -- mode Incremental
+ii...cc.....cnnnnnnnnnnnnnn
+0.83 sec/update
+( 200/208 ) OSN.COM -- chan. (xmltv_id=MBC Action) -- mode Incremental
+ii...cc.....ccc.....nnnnnnnnnnnnnnnnnnnn
+0.86 sec/update
+( 201/208 ) EIRSPORT.IE -- chan. (xmltv_id=Setanta) -- mode Incremental
+ii
+
+( 202/208 ) EIRSPORT.IE -- chan. (xmltv_id=Setanta-HD) -- mode Incremental
+ii
+
+( 203/208 ) EIRSPORT.IE -- chan. (xmltv_id=BT-Sports-1) -- mode Incremental
+ii
+
+( 204/208 ) EIRSPORT.IE -- chan. (xmltv_id=BT-Sports-2) -- mode Incremental
+ii
+
+( 205/208 ) EIRSPORT.IE -- chan. (xmltv_id=BT-Europe) -- mode Incremental
+ii
+
+( 206/208 ) EIRSPORT.IE -- chan. (xmltv_id=ESPN) -- mode Incremental
+ii
+
+
+
+Job finished at 12/02/2017 03:38:52 done in 1h 38m 50s

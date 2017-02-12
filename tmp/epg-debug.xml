@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Digi Sport 1">
+    <display-name lang="ro">Digi Sport 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 2">
+    <display-name lang="ro">Digi Sport 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 3">
+    <display-name lang="ro">Digi Sport 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Digi Sport 4">
+    <display-name lang="ro">Digi Sport 4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dolce Sport 1">
+    <display-name lang="ro">Dolce Sport 1</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dolce Sport 2">
+    <display-name lang="ro">Dolce Sport 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dolce Sport 3">
+    <display-name lang="ro">Dolce Sport 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dolce Sport 4">
+    <display-name lang="ro">Dolce Sport 4</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dolce Sport 5">
+    <display-name lang="ro">Dolce Sport 5</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Dolce Sport 6">
+    <display-name lang="ro">Dolce Sport 6</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <programme start="20170208070000 +0200" stop="20170208073000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208073000 +0200" stop="20170208080000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208080000 +0200" stop="20170208083000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208083000 +0200" stop="20170208090000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208090000 +0200" stop="20170208093000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208093000 +0200" stop="20170208100000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208100000 +0200" stop="20170208101500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208101500 +0200" stop="20170208110000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208110000 +0200" stop="20170208111500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208111500 +0200" stop="20170208120000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208120000 +0200" stop="20170208121500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208121500 +0200" stop="20170208130000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208130000 +0200" stop="20170208131500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208131500 +0200" stop="20170208140000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208140000 +0200" stop="20170208141500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208141500 +0200" stop="20170208150000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208150000 +0200" stop="20170208151500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208151500 +0200" stop="20170208160000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208160000 +0200" stop="20170208161500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208161500 +0200" stop="20170208170000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Matinal</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208170000 +0200" stop="20170208173000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport | Jurnal Virtual</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208173000 +0200" stop="20170208190000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Fotbal European</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208190000 +0200" stop="20170208193000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport | Jurnal Virtual</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208193000 +0200" stop="20170208210000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Fotbal Club</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208210000 +0200" stop="20170208220000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Digi Sport Special</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208220000 +0200" stop="20170208224500 +0200" channel="Digi Sport 1">
+    <title lang="ro">Fotbal: Alaves - Celta Vigo Cupa Spaniei</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208224500 +0200" stop="20170208230000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208230000 +0200" stop="20170209000000 +0200" channel="Digi Sport 1">
+    <title lang="ro">Fotbal: Alaves - Celta Vigo Cupa Spaniei</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208070000 +0200" stop="20170208083000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal Club</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208083000 +0200" stop="20170208093000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Digi Sport Special</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208093000 +0200" stop="20170208111500 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal: Roma - Fiorentina Serie A</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208111500 +0200" stop="20170208130000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal: PSG - Lille Ligue 1</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208130000 +0200" stop="20170208144500 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal: Barcelona - Atletico Madrid Cupa Spaniei</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208144500 +0200" stop="20170208153000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Rezumat Italia Serie A</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208153000 +0200" stop="20170208160000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Rezumat Belgia Pro League</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208160000 +0200" stop="20170208170000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Rezumat Spania La Liga</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208170000 +0200" stop="20170208173000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208173000 +0200" stop="20170208190000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Handbal F: CSM Bucuresti - HC Dunarea Braila Liga Nationala</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208190000 +0200" stop="20170208210000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal: Crotone - Juventus Serie A</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208210000 +0200" stop="20170208213000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208213000 +0200" stop="20170208214500 +0200" channel="Digi Sport 2">
+    <title lang="ro">Digi Sport Show</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208214500 +0200" stop="20170208234500 +0200" channel="Digi Sport 2">
+    <title lang="ro">Fotbal: Leicester - Derby Cupa Angliei</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+  <programme start="20170208234500 +0200" stop="20170209000000 +0200" channel="Digi Sport 2">
+    <title lang="ro">Stirile Digi Sport</title>
+    <rating system="RO">
+      <value>AP</value>
+    </rating>
+  </programme>
+</tv>

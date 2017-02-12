@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="bein.net">
+  <channels>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd1" xmltv_id="hd1">Bein sports 1 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd2" xmltv_id="hd2">Bein sports 2 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd3" xmltv_id="hd3">Bein sports 3 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd4" xmltv_id="hd4">Bein sports 4 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd5" xmltv_id="hd5">Bein sports 5 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd6" xmltv_id="hd6">Bein sports 6 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd7" xmltv_id="hd7">Bein sports 7 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd8" xmltv_id="hd8">Bein sports 8 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd9" xmltv_id="hd9">Bein sports 9 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd10" xmltv_id="hd10">Bein sports 10 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd11" xmltv_id="hd11">Bein sports 11 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd12" xmltv_id="hd12">Bein sports 12 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd13" xmltv_id="hd13">Bein sports 13 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd14" xmltv_id="hd14">Bein sports 14 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd15" xmltv_id="hd15">Bein sports 15 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd16" xmltv_id="hd16">Bein sports 16 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/hd17" xmltv_id="hd17">Bein sports 17 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/news_ar" xmltv_id="news_ar">Bein news</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/global" xmltv_id="global">Bein global</channel>
+	<channel update="i" site="bein.net" site_id="mena_sports/MAX1" xmltv_id="ar_max1">Bein sports max 1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/MAX2" xmltv_id="ar_max2">Bein sports max 2</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/MAX3" xmltv_id="ar_max3">Bein sports max 3</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd1" xmltv_id="movieshd1">Bein movies 1 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd2" xmltv_id="movieshd2">Bein movies 2 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd3" xmltv_id="movieshd3">Bein movies 3 hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd4" xmltv_id="movieshd4">Bein movies 4 hd</channel>
+	<channel update="i" site="bein.net" site_id="mena_entertaintment/serieshd1" xmltv_id="serieshd1">Bein Series hd 1</channel>
+	<channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">Bein junior hd 1</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/fox_movies_hd" xmltv_id="fox_movies_hd">fox movies hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/starmovieshd" xmltv_id="starmovieshd">star movies hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/star_world_hd" xmltv_id="starw_orld_hd">star world hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/fox_hd" xmltv_id="fox_hd">fox hd</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/natgeo_hd" xmltv_id="natgeo_hd">natgeo HD (en)</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoPeople_HD" xmltv_id="NatGeoPeople_HD">NatGeo People HD (en)</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/natgeowild_hd" xmltv_id="natgeowild_hd">natgeo wild HD (en)</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/baby_tv" xmltv_id="baby_tv">baby tv</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/jeem" xmltv_id="jeem">jeem</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/baraem" xmltv_id="baraem">baraem</channel>
+	<channel update="i" site="bein.net" site_id="us_sports/global" xmltv_id="global_us">Bein global us</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/spanish" xmltv_id="spanish">Bein sports esp</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS2" xmltv_id="BS2">Bein sports usa_2</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS3" xmltv_id="BS3">Bein sports usa_3</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS4" xmltv_id="BS4">Bein sports usa_4</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS5" xmltv_id="BS5">Bein sports usa_5</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS6" xmltv_id="BS6">Bein sports usa_6</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS7" xmltv_id="BS7">Bein sports usa_7</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS8" xmltv_id="BS8">Bein sports usa_8</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS9" xmltv_id="BS9">Bein sports usa_9</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS10" xmltv_id="BS10">Bein sports usa_10</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/hd1" xmltv_id="fr_1">Bein sports fr 1</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/hd2" xmltv_id="fr_2">Bein sports fr 2</channel>
+	<channel update="i" site="bein.net" site_id="france_sports/hd3" xmltv_id="fr_3">Bein sports fr 3</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/4max" xmltv_id="fr_max4">Bein sports fr max 4</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/5max" xmltv_id="fr_max5">Bein sports fr max 5</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/6max" xmltv_id="fr_max6">Bein sports fr max 6</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/7max" xmltv_id="fr_max7">Bein sports fr max 7</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/8max" xmltv_id="fr_max8">Bein sports fr max 8</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/9max" xmltv_id="fr_max9">Bein sports fr max 9</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/10max" xmltv_id="fr_max10">Bein sports fr max 10</channel>
+  </channels>
+</site>

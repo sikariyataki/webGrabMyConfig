@@ -72,7 +72,7 @@ The second m : if a show is less or equal than m minutes it is probably an annou
 When entered as <skip></skip> the defaults are 12 hours, 1 minute, same as <skip>12,1</skip>. To disable this function enter  or just leave out this entry completely<skip>14, 1</skip><skip>16,1</skip>
 -->
   
-<skip>12,1</skip>
+<skip>12</skip>
   
   <!--timespan
 The timespan for which shows will be grabbed.
@@ -118,10 +118,10 @@ Be aware that all channels entered here will be included in the xmltv channel ta
 WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
 --> 
 
-	<channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
+	  <channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
     <channel update="i" site="watania.tn" site_id="www.watania2.tn/دليل-الأسبوع/" xmltv_id="Watania 2">Watania 2</channel>
 	
-	<channel update="i" site="bein.net" site_id="mena_sports/hd1" xmltv_id="hd1">Bein sports 1 hd</channel>
+	  <channel update="i" site="bein.net" site_id="mena_sports/hd1" xmltv_id="hd1">Bein sports 1 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/hd2" xmltv_id="hd2">Bein sports 2 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/hd3" xmltv_id="hd3">Bein sports 3 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/hd4" xmltv_id="hd4">Bein sports 4 hd</channel>
@@ -140,17 +140,17 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="bein.net" site_id="mena_sports/hd17" xmltv_id="hd17">Bein sports 17 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/news_ar" xmltv_id="news_ar">Bein news</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/global" xmltv_id="global">Bein global</channel>
-	<channel update="i" site="bein.net" site_id="us_sports/global" xmltv_id="global_us">Bein global (us)</channel>
+	  <channel update="i" site="bein.net" site_id="us_sports/global" xmltv_id="global_us">Bein global (us)</channel>
     <channel update="i" site="bein.net" site_id="us_sports/spanish" xmltv_id="spanish">Bein sports (es)</channel>
-	<channel update="i" site="bein.net" site_id="mena_sports/MAX1" xmltv_id="ar_max1">Bein sports max 1 (ar)</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/MAX2" xmltv_id="ar_max2">Bein sports max 2 (ar)</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/MAX3" xmltv_id="ar_max3">Bein sports max 3 (ar)</channel>
+	<!--<channel update="i" site="bein.net" site_id="mena_sports/MAX1" xmltv_id="ar_max1">Bein sports max 1 (ar)</channel>-->
+    <!--<channel update="i" site="bein.net" site_id="mena_sports/MAX2" xmltv_id="ar_max2">Bein sports max 2 (ar)</channel>-->
+    <!--<channel update="i" site="bein.net" site_id="mena_sports/MAX3" xmltv_id="ar_max3">Bein sports max 3 (ar)</channel>-->
     <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd1" xmltv_id="movieshd1">Bein movies 1 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd2" xmltv_id="movieshd2">Bein movies 2 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd3" xmltv_id="movieshd3">Bein movies 3 hd</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/movieshd4" xmltv_id="movieshd4">Bein movies 4 hd</channel>
-	<channel update="i" site="bein.net" site_id="mena_entertaintment/serieshd1" xmltv_id="serieshd1">Bein Series hd 1</channel>
-	<channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">Bein junior hd 1</channel>
+	  <channel update="i" site="bein.net" site_id="mena_entertaintment/serieshd1" xmltv_id="serieshd1">Bein Series hd 1</channel>
+	  <channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">Bein junior hd 1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/fox_movies_hd" xmltv_id="fox_movies_hd">Fox movies hd</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/starmovieshd" xmltv_id="starmovieshd">Star movies hd</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/star_world_hd" xmltv_id="starw_orld_hd">Star world hd</channel>
@@ -163,7 +163,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="bein.net" site_id="mena_entertaintment/baraem" xmltv_id="baraem">Baraem</channel> 
     <channel update="i" site="bein.net" site_id="france_sports/hd3" xmltv_id="fr_3">Bein sports 3 (fr)</channel>	
 	
-	<channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
+	  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
     <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies HD+2">OSN Movies HD+2</channel>
     <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
     <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action+2">OSN Movies Action+2</channel>
@@ -293,7 +293,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="TCR" xmltv_id="Ten Cricket International">Ten Cricket International</channel>
     <channel update="i" site="osn.com" site_id="FNW" xmltv_id="OSN Fight Network HD">OSN Fight Network HD</channel>
     <channel update="i" site="osn.com" site_id="FUE" xmltv_id="Fuel TV">Fuel TV</channel>
-	<channel update="i" site="invision.com.sa" site_id="670##page=1" xmltv_id="AD Sport 1">AD Sports 1 HD</channel>
+	  <channel update="i" site="invision.com.sa" site_id="670##page=1" xmltv_id="AD Sport 1">AD Sports 1 HD</channel>
     <channel update="i" site="invision.com.sa" site_id="671##page=1" xmltv_id="AD Sport 2">AD Sports 2 HD</channel>
     <channel update="i" site="osn.com" site_id="AD3" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
     <channel update="i" site="osn.com" site_id="AD4" xmltv_id="AD Sports 4 HD">AD Sports 4 HD</channel>
@@ -324,7 +324,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="MHA" xmltv_id="MBC Action">MBC Action</channel>
 	
     <channel update="i" site="eirsport.ie" site_id="1" xmltv_id="Setanta">Setanta</channel>
-    <channel update="i" site="eirsport.ie" site_id="2" xmltv_id="Setanta-HD">Setanta HD</channel>
+    <!--<channel update="i" site="eirsport.ie" site_id="2" xmltv_id="Setanta-HD">Setanta HD</channel>-->
     <channel update="i" site="eirsport.ie" site_id="3" xmltv_id="BT-Sports-1">BT Sports 1</channel>
     <channel update="i" site="eirsport.ie" site_id="4" xmltv_id="BT-Sports-2">BT Sports 2</channel>
     <channel update="i" site="eirsport.ie" site_id="5" xmltv_id="BT-Europe">BT-Europe</channel>

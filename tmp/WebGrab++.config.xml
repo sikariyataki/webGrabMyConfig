@@ -95,8 +95,7 @@ If one of these values is entered here it will apply to all channels selected fo
 If no value is entered here the individual 'update' values from the channellist are taken 
 -->
   <update>i</update>
- 
-	
+     <channel update="i" site="elcinema.ar.com" site_id="1138" xmltv_id="Alhayat Series">Alhayat Series</channel>
 	<!-- <channel update="i" site="guidatv.sky.it" site_id="sky-sport24-hd" xmltv_id="Sky Sport24 HD">Sky Sport24 HD</channel> -->
     <!-- <channel update="i" site="guidatv.sky.it" site_id="sky-sport-1-hd" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel> -->
     <!-- <channel update="i" site="guidatv.sky.it" site_id="sky-sport-2-hd" xmltv_id="Sky Sport 2 HD">Sky Sport 2 HD</channel> -->

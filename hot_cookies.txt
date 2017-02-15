@@ -1,4 +1,5 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 12/02/2017
+#  Saved by WG++ 15/02/2017
 
-www.eirsport.ie	False	/	False	-62135600400	X-Mapping-fjhppofk	4B67D82FEB7E39FCB639D1EEA18E8DE0
+www.osn.com	False	/	False	-62135600400	ASP.NET_SessionId	ndkjdljavihfnzty3srysugi
+www.osn.com	False	/	False	1487157363	NSC_PTO-MJWF-IUUQ	ffffffffaf031e2345525d5f4f58455e445a4a423660

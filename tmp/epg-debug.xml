@@ -1,301 +1,527 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Digi Sport 1">
-    <display-name lang="ro">Digi Sport 1</display-name>
-    <url>http://www.cinemagia.ro</url>
+  <channel id="Alhayat Series">
+    <display-name lang="ar">Alhayat Series</display-name>
+    <url>http://www.elcinema.ar.com</url>
   </channel>
-  <channel id="Digi Sport 2">
-    <display-name lang="ro">Digi Sport 2</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi Sport 3">
-    <display-name lang="ro">Digi Sport 3</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi Sport 4">
-    <display-name lang="ro">Digi Sport 4</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Dolce Sport 1">
-    <display-name lang="ro">Dolce Sport 1</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Dolce Sport 2">
-    <display-name lang="ro">Dolce Sport 2</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Dolce Sport 3">
-    <display-name lang="ro">Dolce Sport 3</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Dolce Sport 4">
-    <display-name lang="ro">Dolce Sport 4</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Dolce Sport 5">
-    <display-name lang="ro">Dolce Sport 5</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Dolce Sport 6">
-    <display-name lang="ro">Dolce Sport 6</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <programme start="20170208070000 +0200" stop="20170208073000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215000000 +0100" stop="20170215010000 +0100" channel="Alhayat Series">
+    <title lang="ar">أرض النعام</title>
+    <desc lang="ar">يروي المسلسل ثلاث حكايات رئيسية: حلا (رانيا يوسف) التي تعاني من قسوة عمها الذي استولى على ميراثها دون وجه حق بعد وفاة والدها وتحاول ان تعرف مصير أمها التائهة، وكيتي (زينة) الفتاة اليتيمة التي تهيم على وجهها طيلة الوقت بين من تعرفهم، ويحيى (أحمد زاهر) الذي يعيش أزمة نفسية تجعله يتمنى الموت ويخاف من قدوم طفل من صلبه. 
+The series portrays the aftermath of the January 2011 uprisings and the way Egypt's political and economical turmoil affected its society(n)</desc>
+    <credits>
+      <director>غادة سليم</director>
+      <director>مصطفى مدبولي</director>
+      <actor>رانيا يوسف</actor>
+      <actor>زينة</actor>
+      <actor>محمد شاهين</actor>
+      <actor>أحمد فؤاد سليم</actor>
+      <actor>مروة عبدالمنعم</actor>
+      <actor>نهلة سلامة</actor>
+      <writer>ناصر عبدالرحمن</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>3.8</value>
     </rating>
   </programme>
-  <programme start="20170208073000 +0200" stop="20170208080000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215010000 +0100" stop="20170215020000 +0100" channel="Alhayat Series">
+    <title lang="ar">هي ودافنشي</title>
+    <desc lang="ar">يدور العمل في إطار من الكوميديا السوادء حول إحدى المحاميات التي تتعرض لحادث تدخل على إثره إحدى المصحات النفسية لمدة ست سنوات، وبعد خروجها من المصحة تصاب بحالة هلاوس حيث تجد دافنشي أمامها في كل ماكن.(n)</desc>
+    <credits>
+      <director>عبدالعزيز حشاد</director>
+      <director>أسامة فاضل</director>
+      <actor>ليلى علوي</actor>
+      <actor>خالد الصاوي</actor>
+      <actor>مي سليم</actor>
+      <actor>أحمد سعيد عبدالغني</actor>
+      <actor>بيومي فؤاد</actor>
+      <actor>ياسر علي ماهر</actor>
+      <writer>محمد الحناوي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208080000 +0200" stop="20170208083000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215020000 +0100" stop="20170215030000 +0100" channel="Alhayat Series">
+    <title lang="ar">حالة عشق</title>
+    <desc lang="ar">قصة حب بين مذيعة في إحدى المحطات اﻹذاعية (مي عز الدين)، والتي تنتمي في الأصل لعائلة ارستقراطية ولكنها تعيش الآن في حارة شعبية، وبين شاب يزاملها في العمل في نفس المحطة اﻹذاعية (حازم سمير)، تتزوج والدتها (بوسي) من رجل غني ينقل الأسرة إلى مستوى آخر وما يستتبعه ذلك من تحولات درامية. 
+The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated(n)</desc>
+    <credits>
+      <director>إبراهيم فخر</director>
+      <actor>مي عز الدين</actor>
+      <actor>راندا البحيري</actor>
+      <actor>بوسي</actor>
+      <actor>حازم سمير</actor>
+      <actor>سامح الصريطي</actor>
+      <actor>أحمد صيام</actor>
+      <writer>محمد صلاح العزب</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <rating system="EG">
+      <value>7.2</value>
     </rating>
   </programme>
-  <programme start="20170208083000 +0200" stop="20170208090000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215030000 +0100" stop="20170215040000 +0100" channel="Alhayat Series">
+    <title lang="ar">ظرف أسود</title>
+    <desc lang="ar">تدور أحداث المسلسل في سياق من اﻹثارة والتشويق، حول رجل يفقد كل ما كان يملكه في يوم من الأيام، حيث يفقد عائلته، وعمله، وكل ما كان له قيمة في حياته ، ويصير المستقبل أمامه حالكًا مظلمًا، وهو ما يضطره للدخول إلى كواليس عالم جديد عليه، لا يعرف من خلاله ما الذي يمكن أن يصادفه في طريقه. 
+When a man loses everything he once had, including his family, he slips into a dark world he never knew of. What can get in his way? And where will he end up(n)</desc>
+    <credits>
+      <director>أحمد مدحت</director>
+      <actor>عمرو يوسف</actor>
+      <actor>درة</actor>
+      <actor>صلاح عبدالله</actor>
+      <actor>محمود البزاوي</actor>
+      <actor>إنجي المقدم</actor>
+      <actor>محمد ممدوح</actor>
+      <writer>أحمد مدحت</writer>
+      <writer>أيمن مدحت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208090000 +0200" stop="20170208093000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215040000 +0100" stop="20170215050000 +0100" channel="Alhayat Series">
+    <title lang="ar">شطرنج</title>
+    <desc lang="ar">تدور الأحداث حول "نورهان" زوجة ضابط شرطة طارق وهى ابنة رجل أعمال مهم (صلاح رشوان)، ولها ابنة تدعى "سها"، تتعرض «نورهان» للعديد من المشكلات بسبب رجال الاعمال المنافسين لشركة والدها مما ينتج عن ذلك مشاكل كثيرة وفي نفس الوقت هناك شخص يدعى فتحي زيدان يتزعم مجموعة اجرامية يقودها سراج الكومي يحاول الضابط طارق الرفاعي زوج نورهان الامساك بالمجموعة الاجرامية فتتوالى الاحداث في اطار من الاثارة والتشويق والاكشن حول حياة و قصة نورهان و فتحي.(n)</desc>
+    <credits>
+      <director>محمد حمدي</director>
+      <director>احمد سامح</director>
+      <actor>وفاء عامر</actor>
+      <actor>نضال الشافعي</actor>
+      <actor>ضياء عبدالخالق</actor>
+      <actor>صلاح رشوان</actor>
+      <actor>أمل بوشوشة</actor>
+      <actor>ياسمين صبري</actor>
+      <writer>حسام موسى</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>6.8</value>
     </rating>
   </programme>
-  <programme start="20170208093000 +0200" stop="20170208100000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215050000 +0100" stop="20170215060000 +0100" channel="Alhayat Series">
+    <title lang="ar">الداعية</title>
+    <desc lang="ar">تدور أحداث المسلسل في إطار رومانسي اجتماعي حول فكرة الدعوة إلى لم الشمل بالمودة والالتحام مهما تباعدت بينهم وجهات النظر، وقد تجسد ذلك في شخصية الداعية الإسلامي المتحفظ وليس المتطرف (هاني سلامة)، والذي يعمل بإحدى القنوات الفضائية الدينية، وبمرور الوقت يتعرف على عازفة الكمان (بسمة) التي تتعلق بحبه ويبادلها هو الآخر نفس الشعور، ويجد نفسه مؤمنا بدور الفن الراقي ومدى قوة تأثيره على المجتمع الذي يعيش فيه، إلا أنه في النهاية يجد أن التزامه الديني يقف حائلا بينه وبينها. 
+This romantic series follows an Islamic preacher (Hany Salama) who has gained fame around Egypt preaching on Islamic satellite channels. He becomes a man conflicted when he meets a beautiful activist violin player (Basma). As they become closer and mutual romantic feelings build, their vast ideological differences on religion and art and politics set off an internal conflict for the preacher(n)</desc>
+    <credits>
+      <director>محمد جمال العدل</director>
+      <actor>هاني سلامة</actor>
+      <actor>بسمة</actor>
+      <actor>ريهام عبدالغفور</actor>
+      <actor>أحمد فهمي</actor>
+      <actor>صفاء الطوخي</actor>
+      <actor>أحمد راتب</actor>
+      <writer>مدحت العدل</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.9</value>
     </rating>
   </programme>
-  <programme start="20170208100000 +0200" stop="20170208101500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215060000 +0100" stop="20170215070000 +0100" channel="Alhayat Series">
+    <title lang="ar">أرض النعام</title>
+    <desc lang="ar">يروي المسلسل ثلاث حكايات رئيسية: حلا (رانيا يوسف) التي تعاني من قسوة عمها الذي استولى على ميراثها دون وجه حق بعد وفاة والدها وتحاول ان تعرف مصير أمها التائهة، وكيتي (زينة) الفتاة اليتيمة التي تهيم على وجهها طيلة الوقت بين من تعرفهم، ويحيى (أحمد زاهر) الذي يعيش أزمة نفسية تجعله يتمنى الموت ويخاف من قدوم طفل من صلبه. 
+The series portrays the aftermath of the January 2011 uprisings and the way Egypt's political and economical turmoil affected its society(n)</desc>
+    <credits>
+      <director>غادة سليم</director>
+      <director>مصطفى مدبولي</director>
+      <actor>رانيا يوسف</actor>
+      <actor>زينة</actor>
+      <actor>محمد شاهين</actor>
+      <actor>أحمد فؤاد سليم</actor>
+      <actor>مروة عبدالمنعم</actor>
+      <actor>نهلة سلامة</actor>
+      <writer>ناصر عبدالرحمن</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>3.8</value>
     </rating>
   </programme>
-  <programme start="20170208101500 +0200" stop="20170208110000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215070000 +0100" stop="20170215080000 +0100" channel="Alhayat Series">
+    <title lang="ar">هي ودافنشي</title>
+    <desc lang="ar">يدور العمل في إطار من الكوميديا السوادء حول إحدى المحاميات التي تتعرض لحادث تدخل على إثره إحدى المصحات النفسية لمدة ست سنوات، وبعد خروجها من المصحة تصاب بحالة هلاوس حيث تجد دافنشي أمامها في كل ماكن.(n)</desc>
+    <credits>
+      <director>عبدالعزيز حشاد</director>
+      <director>أسامة فاضل</director>
+      <actor>ليلى علوي</actor>
+      <actor>خالد الصاوي</actor>
+      <actor>مي سليم</actor>
+      <actor>أحمد سعيد عبدالغني</actor>
+      <actor>بيومي فؤاد</actor>
+      <actor>ياسر علي ماهر</actor>
+      <writer>محمد الحناوي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208110000 +0200" stop="20170208111500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215080000 +0100" stop="20170215090000 +0100" channel="Alhayat Series">
+    <title lang="ar">حالة عشق</title>
+    <desc lang="ar">قصة حب بين مذيعة في إحدى المحطات اﻹذاعية (مي عز الدين)، والتي تنتمي في الأصل لعائلة ارستقراطية ولكنها تعيش الآن في حارة شعبية، وبين شاب يزاملها في العمل في نفس المحطة اﻹذاعية (حازم سمير)، تتزوج والدتها (بوسي) من رجل غني ينقل الأسرة إلى مستوى آخر وما يستتبعه ذلك من تحولات درامية. 
+The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated(n)</desc>
+    <credits>
+      <director>إبراهيم فخر</director>
+      <actor>مي عز الدين</actor>
+      <actor>راندا البحيري</actor>
+      <actor>بوسي</actor>
+      <actor>حازم سمير</actor>
+      <actor>سامح الصريطي</actor>
+      <actor>أحمد صيام</actor>
+      <writer>محمد صلاح العزب</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <rating system="EG">
+      <value>7.2</value>
     </rating>
   </programme>
-  <programme start="20170208111500 +0200" stop="20170208120000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215090000 +0100" stop="20170215100000 +0100" channel="Alhayat Series">
+    <title lang="ar">ظرف أسود</title>
+    <desc lang="ar">تدور أحداث المسلسل في سياق من اﻹثارة والتشويق، حول رجل يفقد كل ما كان يملكه في يوم من الأيام، حيث يفقد عائلته، وعمله، وكل ما كان له قيمة في حياته ، ويصير المستقبل أمامه حالكًا مظلمًا، وهو ما يضطره للدخول إلى كواليس عالم جديد عليه، لا يعرف من خلاله ما الذي يمكن أن يصادفه في طريقه. 
+When a man loses everything he once had, including his family, he slips into a dark world he never knew of. What can get in his way? And where will he end up(n)</desc>
+    <credits>
+      <director>أحمد مدحت</director>
+      <actor>عمرو يوسف</actor>
+      <actor>درة</actor>
+      <actor>صلاح عبدالله</actor>
+      <actor>محمود البزاوي</actor>
+      <actor>إنجي المقدم</actor>
+      <actor>محمد ممدوح</actor>
+      <writer>أحمد مدحت</writer>
+      <writer>أيمن مدحت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208120000 +0200" stop="20170208121500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215100000 +0100" stop="20170215110000 +0100" channel="Alhayat Series">
+    <title lang="ar">شطرنج</title>
+    <desc lang="ar">تدور الأحداث حول "نورهان" زوجة ضابط شرطة طارق وهى ابنة رجل أعمال مهم (صلاح رشوان)، ولها ابنة تدعى "سها"، تتعرض «نورهان» للعديد من المشكلات بسبب رجال الاعمال المنافسين لشركة والدها مما ينتج عن ذلك مشاكل كثيرة وفي نفس الوقت هناك شخص يدعى فتحي زيدان يتزعم مجموعة اجرامية يقودها سراج الكومي يحاول الضابط طارق الرفاعي زوج نورهان الامساك بالمجموعة الاجرامية فتتوالى الاحداث في اطار من الاثارة والتشويق والاكشن حول حياة و قصة نورهان و فتحي.(n)</desc>
+    <credits>
+      <director>محمد حمدي</director>
+      <director>احمد سامح</director>
+      <actor>وفاء عامر</actor>
+      <actor>نضال الشافعي</actor>
+      <actor>ضياء عبدالخالق</actor>
+      <actor>صلاح رشوان</actor>
+      <actor>أمل بوشوشة</actor>
+      <actor>ياسمين صبري</actor>
+      <writer>حسام موسى</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>6.8</value>
     </rating>
   </programme>
-  <programme start="20170208121500 +0200" stop="20170208130000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215110000 +0100" stop="20170215120000 +0100" channel="Alhayat Series">
+    <title lang="ar">الداعية</title>
+    <desc lang="ar">تدور أحداث المسلسل في إطار رومانسي اجتماعي حول فكرة الدعوة إلى لم الشمل بالمودة والالتحام مهما تباعدت بينهم وجهات النظر، وقد تجسد ذلك في شخصية الداعية الإسلامي المتحفظ وليس المتطرف (هاني سلامة)، والذي يعمل بإحدى القنوات الفضائية الدينية، وبمرور الوقت يتعرف على عازفة الكمان (بسمة) التي تتعلق بحبه ويبادلها هو الآخر نفس الشعور، ويجد نفسه مؤمنا بدور الفن الراقي ومدى قوة تأثيره على المجتمع الذي يعيش فيه، إلا أنه في النهاية يجد أن التزامه الديني يقف حائلا بينه وبينها. 
+This romantic series follows an Islamic preacher (Hany Salama) who has gained fame around Egypt preaching on Islamic satellite channels. He becomes a man conflicted when he meets a beautiful activist violin player (Basma). As they become closer and mutual romantic feelings build, their vast ideological differences on religion and art and politics set off an internal conflict for the preacher(n)</desc>
+    <credits>
+      <director>محمد جمال العدل</director>
+      <actor>هاني سلامة</actor>
+      <actor>بسمة</actor>
+      <actor>ريهام عبدالغفور</actor>
+      <actor>أحمد فهمي</actor>
+      <actor>صفاء الطوخي</actor>
+      <actor>أحمد راتب</actor>
+      <writer>مدحت العدل</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.9</value>
     </rating>
   </programme>
-  <programme start="20170208130000 +0200" stop="20170208131500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215120000 +0100" stop="20170215130000 +0100" channel="Alhayat Series">
+    <title lang="ar">أرض النعام</title>
+    <desc lang="ar">يروي المسلسل ثلاث حكايات رئيسية: حلا (رانيا يوسف) التي تعاني من قسوة عمها الذي استولى على ميراثها دون وجه حق بعد وفاة والدها وتحاول ان تعرف مصير أمها التائهة، وكيتي (زينة) الفتاة اليتيمة التي تهيم على وجهها طيلة الوقت بين من تعرفهم، ويحيى (أحمد زاهر) الذي يعيش أزمة نفسية تجعله يتمنى الموت ويخاف من قدوم طفل من صلبه. 
+The series portrays the aftermath of the January 2011 uprisings and the way Egypt's political and economical turmoil affected its society(n)</desc>
+    <credits>
+      <director>غادة سليم</director>
+      <director>مصطفى مدبولي</director>
+      <actor>رانيا يوسف</actor>
+      <actor>زينة</actor>
+      <actor>محمد شاهين</actor>
+      <actor>أحمد فؤاد سليم</actor>
+      <actor>مروة عبدالمنعم</actor>
+      <actor>نهلة سلامة</actor>
+      <writer>ناصر عبدالرحمن</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>3.8</value>
     </rating>
   </programme>
-  <programme start="20170208131500 +0200" stop="20170208140000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215130000 +0100" stop="20170215140000 +0100" channel="Alhayat Series">
+    <title lang="ar">هي ودافنشي</title>
+    <desc lang="ar">يدور العمل في إطار من الكوميديا السوادء حول إحدى المحاميات التي تتعرض لحادث تدخل على إثره إحدى المصحات النفسية لمدة ست سنوات، وبعد خروجها من المصحة تصاب بحالة هلاوس حيث تجد دافنشي أمامها في كل ماكن.(n)</desc>
+    <credits>
+      <director>عبدالعزيز حشاد</director>
+      <director>أسامة فاضل</director>
+      <actor>ليلى علوي</actor>
+      <actor>خالد الصاوي</actor>
+      <actor>مي سليم</actor>
+      <actor>أحمد سعيد عبدالغني</actor>
+      <actor>بيومي فؤاد</actor>
+      <actor>ياسر علي ماهر</actor>
+      <writer>محمد الحناوي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208140000 +0200" stop="20170208141500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215140000 +0100" stop="20170215150000 +0100" channel="Alhayat Series">
+    <title lang="ar">حالة عشق</title>
+    <desc lang="ar">قصة حب بين مذيعة في إحدى المحطات اﻹذاعية (مي عز الدين)، والتي تنتمي في الأصل لعائلة ارستقراطية ولكنها تعيش الآن في حارة شعبية، وبين شاب يزاملها في العمل في نفس المحطة اﻹذاعية (حازم سمير)، تتزوج والدتها (بوسي) من رجل غني ينقل الأسرة إلى مستوى آخر وما يستتبعه ذلك من تحولات درامية. 
+The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated(n)</desc>
+    <credits>
+      <director>إبراهيم فخر</director>
+      <actor>مي عز الدين</actor>
+      <actor>راندا البحيري</actor>
+      <actor>بوسي</actor>
+      <actor>حازم سمير</actor>
+      <actor>سامح الصريطي</actor>
+      <actor>أحمد صيام</actor>
+      <writer>محمد صلاح العزب</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <rating system="EG">
+      <value>7.2</value>
     </rating>
   </programme>
-  <programme start="20170208141500 +0200" stop="20170208150000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Special</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215150000 +0100" stop="20170215160000 +0100" channel="Alhayat Series">
+    <title lang="ar">ظرف أسود</title>
+    <desc lang="ar">تدور أحداث المسلسل في سياق من اﻹثارة والتشويق، حول رجل يفقد كل ما كان يملكه في يوم من الأيام، حيث يفقد عائلته، وعمله، وكل ما كان له قيمة في حياته ، ويصير المستقبل أمامه حالكًا مظلمًا، وهو ما يضطره للدخول إلى كواليس عالم جديد عليه، لا يعرف من خلاله ما الذي يمكن أن يصادفه في طريقه. 
+When a man loses everything he once had, including his family, he slips into a dark world he never knew of. What can get in his way? And where will he end up(n)</desc>
+    <credits>
+      <director>أحمد مدحت</director>
+      <actor>عمرو يوسف</actor>
+      <actor>درة</actor>
+      <actor>صلاح عبدالله</actor>
+      <actor>محمود البزاوي</actor>
+      <actor>إنجي المقدم</actor>
+      <actor>محمد ممدوح</actor>
+      <writer>أحمد مدحت</writer>
+      <writer>أيمن مدحت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208150000 +0200" stop="20170208151500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215160000 +0100" stop="20170215170000 +0100" channel="Alhayat Series">
+    <title lang="ar">شطرنج</title>
+    <desc lang="ar">تدور الأحداث حول "نورهان" زوجة ضابط شرطة طارق وهى ابنة رجل أعمال مهم (صلاح رشوان)، ولها ابنة تدعى "سها"، تتعرض «نورهان» للعديد من المشكلات بسبب رجال الاعمال المنافسين لشركة والدها مما ينتج عن ذلك مشاكل كثيرة وفي نفس الوقت هناك شخص يدعى فتحي زيدان يتزعم مجموعة اجرامية يقودها سراج الكومي يحاول الضابط طارق الرفاعي زوج نورهان الامساك بالمجموعة الاجرامية فتتوالى الاحداث في اطار من الاثارة والتشويق والاكشن حول حياة و قصة نورهان و فتحي.(n)</desc>
+    <credits>
+      <director>محمد حمدي</director>
+      <director>احمد سامح</director>
+      <actor>وفاء عامر</actor>
+      <actor>نضال الشافعي</actor>
+      <actor>ضياء عبدالخالق</actor>
+      <actor>صلاح رشوان</actor>
+      <actor>أمل بوشوشة</actor>
+      <actor>ياسمين صبري</actor>
+      <writer>حسام موسى</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>6.8</value>
     </rating>
   </programme>
-  <programme start="20170208151500 +0200" stop="20170208160000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215170000 +0100" stop="20170215180000 +0100" channel="Alhayat Series">
+    <title lang="ar">الداعية</title>
+    <desc lang="ar">تدور أحداث المسلسل في إطار رومانسي اجتماعي حول فكرة الدعوة إلى لم الشمل بالمودة والالتحام مهما تباعدت بينهم وجهات النظر، وقد تجسد ذلك في شخصية الداعية الإسلامي المتحفظ وليس المتطرف (هاني سلامة)، والذي يعمل بإحدى القنوات الفضائية الدينية، وبمرور الوقت يتعرف على عازفة الكمان (بسمة) التي تتعلق بحبه ويبادلها هو الآخر نفس الشعور، ويجد نفسه مؤمنا بدور الفن الراقي ومدى قوة تأثيره على المجتمع الذي يعيش فيه، إلا أنه في النهاية يجد أن التزامه الديني يقف حائلا بينه وبينها. 
+This romantic series follows an Islamic preacher (Hany Salama) who has gained fame around Egypt preaching on Islamic satellite channels. He becomes a man conflicted when he meets a beautiful activist violin player (Basma). As they become closer and mutual romantic feelings build, their vast ideological differences on religion and art and politics set off an internal conflict for the preacher(n)</desc>
+    <credits>
+      <director>محمد جمال العدل</director>
+      <actor>هاني سلامة</actor>
+      <actor>بسمة</actor>
+      <actor>ريهام عبدالغفور</actor>
+      <actor>أحمد فهمي</actor>
+      <actor>صفاء الطوخي</actor>
+      <actor>أحمد راتب</actor>
+      <writer>مدحت العدل</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.9</value>
     </rating>
   </programme>
-  <programme start="20170208160000 +0200" stop="20170208161500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215180000 +0100" stop="20170215190000 +0100" channel="Alhayat Series">
+    <title lang="ar">أرض النعام</title>
+    <desc lang="ar">يروي المسلسل ثلاث حكايات رئيسية: حلا (رانيا يوسف) التي تعاني من قسوة عمها الذي استولى على ميراثها دون وجه حق بعد وفاة والدها وتحاول ان تعرف مصير أمها التائهة، وكيتي (زينة) الفتاة اليتيمة التي تهيم على وجهها طيلة الوقت بين من تعرفهم، ويحيى (أحمد زاهر) الذي يعيش أزمة نفسية تجعله يتمنى الموت ويخاف من قدوم طفل من صلبه. 
+The series portrays the aftermath of the January 2011 uprisings and the way Egypt's political and economical turmoil affected its society(n)</desc>
+    <credits>
+      <director>غادة سليم</director>
+      <director>مصطفى مدبولي</director>
+      <actor>رانيا يوسف</actor>
+      <actor>زينة</actor>
+      <actor>محمد شاهين</actor>
+      <actor>أحمد فؤاد سليم</actor>
+      <actor>مروة عبدالمنعم</actor>
+      <actor>نهلة سلامة</actor>
+      <writer>ناصر عبدالرحمن</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>3.8</value>
     </rating>
   </programme>
-  <programme start="20170208161500 +0200" stop="20170208170000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215190000 +0100" stop="20170215200000 +0100" channel="Alhayat Series">
+    <title lang="ar">هي ودافنشي</title>
+    <desc lang="ar">يدور العمل في إطار من الكوميديا السوادء حول إحدى المحاميات التي تتعرض لحادث تدخل على إثره إحدى المصحات النفسية لمدة ست سنوات، وبعد خروجها من المصحة تصاب بحالة هلاوس حيث تجد دافنشي أمامها في كل ماكن.(n)</desc>
+    <credits>
+      <director>عبدالعزيز حشاد</director>
+      <director>أسامة فاضل</director>
+      <actor>ليلى علوي</actor>
+      <actor>خالد الصاوي</actor>
+      <actor>مي سليم</actor>
+      <actor>أحمد سعيد عبدالغني</actor>
+      <actor>بيومي فؤاد</actor>
+      <actor>ياسر علي ماهر</actor>
+      <writer>محمد الحناوي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208170000 +0200" stop="20170208173000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport | Jurnal Virtual</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215200000 +0100" stop="20170215210000 +0100" channel="Alhayat Series">
+    <title lang="ar">حالة عشق</title>
+    <desc lang="ar">قصة حب بين مذيعة في إحدى المحطات اﻹذاعية (مي عز الدين)، والتي تنتمي في الأصل لعائلة ارستقراطية ولكنها تعيش الآن في حارة شعبية، وبين شاب يزاملها في العمل في نفس المحطة اﻹذاعية (حازم سمير)، تتزوج والدتها (بوسي) من رجل غني ينقل الأسرة إلى مستوى آخر وما يستتبعه ذلك من تحولات درامية. 
+The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated(n)</desc>
+    <credits>
+      <director>إبراهيم فخر</director>
+      <actor>مي عز الدين</actor>
+      <actor>راندا البحيري</actor>
+      <actor>بوسي</actor>
+      <actor>حازم سمير</actor>
+      <actor>سامح الصريطي</actor>
+      <actor>أحمد صيام</actor>
+      <writer>محمد صلاح العزب</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <rating system="EG">
+      <value>7.2</value>
     </rating>
   </programme>
-  <programme start="20170208173000 +0200" stop="20170208190000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal European</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215210000 +0100" stop="20170215220000 +0100" channel="Alhayat Series">
+    <title lang="ar">ظرف أسود</title>
+    <desc lang="ar">تدور أحداث المسلسل في سياق من اﻹثارة والتشويق، حول رجل يفقد كل ما كان يملكه في يوم من الأيام، حيث يفقد عائلته، وعمله، وكل ما كان له قيمة في حياته ، ويصير المستقبل أمامه حالكًا مظلمًا، وهو ما يضطره للدخول إلى كواليس عالم جديد عليه، لا يعرف من خلاله ما الذي يمكن أن يصادفه في طريقه. 
+When a man loses everything he once had, including his family, he slips into a dark world he never knew of. What can get in his way? And where will he end up(n)</desc>
+    <credits>
+      <director>أحمد مدحت</director>
+      <actor>عمرو يوسف</actor>
+      <actor>درة</actor>
+      <actor>صلاح عبدالله</actor>
+      <actor>محمود البزاوي</actor>
+      <actor>إنجي المقدم</actor>
+      <actor>محمد ممدوح</actor>
+      <writer>أحمد مدحت</writer>
+      <writer>أيمن مدحت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>7.4</value>
     </rating>
   </programme>
-  <programme start="20170208190000 +0200" stop="20170208193000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport | Jurnal Virtual</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215220000 +0100" stop="20170215230000 +0100" channel="Alhayat Series">
+    <title lang="ar">شطرنج</title>
+    <desc lang="ar">تدور الأحداث حول "نورهان" زوجة ضابط شرطة طارق وهى ابنة رجل أعمال مهم (صلاح رشوان)، ولها ابنة تدعى "سها"، تتعرض «نورهان» للعديد من المشكلات بسبب رجال الاعمال المنافسين لشركة والدها مما ينتج عن ذلك مشاكل كثيرة وفي نفس الوقت هناك شخص يدعى فتحي زيدان يتزعم مجموعة اجرامية يقودها سراج الكومي يحاول الضابط طارق الرفاعي زوج نورهان الامساك بالمجموعة الاجرامية فتتوالى الاحداث في اطار من الاثارة والتشويق والاكشن حول حياة و قصة نورهان و فتحي.(n)</desc>
+    <credits>
+      <director>محمد حمدي</director>
+      <director>احمد سامح</director>
+      <actor>وفاء عامر</actor>
+      <actor>نضال الشافعي</actor>
+      <actor>ضياء عبدالخالق</actor>
+      <actor>صلاح رشوان</actor>
+      <actor>أمل بوشوشة</actor>
+      <actor>ياسمين صبري</actor>
+      <writer>حسام موسى</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭ ﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>6.8</value>
     </rating>
   </programme>
-  <programme start="20170208193000 +0200" stop="20170208210000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208210000 +0200" stop="20170208220000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Special</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208220000 +0200" stop="20170208224500 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal: Alaves - Celta Vigo Cupa Spaniei</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208224500 +0200" stop="20170208230000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208230000 +0200" stop="20170209000000 +0200" channel="Digi Sport 1">
-    <title lang="ro">Fotbal: Alaves - Celta Vigo Cupa Spaniei</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208070000 +0200" stop="20170208083000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208083000 +0200" stop="20170208093000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Digi Sport Special</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208093000 +0200" stop="20170208111500 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal: Roma - Fiorentina Serie A</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208111500 +0200" stop="20170208130000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal: PSG - Lille Ligue 1</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208130000 +0200" stop="20170208144500 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal: Barcelona - Atletico Madrid Cupa Spaniei</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208144500 +0200" stop="20170208153000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Rezumat Italia Serie A</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208153000 +0200" stop="20170208160000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Rezumat Belgia Pro League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208160000 +0200" stop="20170208170000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Rezumat Spania La Liga</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208170000 +0200" stop="20170208173000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208173000 +0200" stop="20170208190000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Handbal F: CSM Bucuresti - HC Dunarea Braila Liga Nationala</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208190000 +0200" stop="20170208210000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal: Crotone - Juventus Serie A</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208210000 +0200" stop="20170208213000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208213000 +0200" stop="20170208214500 +0200" channel="Digi Sport 2">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208214500 +0200" stop="20170208234500 +0200" channel="Digi Sport 2">
-    <title lang="ro">Fotbal: Leicester - Derby Cupa Angliei</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20170208234500 +0200" stop="20170209000000 +0200" channel="Digi Sport 2">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
+  <programme start="20170215230000 +0100" stop="20170216000000 +0100" channel="Alhayat Series">
+    <title lang="ar">الداعية</title>
+    <desc lang="ar">تدور أحداث المسلسل في إطار رومانسي اجتماعي حول فكرة الدعوة إلى لم الشمل بالمودة والالتحام مهما تباعدت بينهم وجهات النظر، وقد تجسد ذلك في شخصية الداعية الإسلامي المتحفظ وليس المتطرف (هاني سلامة)، والذي يعمل بإحدى القنوات الفضائية الدينية، وبمرور الوقت يتعرف على عازفة الكمان (بسمة) التي تتعلق بحبه ويبادلها هو الآخر نفس الشعور، ويجد نفسه مؤمنا بدور الفن الراقي ومدى قوة تأثيره على المجتمع الذي يعيش فيه، إلا أنه في النهاية يجد أن التزامه الديني يقف حائلا بينه وبينها. 
+This romantic series follows an Islamic preacher (Hany Salama) who has gained fame around Egypt preaching on Islamic satellite channels. He becomes a man conflicted when he meets a beautiful activist violin player (Basma). As they become closer and mutual romantic feelings build, their vast ideological differences on religion and art and politics set off an internal conflict for the preacher(n)</desc>
+    <credits>
+      <director>محمد جمال العدل</director>
+      <actor>هاني سلامة</actor>
+      <actor>بسمة</actor>
+      <actor>ريهام عبدالغفور</actor>
+      <actor>أحمد فهمي</actor>
+      <actor>صفاء الطوخي</actor>
+      <actor>أحمد راتب</actor>
+      <writer>مدحت العدل</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.9</value>
     </rating>
   </programme>
 </tv>

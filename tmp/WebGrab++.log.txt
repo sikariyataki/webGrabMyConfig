@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 08/02/2017 22:21:46
+[        ] Job started at 15/02/2017 01:05:59
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.4.38.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -16,7 +16,9 @@
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /home/pi/wg++/tmp/WebGrab++.config.xml
-[  Info  ] found: /home/pi/wg++/tmp/cinemagia.ro.ini -- Revision 00
+[Warning ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] Reading cookie file: /home/pi/wg++/tmp/elcinema.com_cookies.txt
+[  Info  ] found: /home/pi/wg++/tmp/elcinema.ar.com.ini -- Revision 05
 [  Info  ] input file /home/pi/wg++/tmp/epg.xmltv not found   ... created a new one ... 
 [  Info  ] 
 [  Info  ] 
@@ -24,12 +26,15 @@
 [  Info  ] 
 [  Info  ] 
 [  Info  ] Group (0) :
-[  Info  ] update requested for - 10 - out of - 10 - channels for 1 day(s)
+[  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
 [  Debug ] 
-[  Info  ] (   1/10  ) CINEMAGIA.RO -- chan. (xmltv_id=Digi Sport 1) -- mode Incremental
+[  Info  ] (   1/1   ) ELCINEMA.AR.COM -- chan. (xmltv_id=Alhayat Series) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   2/10  ) CINEMAGIA.RO -- chan. (xmltv_id=Digi Sport 2) -- mode Incremental
+[  Debug ] 24 shows in 1 channels
+[  Debug ] 0 updated shows
+[  Debug ] 24 new shows added
 [  Info  ] 
-[  Debug ] 
-[  Info  ] (   3/10  ) CINEMAGIA.RO -- chan. (xmltv_id=Digi Sport 3) -- mode Incremental
+[  Info  ] 
+[        ] Job finished at 15/02/2017 01:06:26 done in 27s
+[  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.

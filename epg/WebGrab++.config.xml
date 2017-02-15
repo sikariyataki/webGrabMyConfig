@@ -107,20 +107,18 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="elcinema.ar.com" site_id="1125" xmltv_id="Fox Movies">Fox Movies</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1223" xmltv_id="Al Nahar Drama">Al Nahar Drama</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1193" xmltv_id="Al Nahar TV">Al Nahar TV</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1145" xmltv_id="Mehwar">Mehwar</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1227" xmltv_id="Sada El Balad D...">Sada El Balad Drama</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1156" xmltv_id="Nile Drama">Nile Drama</channel>
+    <channel update="i" site="elcinema.ar.com" site_id="1227" xmltv_id="Sada El Balad Drama">Sada El Balad Drama</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1279" xmltv_id="Sada El Balad  +2">Sada El Balad +2</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1177" xmltv_id="Sama Dubai">Sama Dubai</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1239" xmltv_id="MBC Egypt">MBC Egypt</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1278" xmltv_id="MBC MASR 2">MBC MASR 2</channel>
-    <channel update="i" site="mbc.net.en" site_id="Mbc-PRO-SPORTS-1" xmltv_id="Mbc PRO SPORTS 1">MBC PRO Sports 1</channel>
-    <channel update="i" site="mbc.net.en" site_id="Mbc-PRO-SPORTS-2" xmltv_id="Mbc PRO SPORTS 2">MBC PRO Sports 2</channel>
+    <channel update="i" site="mbc.net.ar" site_id="Mbc-PRO-SPORTS-1" xmltv_id="Mbc PRO SPORTS 1">MBC PRO Sports 1</channel>
+    <channel update="i" site="mbc.net.ar" site_id="Mbc-PRO-SPORTS-2" xmltv_id="Mbc PRO SPORTS 2">MBC PRO Sports 2</channel>
     <channel update="i" site="invision.com.sa" site_id="754##page=8" xmltv_id="MBC Pro Sports 3 HD">MBC Pro Sports 3</channel>
-    <channel update="i" site="invision.com.sa" site_id="755##page=9" xmltv_id="MBC Pro Sports 4">MBC Pro Sports 4</channel>
-    <channel update="i" site="invision.com.sa" site_id="756##page=9" xmltv_id="Al Kass">Al Kass</channel>
-    <channel update="i" site="invision.com.sa" site_id="757##page=9" xmltv_id="Al Kass 2">Al Kass 2</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1203" xmltv_id="ONTV">ONTV</channel>
+    <channel update="i" site="invision.com.sa" site_id="755##page=8" xmltv_id="MBC Pro Sports 4">MBC Pro Sports 4</channel>
+    <channel update="i" site="invision.com.sa" site_id="756##page=8" xmltv_id="Al Kass">Al Kass</channel>
+    <channel update="i" site="invision.com.sa" site_id="757##page=8" xmltv_id="Al Kass 2">Al Kass 2</channel>
+    <channel update="i" site="elcinema.ar.com" site_id="1287" xmltv_id="FOOD NETWORK HD ">FOOD NETWORK HD </channel>
     <channel update="i" site="elcinema.ar.com" site_id="1198" xmltv_id="CBC">CBC</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1226" xmltv_id="Sada El Balad">Sada El Balad</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1138" xmltv_id="Alhayat Series">Alhayat Series</channel>
@@ -130,18 +128,16 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="elcinema.ar.com" site_id="1284" xmltv_id="Dubai Drama">Dubai Drama</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1199" xmltv_id="CBC Drama">CBC Drama</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1225" xmltv_id="LBC Europe">LBC Europe</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1224" xmltv_id="Al Nahar Drama +2">Al Nahar Drama +2</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1179" xmltv_id="Dream 1">Dream 1</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1264" xmltv_id="El Zafra">El Zafra</channel>
+    <channel update="i" site="elcinema.ar.com" site_id="1237" xmltv_id="Al Nahar Cinema">Al Nahar Cinema</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1122" xmltv_id="ART Stories">ART Stories</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1246" xmltv_id="LBC Drama">LBC Drama</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1134" xmltv_id="ONTV PLUS">ONTV PLUS</channel>
+    <channel update="i" site="elcinema.ar.com" site_id="1176" xmltv_id="Cima">Cima</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1273" xmltv_id="E Entertainment">E Entertainment</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1283" xmltv_id="Dubai Zaman">Dubai Zaman</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1169" xmltv_id="Dubai TV">Dubai TV</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1137" xmltv_id="Alhayat TV">Alhayat TV</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1274" xmltv_id="ITV Choice">ITV Choice</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1222" xmltv_id="Al Nahar +2">Al Nahar +2</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1255" xmltv_id="OSN First HBO">OSN First HBO</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1233" xmltv_id="Fan">Fan</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1168" xmltv_id="LBC International">LBC International</channel>
@@ -169,13 +165,10 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="m.tvguide.co.uk-full" site_id="264" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
     <channel update="i" site="m.tvguide.co.uk-full" site_id="646" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
     <channel update="i" site="m.tvguide.co.uk-full" site_id="918" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
-    <!-- <channel update="i" site="m.tvguide.co.uk-full" site_id="919" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel> -->
+    
     <channel update="i" site="m.tvguide.co.uk-full" site_id="263" xmltv_id="Sky Sports News">Sky Sports News</channel>
     <channel update="i" site="m.tvguide.co.uk-full" site_id="502" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel update="i" site="m.tvguide.co.uk-full" site_id="400" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="m.tvguide.co.uk-full" site_id="875" xmltv_id="BT Sport 1">BT Sport 1</channel>
-    <channel update="i" site="m.tvguide.co.uk-full" site_id="877" xmltv_id="BT Sport 2">BT Sport 2</channel>
-    <channel update="i" site="m.tvguide.co.uk-full" site_id="967" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
 	
 	<channel update="i" site="seevii.com" site_id="1120" xmltv_id="Seevii AlOla">Seevii AlOla</channel>
     <channel update="i" site="seevii.com" site_id="1132" xmltv_id="Seevii Drama HD">Seevii Drama HD</channel>
@@ -236,8 +229,8 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="seevii.com" site_id="65" xmltv_id="Panorama Food">Panorama Food</channel>
     <channel update="i" site="seevii.com" site_id="343" xmltv_id="Dream 2">Dream 2</channel>
     <channel update="i" site="seevii.com" site_id="706" xmltv_id="Nile Cinema">Nile Cinema</channel>
-    <channel update="i" site="seevii.com" site_id="720" xmltv_id="TokTok Cima">TokTok Cima</channel>
-    <channel update="i" site="seevii.com" site_id="783" xmltv_id="Bahrain 55">Bahrain 55</channel>
+    <channel update="i" site="seevii.com" site_id="1186" xmltv_id="LBC International">LBC International</channel>
+    <channel update="i" site="seevii.com" site_id="1290" xmltv_id="DMC">DMC</channel>
     <channel update="i" site="seevii.com" site_id="1134" xmltv_id="Panorama Drama">Panorama Drama</channel>
     <channel update="i" site="seevii.com" site_id="932" xmltv_id="Panorama Drama 2">Panorama Drama 2</channel>
 	
@@ -256,11 +249,6 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="guidatv.sky.it" site_id="sky-sport-plus-hd" xmltv_id="Sky Sport Plus HD">Sky Sport Plus HD</channel>
     <channel update="i" site="guidatv.sky.it" site_id="sky-supercalcio-hd" xmltv_id="Sky Supercalcio HD">Sky Supercalcio HD</channel>
     <channel update="i" site="guidatv.sky.it" site_id="sky-calcio-1-hd" xmltv_id="Sky Calcio 1 HD">Sky Calcio 1 HD</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="sky-calcio-2-hd" xmltv_id="Sky Calcio 2 HD">Sky Calcio 2 HD</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="sky-calcio-3-hd" xmltv_id="Sky Calcio 3 HD">Sky Calcio 3 HD</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="sky-calcio-4-hd" xmltv_id="Sky Calcio 4 HD">Sky Calcio 4 HD</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="sky-calcio-5-hd" xmltv_id="Sky Calcio 5 HD">Sky Calcio 5 HD</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="sky-calcio-6-hd" xmltv_id="Sky Calcio 6 HD">Sky Calcio 6 HD</channel>
 	
 	<channel update="i" site="m.tvprofil.net" site_id="tv-arena-sport-1-hr" xmltv_id="Arena Sport 1.hr">Arena Sport 1.hr</channel>
     <channel update="i" site="m.tvprofil.net" site_id="tv-arena-sport-2-hr" xmltv_id="Arena Sport 2.hr">Arena Sport 2.hr</channel>
@@ -285,7 +273,7 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="cinemagia.ro" site_id="digi-sport-2" xmltv_id="Digi Sport 2">Digi Sport 2</channel>
     <channel update="i" site="cinemagia.ro" site_id="digi-sport-3" xmltv_id="Digi Sport 3">Digi Sport 3</channel>
     <channel update="i" site="cinemagia.ro" site_id="digi-sport-4" xmltv_id="Digi Sport 4">Digi Sport 4</channel>
-    <channel update="i" site="cinemagia.ro" site_id="dolce-sport" xmltv_id="Dolce Sport 1">Dolce Sport 1</channel>
+    <channel update="i" site="cinemagia.ro" site_id="dolce-sport-1" xmltv_id="Dolce Sport 1">Dolce Sport 1</channel>
     <channel update="i" site="cinemagia.ro" site_id="dolce-sport-2" xmltv_id="Dolce Sport 2">Dolce Sport 2</channel>
     <channel update="i" site="cinemagia.ro" site_id="dolce-sport-3" xmltv_id="Dolce Sport 3">Dolce Sport 3</channel>
     <channel update="i" site="cinemagia.ro" site_id="dolce-sport-4" xmltv_id="Dolce Sport 4">Dolce Sport 4</channel>

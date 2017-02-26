@@ -163,14 +163,14 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="bein.net" site_id="mena_entertaintment/baraem" xmltv_id="baraem">Baraem</channel> 
     <channel update="i" site="bein.net" site_id="france_sports/hd3" xmltv_id="fr_3">Bein sports 3 (fr)</channel>	
 	
-	  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
-    <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies HD+2">OSN Movies HD+2</channel>
+	  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel><channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
+    <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD +2h">OSN Movies First HD +2h</channel>
     <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
-    <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action+2">OSN Movies Action+2</channel>
-    <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies Premiere HD">OSN Movies Premiere HD</channel>
-    <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies Premiere+2">OSN Movies Premiere+2</channel>
-    <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Drama HD">OSN Movies Drama HD</channel>
-    <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Drama+2">OSN Movies Drama+2</channel>
+    <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>
+    <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD Premier">OSN Movies HD Premier</channel>
+    <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
+    <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
+    <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel>
     <channel update="i" site="osn.com" site_id="OMF" xmltv_id="OSN Movies Festival HD">OSN Movies Festival HD</channel>
     <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Movies Kids HD">OSN Movies Kids HD</channel>
     <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Family HD">OSN Movies Family HD</channel>
@@ -184,10 +184,9 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="STG" xmltv_id="Star Gold">Star Gold</channel>
     <channel update="i" site="osn.com" site_id="ZEC" xmltv_id="Zee Cinema">Zee Cinema</channel>
     <channel update="i" site="osn.com" site_id="UTM" xmltv_id="UTV Movies">UTV Movies</channel>
-    <channel update="i" site="osn.com" site_id="OYH" xmltv_id="OSN Yahala HD">OSN Yahala HD</channel>
-    <channel update="i" site="osn.com" site_id="OYX" xmltv_id="OSN Yahala HD +2">OSN Yahala HD +2</channel>
-    <channel update="i" site="osn.com" site_id="OYS" xmltv_id="OSN Yahala Shabab HD">OSN Yahala Shabab HD</channel>
-    <channel update="i" site="osn.com" site_id="OYA" xmltv_id="OSN Yahala Drama HD">OSN Yahala Drama HD</channel>
+    <channel update="i" site="osn.com" site_id="OYH" xmltv_id="OSN Ya Hala Al Oula">OSN Ya Hala Al Oula</channel>
+    <channel update="i" site="osn.com" site_id="OYX" xmltv_id="OSN Ya Hala Al Oula +2h">OSN Ya Hala Al Oula +2h</channel>
+    <channel update="i" site="osn.com" site_id="OYA" xmltv_id="OSN Ya Hala HD">OSN Ya Hala HD</channel>
     <channel update="i" site="osn.com" site_id="OYC" xmltv_id="OSN Yahala Cinema HD">OSN Yahala Cinema HD</channel>
     <channel update="i" site="osn.com" site_id="SER" xmltv_id="Series Channel">Series Channel</channel>
     <channel update="i" site="osn.com" site_id="SE4" xmltv_id="Series +2">Series +2</channel>
@@ -203,11 +202,11 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="AF2" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
     <channel update="i" site="osn.com" site_id="ACM" xmltv_id="ART Cinema">ART Cinema</channel>
     <channel update="i" site="osn.com" site_id="ADH" xmltv_id="AD Drama + HD">AD Drama + HD</channel>
-    <channel update="i" site="osn.com" site_id="OFH" xmltv_id="OSN First HD">OSN First HD</channel>
+    <channel update="i" site="osn.com" site_id="OFH" xmltv_id="OSN Series First HD">OSN Series First HD</channel>
     <channel update="i" site="osn.com" site_id="OFS" xmltv_id="OSN First HBO HD">OSN First HBO HD</channel>
-    <channel update="i" site="osn.com" site_id="OFX" xmltv_id="OSN First +2">OSN First +2</channel>
-    <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN First Comedy HD">OSN First Comedy HD</channel>
-    <channel update="i" site="osn.com" site_id="OCX" xmltv_id="OSN First Comedy +2">OSN First Comedy +2</channel>
+    <channel update="i" site="osn.com" site_id="OFX" xmltv_id="OSN Series HD">OSN Series HD</channel>
+    <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN Series Comedy HD">OSN Series Comedy HD</channel>
+    <channel update="i" site="osn.com" site_id="OCX" xmltv_id="OSN Series Comedy HD +2h">OSN Series Comedy HD +2h</channel>
     <channel update="i" site="osn.com" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="osn.com" site_id="SFY" xmltv_id="Syfy HD">Syfy HD</channel>
     <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
@@ -219,17 +218,20 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="FIN" xmltv_id="Fine Living">Fine Living</channel>
     <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel update="i" site="osn.com" site_id="TRA" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="osn.com" site_id="ATV" xmltv_id="\\u0026 TV">\\u0026 TV</channel>
     <channel update="i" site="osn.com" site_id="STP" xmltv_id="Star Plus Middle East">Star Plus Middle East</channel>
     <channel update="i" site="osn.com" site_id="ZET" xmltv_id="Zee TV">Zee TV</channel>
     <channel update="i" site="osn.com" site_id="SET" xmltv_id="SET Middle East">SET Middle East</channel>
     <channel update="i" site="osn.com" site_id="COL" xmltv_id="Colors">Colors</channel>
     <channel update="i" site="osn.com" site_id="HUM" xmltv_id="Hum TV Middle East">Hum TV Middle East</channel>
+    <channel update="i" site="osn.com" site_id="RIS" xmltv_id="Rishtey TV">Rishtey TV</channel>
     <channel update="i" site="osn.com" site_id="LIF" xmltv_id="Life OK Middle East">Life OK Middle East</channel>
     <channel update="i" site="osn.com" site_id="SAB" xmltv_id="Sab TV">Sab TV</channel>
-    <channel update="i" site="osn.com" site_id="ARY" xmltv_id="Ary Digital UAE">Ary Digital UAE</channel>
+    <channel update="i" site="osn.com" site_id="ARY" xmltv_id="Ary Digital TV">Ary Digital TV</channel>
     <channel update="i" site="osn.com" site_id="GEO" xmltv_id="GEO TV">GEO TV</channel>
     <channel update="i" site="osn.com" site_id="MAS" xmltv_id="Masala TV">Masala TV</channel>
     <channel update="i" site="osn.com" site_id="KIR" xmltv_id="Kiran TV">Kiran TV</channel>
+    <channel update="i" site="osn.com" site_id="URD" xmltv_id="Urdu 1">Urdu 1</channel>
     <channel update="i" site="osn.com" site_id="STV" xmltv_id="Sun TV">Sun TV</channel>
     <channel update="i" site="osn.com" site_id="SVI" xmltv_id="Star Vijay International">Star Vijay International</channel>
     <channel update="i" site="osn.com" site_id="ASN" xmltv_id="Asianet">Asianet</channel>
@@ -249,7 +251,8 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel update="i" site="osn.com" site_id="NJR" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="osn.com" site_id="JJM" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="osn.com" site_id="KDZ" xmltv_id="OSN Kid Zone TV">OSN Kid Zone TV</channel>
     <channel update="i" site="osn.com" site_id="BAB" xmltv_id="Baby TV Europe">Baby TV Europe</channel>
     <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
     <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
@@ -261,6 +264,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="FRE" xmltv_id="France 24 English">France 24 English</channel>
     <channel update="i" site="osn.com" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
     <channel update="i" site="osn.com" site_id="DUN" xmltv_id="Dunya News">Dunya News</channel>
+    <channel update="i" site="osn.com" site_id="AYN" xmltv_id="ARY News">ARY News</channel>
     <channel update="i" site="osn.com" site_id="GON" xmltv_id="Geo News">Geo News</channel>
     <channel update="i" site="osn.com" site_id="ABP" xmltv_id="ABP News India">ABP News India</channel>
     <channel update="i" site="osn.com" site_id="ZEN" xmltv_id="Aaj Tak">Aaj Tak</channel>
@@ -276,25 +280,24 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="osn.com" site_id="DCF" xmltv_id="Discovery Family HD">Discovery Family HD</channel>
     <channel update="i" site="osn.com" site_id="SCI" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
     <channel update="i" site="osn.com" site_id="DCX" xmltv_id="IDX HD">IDX HD</channel>
-    <channel update="i" site="osn.com" site_id="CAI" xmltv_id="Crime \\u0026 Investigation Network">Crime \\u0026 Investigation Network</channel>
+    <channel update="i" site="osn.com" site_id="CAI" xmltv_id="Crime \\u0026 Investigation Network">Crime and Investigation Network</channel>
     <channel update="i" site="osn.com" site_id="HIS" xmltv_id="History HD">History HD</channel>
     <channel update="i" site="osn.com" site_id="HI2" xmltv_id="H2 HD">H2 HD</channel>
     <channel update="i" site="osn.com" site_id="APL" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
     <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
-    <channel update="i" site="osn.com" site_id="OHD" xmltv_id="Outdoor HD">Outdoor HD</channel>
-    <channel update="i" site="osn.com" site_id="SPH" xmltv_id="OSN Sports 1 HD">OSN Sports 1 HD</channel>
-    <channel update="i" site="osn.com" site_id="SP2" xmltv_id="OSN Sports 2 HD">OSN Sports 2 HD</channel>
+    <channel update="i" site="osn.com" site_id="SPH" xmltv_id="OSN Sports Action 1 HD">OSN Sports Action 1 HD</channel>
+    <channel update="i" site="osn.com" site_id="SP2" xmltv_id="OSN Sports Action 2 HD">OSN Sports Action 2 HD</channel>
     <channel update="i" site="osn.com" site_id="SP3" xmltv_id="OSN Sports 3 HD">OSN Sports 3 HD</channel>
     <channel update="i" site="osn.com" site_id="SP4" xmltv_id="OSN Sports 4 HD">OSN Sports 4 HD</channel>
+    <channel update="i" site="osn.com" site_id="SP5" xmltv_id="OSN Sports 5 HD">OSN Sports 5 HD</channel>
     <channel update="i" site="osn.com" site_id="WWE" xmltv_id="OSN WWE Network HD">OSN WWE Network HD</channel>
     <channel update="i" site="osn.com" site_id="CRI" xmltv_id="OSN Sports Cricket HD">OSN Sports Cricket HD</channel>
     <channel update="i" site="osn.com" site_id="TCR" xmltv_id="Ten Cricket International">Ten Cricket International</channel>
     <channel update="i" site="osn.com" site_id="FNW" xmltv_id="OSN Fight Network HD">OSN Fight Network HD</channel>
     <channel update="i" site="osn.com" site_id="FUE" xmltv_id="Fuel TV">Fuel TV</channel>
-	  <channel update="i" site="invision.com.sa" site_id="670##page=1" xmltv_id="AD Sport 1">AD Sports 1 HD</channel>
-    <channel update="i" site="invision.com.sa" site_id="671##page=1" xmltv_id="AD Sport 2">AD Sports 2 HD</channel>
+    <channel update="i" site="osn.com" site_id="GNX" xmltv_id="Ginx Esports TV HD">Ginx Esports TV HD</channel>
     <channel update="i" site="osn.com" site_id="AD3" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
     <channel update="i" site="osn.com" site_id="AD4" xmltv_id="AD Sports 4 HD">AD Sports 4 HD</channel>
     <channel update="i" site="osn.com" site_id="AD5" xmltv_id="AD Sports 5 HD">AD Sports 5 HD</channel>

@@ -140,7 +140,7 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="elcinema.ar.com" site_id="1274" xmltv_id="ITV Choice">ITV Choice</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1255" xmltv_id="OSN First HBO">OSN First HBO</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1233" xmltv_id="Fan">Fan</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1168" xmltv_id="LBC International">LBC International</channel>
+    <!-- <channel update="i" site="elcinema.ar.com" site_id="1168" xmltv_id="LBC International">LBC International</channel> -->
     <channel update="i" site="elcinema.ar.com" site_id="1277" xmltv_id="Disney channel">Disney channel</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1220" xmltv_id="CBC +2">CBC +2</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1276" xmltv_id="TLC">TLC</channel>

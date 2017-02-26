@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow:
+Disallow: */search
+
+Sitemap: http://www.osn.com/sitemap.xml

@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 15/02/2017 01:05:59
+[        ] Job started at 25/02/2017 11:55:45
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.4.38.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -16,10 +16,11 @@
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /home/pi/wg++/tmp/WebGrab++.config.xml
-[Warning ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
-[  Debug ] Reading cookie file: /home/pi/wg++/tmp/elcinema.com_cookies.txt
-[  Info  ] found: /home/pi/wg++/tmp/elcinema.ar.com.ini -- Revision 05
-[  Info  ] input file /home/pi/wg++/tmp/epg.xmltv not found   ... created a new one ... 
+[Warning ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Info  ] found: /home/pi/wg++/tmp/osn.com.ini -- Revision 07
+[  Debug ] xmltv input file - /home/pi/wg++/tmp/epg.xmltv - found
+[  Debug ] 0 superfluous shows removed
+[Error   ] Could find existing channel (xmltv_id=OSN Movies HD) in the config file
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -28,13 +29,175 @@
 [  Info  ] Group (0) :
 [  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
 [  Debug ] 
-[  Info  ] (   1/1   ) ELCINEMA.AR.COM -- chan. (xmltv_id=Alhayat Series) -- mode Incremental
+[  Info  ] (   1/1   ) OSN.COM -- chan. (xmltv_id=OSN Movies HD) -- mode Incremental
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
+[  Debug ]    skipped show without a title at 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 24 shows in 1 channels
+[  Debug ] 0 shows in 1 channels
 [  Debug ] 0 updated shows
-[  Debug ] 24 new shows added
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 15/02/2017 01:06:26 done in 27s
-[  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.
+[        ] Job finished at 25/02/2017 11:56:00 done in 15s
+[  Debug ] statistics upload error: The request timed out

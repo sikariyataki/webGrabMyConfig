@@ -1,4 +1,5 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 15/02/2017
+#  Saved by WG++ 25/02/2017
 
-www.seevii.com	False	/	False	-62135600400	PHPSESSID	k14km243qsqfhr21ce9t1dn426
+www.osn.com	False	/	False	-62135600400	ASP.NET_SessionId	nfzyhxi0uj3lznhvkzvpoure
+www.osn.com	False	/	False	1488020273	NSC_PTO-MJWF-IUUQ	ffffffffaf031e2345525d5f4f58455e445a4a423660

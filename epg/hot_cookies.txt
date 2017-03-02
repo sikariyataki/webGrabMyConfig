@@ -2,5 +2,5 @@
 #  Saved by WG++ 02/03/2017
 
 www.cinemagia.ro	False	/	False	-62135600400	SERVERID	C
-cinemagia.ro	False	/	False	-62135600400	ses_id	0i0sjpp22id1ujinoqe3qtd8j5
-cinemagia.ro	False	/	False	1519957995	_cukey	148842199527445
+cinemagia.ro	False	/	False	-62135600400	ses_id	lkhdpjfqqsnbjalh6esl0req55
+cinemagia.ro	False	/	False	1519982074	_cukey	148844607453459

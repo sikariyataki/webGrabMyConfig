@@ -111,7 +111,11 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="elcinema.ar.com" site_id="1279" xmltv_id="Sada El Balad  +2">Sada El Balad +2</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1177" xmltv_id="Sama Dubai">Sama Dubai</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1239" xmltv_id="MBC Egypt">MBC Egypt</channel>
+    <channel update="i" site="mbc.net.ar" site_id="mbc-masr" xmltv_id="Mbc Masr">Mbc Masr</channel>
+    <!--<channel update="i" site="mbc.net.ar" site_id="mbc-masr-2" xmltv_id="Mbc Masr 2">Mbc Masr 2</channel>-->
     <channel update="i" site="elcinema.ar.com" site_id="1278" xmltv_id="MBC MASR 2">MBC MASR 2</channel>
+    <channel update="i" site="mbc.net.ar" site_id="mbcDrama-plus" xmltv_id="MBC Drama Plus">MBC Drama Plus</channel>
+
     <channel update="i" site="mbc.net.ar" site_id="Mbc-PRO-SPORTS-1" xmltv_id="Mbc PRO SPORTS 1">MBC PRO Sports 1</channel>
     <channel update="i" site="mbc.net.ar" site_id="Mbc-PRO-SPORTS-2" xmltv_id="Mbc PRO SPORTS 2">MBC PRO Sports 2</channel>
     <channel update="i" site="invision.com.sa" site_id="754##page=8" xmltv_id="MBC Pro Sports 3 HD">MBC Pro Sports 3</channel>

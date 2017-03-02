@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 25/02/2017 11:55:45
+[        ] Job started at 02/03/2017 09:09:20
 [  Debug ] 
 [  Debug ] Running  on: Unix 4.4.38.7
 [  Debug ] Environment: 4.0.30319.17020
@@ -16,11 +16,10 @@
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
 [  Debug ] Reading config file: /home/pi/wg++/tmp/WebGrab++.config.xml
-[Warning ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
-[  Info  ] found: /home/pi/wg++/tmp/osn.com.ini -- Revision 07
+[  Info  ] found: /home/pi/wg++/tmp/mbc.net.ar.ini -- Revision 01
 [  Debug ] xmltv input file - /home/pi/wg++/tmp/epg.xmltv - found
 [  Debug ] 0 superfluous shows removed
-[Error   ] Could find existing channel (xmltv_id=OSN Movies HD) in the config file
+[Error   ] Could find existing channel (xmltv_id=Mbc PRO SPORTS 2) in the config file
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -29,175 +28,20 @@
 [  Info  ] Group (0) :
 [  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
 [  Debug ] 
-[  Info  ] (   1/1   ) OSN.COM -- chan. (xmltv_id=OSN Movies HD) -- mode Incremental
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Debug ]    skipped show without a title at 
-[  Info  ] 
+[  Info  ] (   1/1   ) MBC.NET.AR -- chan. (xmltv_id=Mbc PRO SPORTS 2) -- mode Incremental
+[  Info  ] 0.00 sec/update
+[  Info  ]    Summary for update of       Mbc PRO SPORTS 2
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+[  Info  ]      elapstime / updated show  0.01 seconds
 [  Debug ] 
-[  Debug ] 0 shows in 1 channels
+[  Debug ] 26 shows in 1 channels
 [  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 26 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 25/02/2017 11:56:00 done in 15s
-[  Debug ] statistics upload error: The request timed out
+[        ] Job finished at 02/03/2017 09:09:31 done in 10s
+[  Debug ] statistics upload error: The remote server returned an error: (500) Internal Server Error.

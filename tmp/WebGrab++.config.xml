@@ -95,7 +95,9 @@ If one of these values is entered here it will apply to all channels selected fo
 If no value is entered here the individual 'update' values from the channellist are taken 
 -->
   <update>i</update>
-  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
+  <!--<channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>  -->
+   <channel update="i" site="mbc.net.ar" site_id="Mbc-PRO-SPORTS-2" xmltv_id="Mbc PRO SPORTS 2">MBC PRO Sports 2</channel>
+
      <!-- <channel update="i" site="elcinema.ar.com" site_id="1138" xmltv_id="Alhayat Series">Alhayat Series</channel> -->
 	<!-- <channel update="i" site="guidatv.sky.it" site_id="sky-sport24-hd" xmltv_id="Sky Sport24 HD">Sky Sport24 HD</channel> -->
     <!-- <channel update="i" site="guidatv.sky.it" site_id="sky-sport-1-hd" xmltv_id="Sky Sport 1 HD">Sky Sport 1 HD</channel> -->

@@ -1,7 +1,7 @@
 #  Cookies for domains related to elcinema.com
-#  Updated by WG++ 28/02/2017
+#  Updated by WG++ 04/03/2017
 
 .elcinema.com	TRUE	/	FALSE	1488850204	__auc	ee07f1fb15314dbc1eabd564cb4
-.elcinema.com	TRUE	/	FALSE	1488591005	_gat	1
+.elcinema.com	TRUE	/	FALSE	1489195804	_gat	1
 www.elcinema.com	FALSE	/	FALSE	0	_elcinema-web_session	VXdib2lxVkw4MDIwQm1ZSkVkWUZSQmZaMFQzVlNQWUNWNGQ3T2RRL0lOYkxSYytHRUhTU1ZwMEdGVHluK1czRDR0MWFzL3g0TE1zQTM3c1pWM2JCUm9ad0hJVkEyd0hRN2YxdVpsM05Bb0E3MnhZL1ZQdEsrdmdJSSt4K2dDZ214TGVjaGZaSDFia0dxV0dHeldwU1Z3PT0tLXBpQ0RSOU1JQ055Z1NnV0hKT3ZzMnc9PQ%3D%3D--9e8101b4e9d06799219fa109542c0afa48f552c0
 .elcinema.com	TRUE	/	FALSE	1545502961	_ga	GA1.2.1331820293.1456343859

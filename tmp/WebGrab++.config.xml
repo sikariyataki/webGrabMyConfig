@@ -19,7 +19,7 @@ v or verify   verifies the result following a channel update
 w or wget     use wget as grab engine (might improve site recognition in rare cases)
 Note that modes can be added in one line, separated by comma's or spaces, or both. 
 -->
-  <mode>m</mode>
+  <mode>d</mode>
   
   <!-- postprocess:
   Optional , specifies which of the available postprocesses should run.
@@ -72,7 +72,7 @@ The second m : if a show is less or equal than m minutes it is probably an annou
 When entered as <skip></skip> the defaults are 12 hours, 1 minute, same as <skip>12,1</skip>. To disable this function enter  or just leave out this entry completely<skip>14, 1</skip><skip>16,1</skip>
 -->
   
-<skip>12,1</skip>
+<skip>12</skip>
   
   <!--timespan
 The timespan for which shows will be grabbed.
@@ -83,7 +83,7 @@ which is scheduled around the specified time. Any value between start time (incl
 stop time will do
 This -one-show-only mode is helpfull if a SiteIni file needs to be debugged
 -->
-  <timespan>0</timespan>
+  <timespan>1</timespan>
 
   <!-- update mode
 i or incremental     only updates of changes , gabs, repairs and new shows
@@ -96,7 +96,8 @@ If no value is entered here the individual 'update' values from the channellist 
 -->
   <update>i</update>
   <!--<channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>  -->
-   <channel update="i" site="mbc.net.ar" site_id="Mbc-PRO-SPORTS-2" xmltv_id="Mbc PRO SPORTS 2">MBC PRO Sports 2</channel>
+  <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel>
+   <channel update="i" site="bein.net" site_id="mena_sports/HD3" xmltv_id="HD3">HD3</channel>
 
      <!-- <channel update="i" site="elcinema.ar.com" site_id="1138" xmltv_id="Alhayat Series">Alhayat Series</channel> -->
 	<!-- <channel update="i" site="guidatv.sky.it" site_id="sky-sport24-hd" xmltv_id="Sky Sport24 HD">Sky Sport24 HD</channel> -->

@@ -142,6 +142,14 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="bein.net" site_id="mena_sports/global" xmltv_id="global">Bein global</channel>
 	  <channel update="i" site="bein.net" site_id="us_sports/global" xmltv_id="global_us">Bein global (us)</channel>
     <channel update="i" site="bein.net" site_id="us_sports/spanish" xmltv_id="spanish">Bein sports (es)</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/hd3" xmltv_id="fr_3">Bein sports 3 (fr)</channel>	
+	  <channel update="i" site="bein.net" site_id="france_sports/4MAX" xmltv_id="4MAX">Bein sports max 4</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/5MAX" xmltv_id="5MAX">Bein sports max 5</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/6MAX" xmltv_id="6MAX">Bein sports max 6</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/7MAX" xmltv_id="7MAX">Bein sports max 7</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/8MAX" xmltv_id="8MAX">Bein sports max 8</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/9MAX" xmltv_id="9MAX">Bein sports max 9</channel>
+    <channel update="i" site="bein.net" site_id="france_sports/10MAX" xmltv_id="10MAX">Bein sports max 10</channel>
 	<!--<channel update="i" site="bein.net" site_id="mena_sports/MAX1" xmltv_id="ar_max1">Bein sports max 1 (ar)</channel>-->
     <!--<channel update="i" site="bein.net" site_id="mena_sports/MAX2" xmltv_id="ar_max2">Bein sports max 2 (ar)</channel>-->
     <!--<channel update="i" site="bein.net" site_id="mena_sports/MAX3" xmltv_id="ar_max3">Bein sports max 3 (ar)</channel>-->
@@ -161,9 +169,9 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="bein.net" site_id="mena_entertaintment/baby_tv" xmltv_id="baby_tv">Baby tv</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/jeem" xmltv_id="jeem">Jeem</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/baraem" xmltv_id="baraem">Baraem</channel> 
-    <channel update="i" site="bein.net" site_id="france_sports/hd3" xmltv_id="fr_3">Bein sports 3 (fr)</channel>	
-	
-	  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel><channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
+
+	  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
+    <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
     <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD +2h">OSN Movies First HD +2h</channel>
     <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
     <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>

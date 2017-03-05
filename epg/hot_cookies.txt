@@ -1,6 +1,6 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 03/03/2017
+#  Saved by WG++ 05/03/2017
 
-www.cinemagia.ro	False	/	False	-62135600400	SERVERID	B
-cinemagia.ro	False	/	False	-62135600400	ses_id	ohghjji640v3123ipvqc2sbaf4
-cinemagia.ro	False	/	False	1520044466	_cukey	148850846691105
+www.cinemagia.ro	False	/	False	-62135600400	SERVERID	A
+cinemagia.ro	False	/	False	-62135600400	ses_id	31r61mjo3gkgfh885vbjlj0o41
+cinemagia.ro	False	/	False	1520217030	_cukey	148868103098423

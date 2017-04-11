@@ -1,0 +1,16 @@
+﻿User-agent: *
+Disallow: /admin/
+Disallow: /account/
+Disallow: /box/
+Disallow: /widget/
+Disallow: /cumpara-bilet/
+Disallow: /bilete/
+Disallow: /club/profil/
+Disallow: /club/pagina-mea/
+Disallow: /club/mesaje/
+Disallow: /jinglebells/
+
+User-agent: bingbot
+Disallow: /program-tv/filme-la-tv/filme-*
+
+
